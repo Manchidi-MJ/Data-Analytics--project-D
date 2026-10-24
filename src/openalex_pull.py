@@ -27,6 +27,32 @@ from tqdm import tqdm
 sys.path.insert(0, "src")
 import config
 
+# How long to pause between pages (seconds). OpenAlex is happiest ~1 req/sec.
+PAGE_PAUSE = 1.0
+# Retry settings for transient errors (429 rate-limit, 401 throttle, 5xx).
+MAX_RETRIES = 6
+RETRYABLE_STATUS = {401, 429, 500, 502, 503, 504}
+
+
+def get_with_retry(url: str, params: dict) -> requests.Response:
+    """GET with exponential backoff on transient errors (429/401/5xx)."""
+    delay = 2.0
+    for attempt in range(1, MAX_RETRIES + 1):
+        resp = requests.get(url, params=params, timeout=90)
+        if resp.status_code not in RETRYABLE_STATUS:
+            resp.raise_for_status()
+            return resp
+        # transient: wait and retry
+        wait = delay * attempt
+        tqdm.write(
+            f"  {resp.status_code} from OpenAlex — backing off {wait:.0f}s "
+            f"(attempt {attempt}/{MAX_RETRIES})"
+        )
+        time.sleep(wait)
+    # out of retries
+    resp.raise_for_status()
+    return resp
+
 RAW_PATH = "data/raw/openalex_works.jsonl"
 META_PATH = "data/raw/pull_metadata.json"
 
@@ -90,8 +116,7 @@ def pull() -> None:
 
     # First request: get total + first cursor.
     params = dict(base, cursor="*")
-    r = requests.get(config.OPENALEX_WORKS_URL, params=params, timeout=90)
-    r.raise_for_status()
+    r = get_with_retry(config.OPENALEX_WORKS_URL, params)
     payload = r.json()
     total = payload["meta"]["count"]
 
@@ -113,10 +138,9 @@ def pull() -> None:
             if not next_cursor:
                 break
 
-            time.sleep(0.1)  # be polite
+            time.sleep(PAGE_PAUSE)  # be polite — ~1 request/second
             params = dict(base, cursor=next_cursor)
-            r = requests.get(config.OPENALEX_WORKS_URL, params=params, timeout=90)
-            r.raise_for_status()
+            r = get_with_retry(config.OPENALEX_WORKS_URL, params)
             payload = r.json()
 
     meta = {
@@ -138,8 +162,7 @@ def pull() -> None:
 
 def count_only() -> None:
     params = {"filter": config.build_filter(), "per-page": 1, "mailto": config.MAILTO}
-    r = requests.get(config.OPENALEX_WORKS_URL, params=params, timeout=60)
-    r.raise_for_status()
+    r = get_with_retry(config.OPENALEX_WORKS_URL, params)
     print(f"{r.json()['meta']['count']:,} works match the filter.")
 
 
