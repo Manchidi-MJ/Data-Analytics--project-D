@@ -904,3 +904,85 @@ Record any further filtering decisions in the project documentation.
 
 
 15⋮⋮⋮⋮
+
+
+# Project D: Descriptive Analysis (RQ1 and RQ2)
+
+**Author / role:** [Dev Charan]
+
+Project question: *Who drives AI-in-education research in Europe?*
+This README documents the descriptive analysis I did on top of the prepared data (see `README_data_preparation.md` for how the data was collected and cleaned).
+
+## 1. What I did
+
+1. Used the prepared files in `project-d/data/processed/` (not the raw data).
+2. **RQ1:** ranked EU institutions, EU countries and publication venues by paper count.
+3. **RQ2:** analysed yearly trends (2020 to 2026) and compared the broad ALL set with the provisional STRICT (Scopus) set, including the share of ALL kept in STRICT each year.
+4. Ran a sensitivity check: recomputed the institution ranking using only papers flagged "Likely relevant" by the keyword screen.
+5. Wrote the analysis script, the report and the presentation slides.
+
+## 2. Input files used
+
+| File | Used for |
+|---|---|
+| `eu_institution_paper_counts.csv` | Institution ranking (RQ1) |
+| `publication_counts_by_country.csv` | Country ranking (RQ1) |
+| `strict_scopus_provisional.csv` | Venue ranking (RQ1); the only file with venue names |
+| `all_vs_strict_by_year.csv` | Yearly trend and STRICT share (RQ2) |
+| `openalex_relevance_screened.csv` | Relevance flag for the sensitivity check |
+| `eu_paper_institution_affiliations.csv` | Paper-to-institution links for the sensitivity check |
+
+## 3. Outputs
+
+| File | Description |
+|---|---|
+| `rq1_rq2_analysis.py` | Script that reproduces every table and figure |
+| `data/processed/deliverables/*.csv` | Result tables (top institutions, countries, venues, journals, yearly ALL vs STRICT, relevance-filtered institutions) |
+| `data/processed/deliverables/fig_*.png` | Figures (institutions, countries, journals, yearly trend, STRICT share) |
+| `ProjectD_RQ1_RQ2_slides.pptx` | 9-slide presentation |
+| Report document | Written RQ1 and RQ2 sections with limitations |
+
+## 4. How to run
+
+```bash
+pip install pandas matplotlib
+python rq1_rq2_analysis.py path/to/project-d
+```
+
+The script prints the tables and key facts and saves results to `data/processed/deliverables/`. In Jupyter, set `PROJECT` at the top of the script instead of passing an argument.
+
+## 5. Main results
+
+**Dataset:** 7,594 ALL candidate papers, 3,668 provisional STRICT papers (48.3% kept), 2,489 EU institutions, 27 EU countries.
+
+**RQ1**
+- Top institutions: University of Eastern Finland (96), CNRS (93), University of Bonn (86), Leibniz University Hannover (80), TU Munich (78).
+- Top countries: Germany (1,382), Spain (1,137), Italy (908), France (560), Greece (481).
+- Output is skewed: the median institution has 2 papers; 361 of 2,489 have 10 or more.
+- Venues (STRICT only): 1,402 venues, top ten cover 20% of records. Springer proceedings book series are largest; leading journals are Education Sciences (84), Frontiers in Education (75), Applied Sciences (68).
+
+**RQ2**
+- ALL output rose from 329 (2020) to 2,062 (2025), more than sixfold, with the largest jumps in 2023 (+73%) and 2024 (+80%).
+- The timing coincides with the release of generative AI tools; counts alone cannot show causation.
+- STRICT share falls from about 56% (2021 to 2022) to 46% (2026) but follows the same trend shape as ALL.
+
+**Sensitivity check:** with only "Likely relevant" papers, the University of Eastern Finland stays first; CNRS drops from 2nd to 5th and Salamanca leaves the top ten.
+
+## 6. Method decisions
+
+- **Institution counts:** each paper counted once per institution.
+- **Country counts:** full counting, so a multi-country paper counts for each country. The 27 counts sum to 9,050, more than the 7,594 papers.
+- **Venue results** cover the STRICT subset only, because venue names exist only in that file.
+- **Percentages** are computed from the CSV tables, not estimated.
+
+## 7. Limitations
+
+- 2026 is an incomplete year; its count and growth rate are not comparable with full years.
+- STRICT is provisional until the team confirms the Scopus inclusion rules.
+- The relevance screen is keyword-based and the manual audit is incomplete. The 7,594 papers are candidates, not confirmed AI-in-education papers. For example, *Alzheimer's & Dementia* has 43 STRICT records and is flagged as likely relevant.
+- Country counts overlap through co-authorship.
+- Institution names come from OpenAlex as given; variants of one organisation may be split.
+
+## 8. Short summary for the team
+
+> I did the descriptive analysis for RQ1 and RQ2 on the prepared data: rankings of institutions, countries and venues, yearly trends 2020 to 2026, and the ALL vs provisional STRICT comparison. Output grew more than sixfold from 2020 to 2025, Germany, Spain and Italy lead by country, and STRICT keeps 48% of records. The relevance screen is weak and STRICT is provisional, so these results should be treated as preliminary.
