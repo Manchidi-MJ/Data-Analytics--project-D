@@ -1,0 +1,2490 @@
+institution_id,institution,country_code,paper_count
+https://openalex.org/I175532246,University of Eastern Finland,FI,96
+https://openalex.org/I1294671590,Centre National de la Recherche Scientifique,FR,93
+https://openalex.org/I135140700,University of Bonn,DE,86
+https://openalex.org/I114112103,Leibniz University Hannover,DE,80
+https://openalex.org/I62916508,Technical University of Munich,DE,78
+https://openalex.org/I98381234,University of Oulu,FI,74
+https://openalex.org/I8204097,Ludwig-Maximilians-Universität München,DE,71
+https://openalex.org/I100930933,University College Dublin,IE,67
+https://openalex.org/I184999862,Universidad de Salamanca,ES,66
+https://openalex.org/I88491126,Bucharest University of Economic Studies,RO,64
+https://openalex.org/I4210136150,L3S Research Center,DE,64
+https://openalex.org/I8087733,University of Tübingen,DE,63
+https://openalex.org/I204337017,Aarhus University,DK,61
+https://openalex.org/I174878644,University of Patras,GR,60
+https://openalex.org/I133731052,University of Helsinki,FI,58
+https://openalex.org/I193662353,Utrecht University,NL,56
+https://openalex.org/I86987016,KTH Royal Institute of Technology,SE,55
+https://openalex.org/I69050122,Near East University,CY,55
+https://openalex.org/I121748325,Universidad Complutense de Madrid,ES,55
+https://openalex.org/I42934936,Dublin City University,IE,55
+https://openalex.org/I94722563,University of Jyväskylä,FI,52
+https://openalex.org/I124055696,University of Copenhagen,DK,52
+https://openalex.org/I71999127,Universitat de Barcelona,ES,51
+https://openalex.org/I5561750,University of Bari Aldo Moro,IT,51
+https://openalex.org/I99464096,KU Leuven,BE,49
+https://openalex.org/I9360294,University of Bologna,IT,48
+https://openalex.org/I181343428,University of Zagreb,HR,48
+https://openalex.org/I881427289,University of Gothenburg,SE,48
+https://openalex.org/I37696226,University of Maribor,SI,47
+https://openalex.org/I61641377,Universitatea Națională de Știință și Tehnologie Politehnica București,RO,47
+https://openalex.org/I194019607,University of Ioannina,GR,46
+https://openalex.org/I60858718,University of Aveiro,PT,46
+https://openalex.org/I131729948,University of Salerno,IT,46
+https://openalex.org/I182534213,Universidade do Porto,PT,46
+https://openalex.org/I182083151,Universidad Rey Juan Carlos,ES,46
+https://openalex.org/I161593684,Stockholm University,SE,45
+https://openalex.org/I4210155236,National Research Council,IT,45
+https://openalex.org/I21370196,Aristotle University of Thessaloniki,GR,45
+https://openalex.org/I861853513,Sapienza University of Rome,IT,45
+https://openalex.org/I71267560,University of Naples Federico II,IT,44
+https://openalex.org/I16097986,Universitat de València,ES,44
+https://openalex.org/I4210094138,University of West Attica,GR,44
+https://openalex.org/I7877124,Charité – Universitätsmedizin Berlin,DE,44
+https://openalex.org/I189158943,University of Milan,IT,43
+https://openalex.org/I138689650,University of Padua,IT,43
+https://openalex.org/I39343248,Humboldt-Universität zu Berlin,DE,43
+https://openalex.org/I200777214,National and Kapodistrian University of Athens,GR,43
+https://openalex.org/I865915315,Vrije Universiteit Amsterdam,NL,42
+https://openalex.org/I154526488,Inserm,FR,42
+https://openalex.org/I155660961,University of Turku,FI,42
+https://openalex.org/I27577105,University College Cork,IE,41
+https://openalex.org/I28166907,Karolinska Institutet,SE,41
+https://openalex.org/I4210116615,Universidad Internacional de La Rioja,ES,41
+https://openalex.org/I205274468,Trinity College Dublin,IE,41
+https://openalex.org/I34352273,Maastricht University,NL,40
+https://openalex.org/I98358874,Delft University of Technology,NL,40
+https://openalex.org/I231025917,Hellenic Open University,GR,40
+https://openalex.org/I9927081,Aalto University,FI,40
+https://openalex.org/I178450904,Universidad Nacional de Educación a Distancia,ES,39
+https://openalex.org/I17389662,University of Nicosia,CY,39
+https://openalex.org/I169108374,University of the Basque Country,ES,39
+https://openalex.org/I88060688,Universidad Politécnica de Madrid,ES,39
+https://openalex.org/I142617266,University of Crete,GR,39
+https://openalex.org/I55143463,University of Turin,IT,38
+https://openalex.org/I130194489,University of Alicante,ES,38
+https://openalex.org/I39804081,Sorbonne Université,FR,38
+https://openalex.org/I166825849,Tampere University,FI,38
+https://openalex.org/I145722265,University of Thessaly,GR,38
+https://openalex.org/I108103353,Universidad de Valladolid,ES,37
+https://openalex.org/I138847295,Universitat Oberta de Catalunya,ES,37
+https://openalex.org/I197854408,University of Malta,MT,37
+https://openalex.org/I153976015,University of Ljubljana,SI,37
+https://openalex.org/I173304897,Universidad de Granada,ES,37
+https://openalex.org/I887064364,University of Amsterdam,NL,37
+https://openalex.org/I103356709,Obuda University,HU,36
+https://openalex.org/I7876267,Open University of the Netherlands,NL,36
+https://openalex.org/I56085075,University of Tartu,EE,36
+https://openalex.org/I154757721,University of Piraeus,GR,36
+https://openalex.org/I159176309,Universität Hamburg,DE,35
+https://openalex.org/I176453806,University of Potsdam,DE,35
+https://openalex.org/I102134673,Linköping University,SE,35
+https://openalex.org/I75951250,Freie Universität Berlin,DE,35
+https://openalex.org/I93860229,Politecnico di Milano,IT,35
+https://openalex.org/I9617848,Universitat Politècnica de Catalunya,ES,34
+https://openalex.org/I170486558,Universitat Pompeu Fabra,ES,34
+https://openalex.org/I145872427,Radboud University Nijmegen,NL,34
+https://openalex.org/I141596103,University of Lisbon,PT,34
+https://openalex.org/I60053951,Universitat Politècnica de València,ES,34
+https://openalex.org/I4210125310,Pegaso University,IT,34
+https://openalex.org/I66752286,University of Milano-Bicocca,IT,33
+https://openalex.org/I79189158,University of Castilla-La Mancha,ES,33
+https://openalex.org/I4210144925,Technological University Dublin,IE,32
+https://openalex.org/I891191580,Aalborg University,DK,32
+https://openalex.org/I123044942,Universitat Autònoma de Barcelona,ES,32
+https://openalex.org/I62318514,University of Duisburg-Essen,DE,31
+https://openalex.org/I106296451,University of Foggia,IT,31
+https://openalex.org/I887968799,RWTH Aachen University,DE,31
+https://openalex.org/I108290504,University of Pisa,IT,31
+https://openalex.org/I120691247,FernUniversität in Hagen,DE,31
+https://openalex.org/I102335020,Karlsruhe Institute of Technology,DE,31
+https://openalex.org/I83558840,Universidade Nova de Lisboa,PT,30
+https://openalex.org/I177969490,University of Southern Denmark,DK,30
+https://openalex.org/I123387679,Uppsala University,SE,30
+https://openalex.org/I83816512,University of Genoa,IT,30
+https://openalex.org/I169381384,University of Groningen,NL,30
+https://openalex.org/I106118109,Eötvös Loránd University,HU,29
+https://openalex.org/I83019370,Eindhoven University of Technology,NL,29
+https://openalex.org/I79238269,Universidad de Sevilla,ES,29
+https://openalex.org/I4210085968,Leibniz Institute for Science and Mathematics Education,DE,29
+https://openalex.org/I4092182,Graz University of Technology,AT,29
+https://openalex.org/I223464139,Linnaeus University,SE,29
+https://openalex.org/I904495901,Ruhr University Bochum,DE,28
+https://openalex.org/I99682543,University of Minho,PT,27
+https://openalex.org/I201841394,Université Côte d'Azur,FR,27
+https://openalex.org/I4210165134,University of Kyrenia,CY,27
+https://openalex.org/I82767444,Universidad de Málaga,ES,27
+https://openalex.org/I147962203,Democritus University of Thrace,GR,27
+https://openalex.org/I98805295,University of the Aegean,GR,26
+https://openalex.org/I94624287,University of Twente,NL,26
+https://openalex.org/I4210136227,LUM Jean Monnet University,IT,26
+https://openalex.org/I190632392,Luleå University of Technology,SE,26
+https://openalex.org/I187531555,Lund University,SE,26
+https://openalex.org/I32597200,Ghent University,BE,26
+https://openalex.org/I186903577,University of Luxembourg,LU,26
+https://openalex.org/I53110688,University of Córdoba,ES,26
+https://openalex.org/I193629610,Tallinn University,EE,26
+https://openalex.org/I193223587,University of Trento,IT,25
+https://openalex.org/I83863532,Universidade Técnica do Porto,PT,25
+https://openalex.org/I92251255,University of Split,HR,25
+https://openalex.org/I90183372,Université de Lorraine,FR,24
+https://openalex.org/I121797337,Leiden University,NL,24
+https://openalex.org/I21250087,Charles University,CZ,24
+https://openalex.org/I50357001,Universidad Carlos III de Madrid,ES,24
+https://openalex.org/I189268942,Universidad de Alcalá,ES,24
+https://openalex.org/I63634437,Universidad Autónoma de Madrid,ES,24
+https://openalex.org/I4210151833,Amsterdam University Medical Centers,NL,24
+https://openalex.org/I122346577,University of Modena and Reggio Emilia,IT,23
+https://openalex.org/I91712215,Saarland University,DE,23
+https://openalex.org/I277688954,Université Paris-Saclay,FR,23
+https://openalex.org/I1326498283,Institut national de recherche en sciences et technologies du numérique,FR,23
+https://openalex.org/I192878625,Plovdiv University,BG,23
+https://openalex.org/I45084792,University of Florence,IT,23
+https://openalex.org/I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,23
+https://openalex.org/I31151848,Technical University of Sofia,BG,23
+https://openalex.org/I190249584,Universität Innsbruck,AT,23
+https://openalex.org/I78650965,Technische Universität Dresden,DE,22
+https://openalex.org/I75092371,University of Hradec Králové,CZ,22
+https://openalex.org/I74656192,University of Göttingen,DE,22
+https://openalex.org/I66862912,Chalmers University of Technology,SE,22
+https://openalex.org/I56475706,Mid Sweden University,SE,22
+https://openalex.org/I39063666,University of Catania,IT,22
+https://openalex.org/I4210092303,Universidade Politécnica de Bragança,PT,22
+https://openalex.org/I177802217,University of Mannheim,DE,22
+https://openalex.org/I3018483916,University Medical Center Utrecht,NL,22
+https://openalex.org/I4210166615,INESC TEC,PT,22
+https://openalex.org/I13469542,Vrije Universiteit Brussel,BE,22
+https://openalex.org/I174458059,National Technical University of Athens,GR,22
+https://openalex.org/I913958620,Erasmus University Rotterdam,NL,21
+https://openalex.org/I20121455,Bielefeld University,DE,21
+https://openalex.org/I4210136238,Leibniz-Institut für Wissensmedien,DE,21
+https://openalex.org/I21449261,Masaryk University,CZ,21
+https://openalex.org/I172574986,Kaunas University of Technology,LT,21
+https://openalex.org/I58918642,"Sofia University ""St. Kliment Ohridski""",BG,21
+https://openalex.org/I180923762,University of Cologne,DE,20
+https://openalex.org/I96673099,Technical University of Denmark,DK,20
+https://openalex.org/I26415053,University of L'Aquila,IT,20
+https://openalex.org/I180437899,University of Bremen,DE,20
+https://openalex.org/I15057530,Université de Bordeaux,FR,20
+https://openalex.org/I76903346,University of Coimbra,PT,20
+https://openalex.org/I4387153886,University of Tampere,FI,20
+https://openalex.org/I183898223,International Hellenic University,GR,20
+https://openalex.org/I110026055,Iscte – Instituto Universitário de Lisboa,PT,20
+https://openalex.org/I80606768,Universidad de Extremadura,ES,20
+https://openalex.org/I3121153395,West University of Timişoara,RO,20
+https://openalex.org/I22465464,University of Münster,DE,20
+https://openalex.org/I188760350,Ollscoil na Gaillimhe – University of Galway,IE,20
+https://openalex.org/I180519160,Copenhagen Business School,DK,19
+https://openalex.org/I200763008,Justus-Liebig-Universität Gießen,DE,19
+https://openalex.org/I3125347698,Babeș-Bolyai University,RO,19
+https://openalex.org/I4210138519,DIPF | Leibniz Institute for Research and Information in Education,DE,19
+https://openalex.org/I197518295,IZA - Institute of Labor Economics,DE,19
+https://openalex.org/I141595442,University of Bucharest,RO,19
+https://openalex.org/I33256026,German Research Centre for Artificial Intelligence,DE,19
+https://openalex.org/I45204951,University of Calabria,IT,19
+https://openalex.org/I255234318,Universidad de Zaragoza,ES,19
+https://openalex.org/I1293226324,UNESCO,FR,19
+https://openalex.org/I2801952686,Erasmus MC,NL,19
+https://openalex.org/I200332995,TU Dortmund University,DE,18
+https://openalex.org/I126596746,Jagiellonian University,PL,18
+https://openalex.org/I114090438,Goethe University Frankfurt,DE,18
+https://openalex.org/I177477856,Politecnico di Torino,IT,18
+https://openalex.org/I138164181,Alexandru Ioan Cuza University,RO,18
+https://openalex.org/I44504214,Czech Technical University in Prague,CZ,18
+https://openalex.org/I121883995,Johannes Kepler University of Linz,AT,18
+https://openalex.org/I4654613,University of Warsaw,PL,18
+https://openalex.org/I10902133,Universitat Jaume I,ES,18
+https://openalex.org/I68956291,Martin Luther University Halle-Wittenberg,DE,18
+https://openalex.org/I6289922,Universidade de Vigo,ES,18
+https://openalex.org/I90267481,Umeå University,SE,18
+https://openalex.org/I55952717,Universitat Rovira i Virgili,ES,18
+https://openalex.org/I900890020,University of Palermo,IT,17
+https://openalex.org/I3123573182,Transilvania University of Brașov,RO,17
+https://openalex.org/I161321875,University of Beira Interior,PT,17
+https://openalex.org/I52354020,University of Almería,ES,17
+https://openalex.org/I4210165014,Universidade Politécnica de Portalegre,PT,17
+https://openalex.org/I46176106,Universidad de Burgos,ES,17
+https://openalex.org/I165339363,Universidad de Oviedo,ES,17
+https://openalex.org/I103320735,Università Cattolica del Sacro Cuore,IT,17
+https://openalex.org/I230495080,University of Limerick,IE,17
+https://openalex.org/I2801357902,Instituto de Salud Carlos III,ES,17
+https://openalex.org/I97553796,University of Craiova,RO,17
+https://openalex.org/I111112146,Tallinn University of Technology,EE,17
+https://openalex.org/I4210145102,Institut Polytechnique de Paris,FR,16
+https://openalex.org/I25974101,University of Würzburg,DE,16
+https://openalex.org/I192756129,University of Macedonia,GR,16
+https://openalex.org/I59746437,Open University of Cyprus,CY,16
+https://openalex.org/I158333966,Technical University of Cluj-Napoca,RO,16
+https://openalex.org/I172446870,University of Cagliari,IT,16
+https://openalex.org/I116067653,University of Rome Tor Vergata,IT,16
+https://openalex.org/I76198965,Friedrich Schiller University Jena,DE,16
+https://openalex.org/I2802557943,Agostino Gemelli University Polyclinic,IT,16
+https://openalex.org/I119003972,Roma Tre University,IT,16
+https://openalex.org/I132976966,Universität für Weiterbildung Krems,AT,16
+https://openalex.org/I204730241,Université Paris Cité,FR,16
+https://openalex.org/I145847075,TU Wien,AT,16
+https://openalex.org/I158438070,Universidad de La Laguna,ES,15
+https://openalex.org/I43986944,Angel Kanchev University of Ruse,BG,15
+https://openalex.org/I157286207,"National University of Ireland, Maynooth",IE,15
+https://openalex.org/I51314090,University of Osijek,HR,15
+https://openalex.org/I913481162,Wageningen University & Research,NL,15
+https://openalex.org/I25217355,University of Pavia,IT,15
+https://openalex.org/I91123046,University of Latvia,LV,15
+https://openalex.org/I129774422,University of Vienna,AT,15
+https://openalex.org/I56067802,Université de Rennes,FR,15
+https://openalex.org/I129877168,Carl von Ossietzky Universität Oldenburg,DE,15
+https://openalex.org/I4210153204,Universidade Portucalense,PT,15
+https://openalex.org/I119439378,University of Verona,IT,15
+https://openalex.org/I11019714,Universidade da Coruña,ES,15
+https://openalex.org/I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,IT,15
+https://openalex.org/I186354981,University of Passau,DE,15
+https://openalex.org/I120832542,Eszterhazy Karoly Catholic University,HU,15
+https://openalex.org/I74788687,Comenius University Bratislava,SK,15
+https://openalex.org/I223822909,Heidelberg University,DE,15
+https://openalex.org/I193700539,Tilburg University,NL,15
+https://openalex.org/I96580804,Universidad Pontificia Comillas,ES,14
+https://openalex.org/I95793202,Otto-von-Guericke-Universität Magdeburg,DE,14
+https://openalex.org/I100532134,Lyon 1 Université,FR,14
+https://openalex.org/I108403487,Warsaw University of Technology,PL,14
+https://openalex.org/I96221595,University of Dunaújváros,HU,14
+https://openalex.org/I2802567020,Copenhagen University Hospital,DK,14
+https://openalex.org/I4405258862,Université de Toulouse,FR,14
+https://openalex.org/I3123915005,Universitat Internacional de Catalunya,ES,14
+https://openalex.org/I89506807,University of Western Macedonia,GR,14
+https://openalex.org/I2279609970,Université de Lille,FR,14
+https://openalex.org/I2799414453,Higher Education Authority,IE,14
+https://openalex.org/I911458345,Amsterdam UMC Location Vrije Universiteit Amsterdam,NL,14
+https://openalex.org/I95013407,Universidad Pablo de Olavide,ES,14
+https://openalex.org/I80180929,Universidad de Murcia,ES,14
+https://openalex.org/I306340464,Constantine the Philosopher University in Nitra,SK,14
+https://openalex.org/I4210086570,Heidelberg University of Education,DE,14
+https://openalex.org/I2800006345,Leiden University Medical Center,NL,13
+https://openalex.org/I64935225,Bratislava University of Economics and Business,SK,13
+https://openalex.org/I926574661,Leipzig University,DE,13
+https://openalex.org/I2800191616,Maastricht University Medical Centre,NL,13
+https://openalex.org/I132735039,University of Debrecen,HU,13
+https://openalex.org/I136040515,Universidad de Deusto,ES,13
+https://openalex.org/I24768866,Bulgarian Academy of Sciences,BG,13
+https://openalex.org/I119004910,Silesian University of Technology,PL,13
+https://openalex.org/I2802709434,Rigshospitalet,DK,13
+https://openalex.org/I746986,Halmstad University,SE,13
+https://openalex.org/I206945453,Paderborn University,DE,13
+https://openalex.org/I191420491,Universidad de Jaén,ES,13
+https://openalex.org/I293362453,Universidade Politécnica de Coimbra,PT,13
+https://openalex.org/I187792471,Ionian University,GR,13
+https://openalex.org/I179225836,University of Augsburg,DE,13
+https://openalex.org/I118905719,University of Primorska,SI,13
+https://openalex.org/I34771391,University of Cyprus,CY,13
+https://openalex.org/I173212132,Vilnius University,LT,13
+https://openalex.org/I83579964,Széchenyi István University,HU,13
+https://openalex.org/I16197041,Cyprus International University,CY,13
+https://openalex.org/I2799787213,Alma Mater Europaea,SI,12
+https://openalex.org/I4665924,University of Rostock,DE,12
+https://openalex.org/I3018771216,LMU Klinikum,DE,12
+https://openalex.org/I95674353,UCLouvain,BE,12
+https://openalex.org/I899635006,Université Grenoble Alpes,FR,12
+https://openalex.org/I187293425,University of Ostrava,CZ,12
+https://openalex.org/I39387349,University of Chieti-Pescara,IT,12
+https://openalex.org/I4210148941,IU International University of Applied Sciences,DE,12
+https://openalex.org/I161046081,University of Freiburg,DE,12
+https://openalex.org/I4210123702,Laboratoire des Sciences et Techniques de l’Information de la Communication et de la Connaissance,FR,12
+https://openalex.org/I32021983,Christian-Albrechts-Universität zu Kiel,DE,12
+https://openalex.org/I44260953,Heinrich Heine University Düsseldorf,DE,12
+https://openalex.org/I33800924,Academia Oamenilor de Știință din România,RO,12
+https://openalex.org/I149461666,Ca' Foscari University of Venice,IT,12
+https://openalex.org/I167420956,Vilnius Gediminas Technical University,LT,12
+https://openalex.org/I60668342,University of Regensburg,DE,12
+https://openalex.org/I864159182,University of Silesia in Katowice,PL,12
+https://openalex.org/I15766117,University of Graz,AT,11
+https://openalex.org/I4210097159,Assistance Publique – Hôpitaux de Paris,FR,11
+https://openalex.org/I155381812,University of Trás-os-Montes and Alto Douro,PT,11
+https://openalex.org/I144246526,University of Trnava,SK,11
+https://openalex.org/I119635470,Universidad de Las Palmas de Gran Canaria,ES,11
+https://openalex.org/I4210121786,Max Planck Institute for Software Systems,DE,11
+https://openalex.org/I177144353,Panteion University,GR,11
+https://openalex.org/I200284239,Universidade de Santiago de Compostela,ES,11
+https://openalex.org/I59411706,Adam Mickiewicz University in Poznań,PL,11
+https://openalex.org/I73142707,Athens University of Economics and Business,GR,11
+https://openalex.org/I134820265,Consejo Superior de Investigaciones Científicas,ES,11
+https://openalex.org/I121345201,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,PT,11
+https://openalex.org/I124121301,Lucian Blaga University of Sibiu,RO,11
+https://openalex.org/I4210100923,Munster Technological University,IE,11
+https://openalex.org/I4210166741,University of Klagenfurt,AT,11
+https://openalex.org/I216306336,J. Selye University,SK,11
+https://openalex.org/I4210114974,IMEC,BE,11
+https://openalex.org/I201787326,Riga Technical University,LV,11
+https://openalex.org/I201025148,Universidade Aberta,PT,11
+https://openalex.org/I4210134249,Centre for Research and Technology Hellas,GR,11
+https://openalex.org/I15766328,Universitat de Lleida,ES,11
+https://openalex.org/I163245316,Corvinus University of Budapest,HU,11
+https://openalex.org/I4210127572,IMT Atlantique,FR,11
+https://openalex.org/I32592955,Ludwigsburg University of Education,DE,11
+https://openalex.org/I202276237,Medical University of Graz,AT,11
+https://openalex.org/I1334415907,University Medical Center Groningen,NL,11
+https://openalex.org/I4210090220,Petroleum & Gas University of Ploieşti,RO,11
+https://openalex.org/I102248843,Vienna University of Economics and Business,AT,11
+https://openalex.org/I13134134,Universidad de Cantabria,ES,11
+https://openalex.org/I132053463,Université Libre de Bruxelles,BE,11
+https://openalex.org/I4577782,Technische Universität Berlin,DE,10
+https://openalex.org/I4210126294,Riga Stradiņš University,LV,10
+https://openalex.org/I168974976,Universidad de La Rioja,ES,10
+https://openalex.org/I124938932,University of Economics Varna,BG,10
+https://openalex.org/I4210139777,Berlin Institute of Health at Charité - Universitätsmedizin Berlin,DE,10
+https://openalex.org/I79741316,University of Pecs,HU,10
+https://openalex.org/I4391767784,Research Centre in Digitalization and Intelligent Robotics,PT,10
+https://openalex.org/I183764125,Technical University of Košice,SK,10
+https://openalex.org/I1339471597,Humanitas University,IT,10
+https://openalex.org/I4210157357,University of Ss. Cyril and Methodius in Trnava,SK,10
+https://openalex.org/I68947357,Université de Strasbourg,FR,10
+https://openalex.org/I2746051580,Université Paris Sciences et Lettres,FR,10
+https://openalex.org/I4210123225,Ruhr West University of Applied Sciences,DE,10
+https://openalex.org/I154347574,University of Rijeka,HR,10
+https://openalex.org/I94626330,University of Bamberg,DE,10
+https://openalex.org/I170658231,Osnabrück University,DE,10
+https://openalex.org/I4210122463,Neapolis University Pafos,CY,10
+https://openalex.org/I99542240,Polish Academy of Sciences,PL,10
+https://openalex.org/I102064193,University of Siena,IT,10
+https://openalex.org/I2802519937,Institut de Recherche en Informatique et Systèmes Aléatoires,FR,10
+https://openalex.org/I88596544,Universidade Lusófona,PT,10
+https://openalex.org/I8833935,Universidad de León,ES,10
+https://openalex.org/I113456305,Leuphana University of Lüneburg,DE,10
+https://openalex.org/I88155538,Universidad de Navarra,ES,10
+https://openalex.org/I106157433,University of Kassel,DE,10
+https://openalex.org/I4387152517,Instituto Superior Técnico,PT,10
+https://openalex.org/I39147953,Universidad de Cádiz,ES,10
+https://openalex.org/I188730046,Vytautas Magnus University,LT,10
+https://openalex.org/I112862951,University of Messina,IT,10
+https://openalex.org/I188922065,University of Economics in Katowice,PL,10
+https://openalex.org/I149213910,University of Antwerp,BE,10
+https://openalex.org/I878454856,Hasselt University,BE,10
+https://openalex.org/I4210122148,University of Education Freiburg,DE,10
+https://openalex.org/I2802934949,Radboud University Medical Center,NL,10
+https://openalex.org/I4387156359,South East Technological University,IE,9
+https://openalex.org/I36522303,Universität Greifswald,DE,9
+https://openalex.org/I157674565,University of Liège,BE,9
+https://openalex.org/I2800638415,University of Applied Sciences Potsdam,DE,9
+https://openalex.org/I108806672,Baden-Wuerttemberg Cooperative State University,DE,9
+https://openalex.org/I100066346,University of Stuttgart,DE,9
+https://openalex.org/I2802619606,TUM Klinikum,DE,9
+https://openalex.org/I1331168281,Ludovika University of Public Service,HU,9
+https://openalex.org/I20230540,University of Miskolc,HU,9
+https://openalex.org/I129043915,University of Udine,IT,9
+https://openalex.org/I197809005,"University of Campania ""Luigi Vanvitelli""",IT,9
+https://openalex.org/I79940851,University of Brescia,IT,9
+https://openalex.org/I4210115082,Centro de Investigación Biomédica en Red,ES,9
+https://openalex.org/I4210115097,Hospital Clínic de Barcelona,ES,9
+https://openalex.org/I206895457,University of Siegen,DE,9
+https://openalex.org/I201118511,European University Cyprus,CY,9
+https://openalex.org/I71503853,University of Algarve,PT,9
+https://openalex.org/I4210120221,Max Planck Institute for Human Development,DE,9
+https://openalex.org/I63548447,Lappeenranta-Lahti University of Technology,FI,9
+https://openalex.org/I130294970,Częstochowa University of Technology,PL,9
+https://openalex.org/I171892758,Forschungszentrum Jülich,DE,9
+https://openalex.org/I163151358,Cyprus University of Technology,CY,9
+https://openalex.org/I31512782,Technische Universität Darmstadt,DE,9
+https://openalex.org/I4210121838,Laboratoire Lorrain de Recherche en Informatique et ses Applications,FR,9
+https://openalex.org/I104588304,University of Szczecin,PL,9
+https://openalex.org/I173112312,Trakia University,BG,9
+https://openalex.org/I55133342,University of Macerata,IT,9
+https://openalex.org/I71209653,Bocconi University,IT,9
+https://openalex.org/I4210159731,LIP6,FR,9
+https://openalex.org/I4210119061,Institut de Recherche en Informatique de Toulouse,FR,9
+https://openalex.org/I78880903,Universidad de Huelva,ES,9
+https://openalex.org/I122534668,Marche Polytechnic University,IT,9
+https://openalex.org/I4387152675,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,DE,9
+https://openalex.org/I124601658,University of Parma,IT,9
+https://openalex.org/I227486990,University of Szeged,HU,9
+https://openalex.org/I172685059,Uniwersytet Komisji Edukacji Narodowej w Krakowie,PL,9
+https://openalex.org/I4405264971,Laboratoire d’Informatique de l’Université du Mans,FR,9
+https://openalex.org/I29770179,Budapest University of Technology and Economics,HU,9
+https://openalex.org/I82509713,Mälardalen University,SE,9
+https://openalex.org/I4387153937,Universität Koblenz,DE,9
+https://openalex.org/I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",FR,9
+https://openalex.org/I155765044,University of Hildesheim,DE,8
+https://openalex.org/I147017597,Medical University of Varna,BG,8
+https://openalex.org/I169427155,Universidade de Leiria e Oeste,PT,8
+https://openalex.org/I4405252976,Centre pour la Communication Scientifique Directe,FR,8
+https://openalex.org/I95220073,University of Lapland,FI,8
+https://openalex.org/I97188460,Nantes Université,FR,8
+https://openalex.org/I2800967931,University of Latvia FinTech Business School,LV,8
+https://openalex.org/I4210125590,Institute for Systems Engineering and Computers,PT,8
+https://openalex.org/I171711596,Romanian-American University,RO,8
+https://openalex.org/I2799391451,University Hospital Bonn,DE,8
+https://openalex.org/I68763199,Universidad Católica de Murcia,ES,8
+https://openalex.org/I3019271933,Nicolaus Copernicus University,PL,8
+https://openalex.org/I4405253272,Centro de Estudos Organizacionais e Sociais,PT,8
+https://openalex.org/I4405258418,Atatürk Teacher Training Academy,CY,8
+https://openalex.org/I5593406,Universitat Ramon Llull,ES,8
+https://openalex.org/I4210132817,Mercatorum University,IT,8
+https://openalex.org/I4210119349,Karlsruhe University of Education,DE,8
+https://openalex.org/I122228004,HTW Berlin - University of Applied Sciences,DE,8
+https://openalex.org/I186995768,Università degli studi di Cassino e del Lazio Meridionale,IT,8
+https://openalex.org/I185808892,Universidade Politécnica do Cávado e do Ave,PT,8
+https://openalex.org/I2803066834,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,IT,8
+https://openalex.org/I55741626,Technical University of Crete,GR,8
+https://openalex.org/I26437253,Örebro University,SE,8
+https://openalex.org/I254421610,School of Pedagogical and Technological Education,GR,8
+https://openalex.org/I70768539,École Nationale Supérieure des Mines de Paris,FR,8
+https://openalex.org/I230915877,The American College of Greece,GR,8
+https://openalex.org/I173063890,University of Applied Sciences Utrecht,NL,8
+https://openalex.org/I58077936,Romanian Academy,RO,8
+https://openalex.org/I4210090703,Centro de Investigación Biomédica en Red de Salud Mental,ES,8
+https://openalex.org/I2801533059,German Center for Neurodegenerative Diseases,DE,8
+https://openalex.org/I142762351,Royal College of Surgeons in Ireland,IE,8
+https://openalex.org/I2802635041,Technische Informationsbibliothek (TIB),DE,8
+https://openalex.org/I4405260129,MNEMOSYNE: Mnemonic Synergy,FR,8
+https://openalex.org/I211070993,University of National and World Economy,BG,8
+https://openalex.org/I4390039327,Faculty of Electrical Engineering and Computing in Zagreb,HR,8
+https://openalex.org/I23574469,Krakow University of Economics,PL,8
+https://openalex.org/I3122748864,"""Dunarea de Jos"" University of Galati",RO,8
+https://openalex.org/I19894307,Université de Montpellier,FR,8
+https://openalex.org/I197681013,Université Paris-Est Créteil,FR,8
+https://openalex.org/I161103922,Philipps University of Marburg,DE,8
+https://openalex.org/I4210127591,German Centre for Cardiovascular Research,DE,8
+https://openalex.org/I4210124285,Amsterdam Public Health,NL,8
+https://openalex.org/I4210124295,University Niccolò Cusano,IT,7
+https://openalex.org/I38186990,Haaga-Helia University of Applied Sciences,FI,7
+https://openalex.org/I4210086854,National-Louis University,PL,7
+https://openalex.org/I158716096,University of Peloponnese,GR,7
+https://openalex.org/I40527276,Universität der Bundeswehr München,DE,7
+https://openalex.org/I930713850,The Hague University of Applied Sciences,NL,7
+https://openalex.org/I92869138,BOKU University,AT,7
+https://openalex.org/I203474044,"National Centre of Scientific Research ""Demokritos""",GR,7
+https://openalex.org/I9341345,University of Lübeck,DE,7
+https://openalex.org/I134560555,Université Toulouse III - Paul Sabatier,FR,7
+https://openalex.org/I205984670,Czech University of Life Sciences Prague,CZ,7
+https://openalex.org/I4405259960,Digital Futures,SE,7
+https://openalex.org/I111262870,Universitat de Miguel Hernández d'Elx,ES,7
+https://openalex.org/I90843659,Université de Franche-Comté,FR,7
+https://openalex.org/I110620307,Budapest University of Economics and Business,HU,7
+https://openalex.org/I246010334,Università degli Studi di Enna Kore,IT,7
+https://openalex.org/I50441567,Universitat de les Illes Balears,ES,7
+https://openalex.org/I2802164966,University Hospital Heidelberg,DE,7
+https://openalex.org/I243381257,Universidad Loyola Andalucía,ES,7
+https://openalex.org/I4210108711,University Medical Center Hamburg-Eppendorf,DE,7
+https://openalex.org/I3122695212,Politehnica University of Timisoara,RO,7
+https://openalex.org/I76134821,Medical University of Vienna,AT,7
+https://openalex.org/I79765343,University of Vaasa,FI,7
+https://openalex.org/I129643931,Berliner Hochschule für Technik,DE,7
+https://openalex.org/I11932220,Institució Catalana de Recerca i Estudis Avançats,ES,7
+https://openalex.org/I124158823,Conservatoire National des Arts et Métiers,FR,7
+https://openalex.org/I232005693,Universidad Francisco de Vitoria,ES,7
+https://openalex.org/I4210108594,Amsterdam Neuroscience,NL,7
+https://openalex.org/I21491767,Aix-Marseille Université,FR,7
+https://openalex.org/I175051016,Universidad Pública de Navarra (UPNA),ES,7
+https://openalex.org/I174183983,Maria Curie-Skłodowska University,PL,7
+https://openalex.org/I190134885,Helmut Schmidt University,DE,7
+https://openalex.org/I174004417,Munich University of Applied Sciences,DE,7
+https://openalex.org/I171543936,Free University of Bozen-Bolzano,IT,7
+https://openalex.org/I127077003,IMT School for Advanced Studies Lucca,IT,7
+https://openalex.org/I162051807,Carol Davila University of Medicine and Pharmacy,RO,7
+https://openalex.org/I4396570636,Faculty of Humanities and Social Sciences in Zagreb,HR,7
+https://openalex.org/I11923345,Wrocław University of Science and Technology,PL,7
+https://openalex.org/I169333911,Gdańsk University of Technology,PL,7
+https://openalex.org/I2802557195,United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology,NL,7
+https://openalex.org/I4210154894,Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública,ES,7
+https://openalex.org/I4210092610,VIZJA University,PL,7
+https://openalex.org/I4210106115,Bordeaux Population Health,FR,7
+https://openalex.org/I2802928900,Amsterdam UMC Location University of Amsterdam,NL,7
+https://openalex.org/I111702420,John Paul II Catholic University of Lublin,PL,7
+https://openalex.org/I34809795,Medizinische Hochschule Hannover,DE,7
+https://openalex.org/I135790613,National School of Political Science and Public Administration,RO,7
+https://openalex.org/I142208455,VSB - Technical University of Ostrava,CZ,7
+https://openalex.org/I4210131846,Artificial Intelligence Research Institute,ES,7
+https://openalex.org/I12012874,Ştefan cel Mare University of Suceava,RO,7
+https://openalex.org/I190032430,University of Library Studies and Information Technologies,BG,7
+https://openalex.org/I183638586,Parthenope University of Naples,IT,7
+https://openalex.org/I1335113835,Karolinska University Hospital,SE,7
+https://openalex.org/I52719799,Blekinge Institute of Technology,SE,7
+https://openalex.org/I4210108471,Le Mans Université,FR,7
+https://openalex.org/I4210163063,Institute of Information and Communication Technologies,BG,7
+https://openalex.org/I132118926,AIT Austrian Institute of Technology GmbH,AT,6
+https://openalex.org/I4210096479,Tallinn University of Applied Sciences,EE,6
+https://openalex.org/I51101395,Université Paris 1 Panthéon-Sorbonne,FR,6
+https://openalex.org/I49451733,Université d'Angers,FR,6
+https://openalex.org/I4210098248,Fraunhofer Institute for Algorithms and Scientific Computing,DE,6
+https://openalex.org/I2801970007,Turku University Hospital,FI,6
+https://openalex.org/I110757952,Slovak University of Technology in Bratislava,SK,6
+https://openalex.org/I305801656,Wroclaw University of Economics and Business,PL,6
+https://openalex.org/I21516984,Fontys University of Applied Sciences,NL,6
+https://openalex.org/I4210148300,Institut d'Economie Scientifique Et de Gestion,FR,6
+https://openalex.org/I4210112085,Navarre Institute of Health Research,ES,6
+https://openalex.org/I21803372,University of Évora,PT,6
+https://openalex.org/I4210166444,Institut de Recherche pour le Développement,FR,6
+https://openalex.org/I1290523313,Magyar Agrár- és Élettudományi Egyetem,HU,6
+https://openalex.org/I122991210,"Istituto di Scienza e Tecnologie dell'Informazione ""Alessandro Faedo""",IT,6
+https://openalex.org/I201324441,University of Ferrara,IT,6
+https://openalex.org/I4210113215,IRCCS Ospedale Galeazzi - Sant'Ambrogio,IT,6
+https://openalex.org/I251424209,Universitat de Girona,ES,6
+https://openalex.org/I4401726909,Center for Scalable Data Analytics and Artificial Intelligence,DE,6
+https://openalex.org/I199417121,Catholic University of Eichstätt-Ingolstadt,DE,6
+https://openalex.org/I4210087039,Institut d'Investigació Biomédica de Bellvitge,ES,6
+https://openalex.org/I101202996,Semmelweis University,HU,6
+https://openalex.org/I41121874,Heilbronn University,DE,6
+https://openalex.org/I4387156284,Université Paris Descartes,FR,6
+https://openalex.org/I4210127641,Vall d'Hebron Hospital Universitari,ES,6
+https://openalex.org/I36443711,Magna Graecia University,IT,6
+https://openalex.org/I107502644,Spiru Haret University,RO,6
+https://openalex.org/I107707843,Roskilde University,DK,6
+https://openalex.org/I3020445194,Universidad Nebrija,ES,6
+https://openalex.org/I4210112527,Luxembourg Institute of Science and Technology,LU,6
+https://openalex.org/I3122011922,University of Žilina,SK,6
+https://openalex.org/I4210163047,IRCCS Humanitas Research Hospital,IT,6
+https://openalex.org/I4210103289,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia,IT,6
+https://openalex.org/I4210104430,Laboratoire d'Informatique de Grenoble,FR,6
+https://openalex.org/I64956957,Aurel Vlaicu University of Arad,RO,6
+https://openalex.org/I4387153298,EM Normandie Business School,FR,6
+https://openalex.org/I4387155487,Mary Immaculate College,IE,6
+https://openalex.org/I4210131512,Centre Inria de l'université de Bordeaux,FR,6
+https://openalex.org/I4210130905,Unitelma Sapienza University,IT,6
+https://openalex.org/I70451448,HAW Hamburg,DE,6
+https://openalex.org/I70703428,Palacký University Olomouc,CZ,6
+https://openalex.org/I4405258963,Ekonomski fakultet - Zagreb,HR,6
+https://openalex.org/I119449181,Technische Universität Ilmenau,DE,6
+https://openalex.org/I34250744,University of Łódź,PL,6
+https://openalex.org/I183111857,Malmö University,SE,6
+https://openalex.org/I189712700,University of Konstanz,DE,6
+https://openalex.org/I54009628,University of Bayreuth,DE,6
+https://openalex.org/I112859197,Università di Camerino,IT,6
+https://openalex.org/I4210103666,University Hospital Münster,DE,6
+https://openalex.org/I4210135014,Kauno kolegija Higher Education Institution,LT,6
+https://openalex.org/I68618741,Polytechnic University of Bari,IT,6
+https://openalex.org/I155417937,Hochschule Bonn-Rhein-Sieg,DE,6
+https://openalex.org/I83467386,IT University of Copenhagen,DK,6
+https://openalex.org/I4405253299,Centro de Investigação em Ciências da Informação Tecnologias e Arquitetura,PT,6
+https://openalex.org/I4210106076,Istituto di Fisiologia Clinica,IT,6
+https://openalex.org/I28710699,Hellenic Mediterranean University,GR,6
+https://openalex.org/I2898155008,Academic Center for Dentistry Amsterdam,NL,6
+https://openalex.org/I4210126310,Universitätsklinikum Würzburg,DE,6
+https://openalex.org/I170230895,Warsaw University of Life Sciences,PL,6
+https://openalex.org/I2801112325,Sahlgrenska University Hospital,SE,6
+https://openalex.org/I4210156109,Hospital del Mar Research Institute,ES,6
+https://openalex.org/I2800394112,Helsinki University Hospital,FI,6
+https://openalex.org/I2800745255,Université de Haute-Alsace,FR,6
+https://openalex.org/I4210128504,Universidad Europea del Atlántico,ES,6
+https://openalex.org/I4210124908,"Malta College of Arts, Science and Technology",MT,6
+https://openalex.org/I11039511,University of Bergamo,IT,6
+https://openalex.org/I98559091,University of Rzeszów,PL,6
+https://openalex.org/I992397,University of Borås,SE,5
+https://openalex.org/I100749904,Titu Maiorescu University,RO,5
+https://openalex.org/I94575722,Harz University of Applied Sciences,DE,5
+https://openalex.org/I109954829,Agricultural University of Athens,GR,5
+https://openalex.org/I40413290,University of Gdańsk,PL,5
+https://openalex.org/I40434647,Université Paris Nanterre,FR,5
+https://openalex.org/I159650629,University of Sassari,IT,5
+https://openalex.org/I154387261,Vita-Salute San Raffaele University,IT,5
+https://openalex.org/I162290304,Scuola Superiore Sant'Anna,IT,5
+https://openalex.org/I168129107,"South-West University ""Neofit Rilski""",BG,5
+https://openalex.org/I43968019,Karlstad University,SE,5
+https://openalex.org/I4210093649,Information Technologies Institute,GR,5
+https://openalex.org/I4210157174,European Association of Distance Teaching Universities,NL,5
+https://openalex.org/I2799973717,IHE Delft Institute for Water Education,NL,5
+https://openalex.org/I4210156054,Athena Research and Innovation Center In Information Communication & Knowledge Technologies,GR,5
+https://openalex.org/I4210154619,St. James's Hospital,IE,5
+https://openalex.org/I4210105141,"Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine",ES,5
+https://openalex.org/I2799272722,Oulu University Hospital,FI,5
+https://openalex.org/I4210105025,University North,HR,5
+https://openalex.org/I46597724,Poznań University of Technology,PL,5
+https://openalex.org/I4403386696,ISEG - Instituto Superior de Economia e Gestão,PT,5
+https://openalex.org/I4210092408,Toulouse School of Economics,FR,5
+https://openalex.org/I4405258384,Berlin School of Business and Innovation GmbH,DE,5
+https://openalex.org/I686019,AGH University of Krakow,PL,5
+https://openalex.org/I4210154149,Ministry of Education and Religious Affairs,GR,5
+https://openalex.org/I4210105663,Deutsches Herzzentrum der Charité,DE,5
+https://openalex.org/I120163777,OTH Regensburg,DE,5
+https://openalex.org/I60587646,Brno University of Technology,CZ,5
+https://openalex.org/I4210101691,Hospital Universitario 12 De Octubre,ES,5
+https://openalex.org/I4210102288,Algebra Bernays University,HR,5
+https://openalex.org/I4210103026,Universidade Politécnica da Guarda,PT,5
+https://openalex.org/I4210156897,Universitatea Națională de Educație Fizică și Sport București,RO,5
+https://openalex.org/I4210149642,Centre d'Etudes et de Recherches Appliquées à la Gestion,FR,5
+https://openalex.org/I4210107429,Pasqual Maragall Foundation,ES,5
+https://openalex.org/I24881138,Cracow University of Technology,PL,5
+https://openalex.org/I915211651,University of Limassol,CY,5
+https://openalex.org/I111398093,Kozminski University,PL,5
+https://openalex.org/I116152951,Latvia University of Life Sciences and Technologies,LV,5
+https://openalex.org/I25169866,Universidade Católica Portuguesa,PT,5
+https://openalex.org/I4210148332,Barcelona Institute for Global Health,ES,5
+https://openalex.org/I69601649,VIA University College,DK,5
+https://openalex.org/I70348806,Université Polytechnique Hauts-de-France,FR,5
+https://openalex.org/I4210166245,"Fraunhofer Institute for Communication, Information Processing and Ergonomics",DE,5
+https://openalex.org/I4210164149,Bonn Aachen International Center for Information Technology,DE,5
+https://openalex.org/I4210165346,WSB Merito University in Wroclaw,PL,5
+https://openalex.org/I129627893,University of Molise,IT,5
+https://openalex.org/I3006985408,Jožef Stefan Institute,SI,5
+https://openalex.org/I4210112713,University Hospital Schleswig-Holstein,DE,5
+https://openalex.org/I1340728805,Ifo Institute for Economic Research,DE,5
+https://openalex.org/I315070680,University College of Northern Denmark,DK,5
+https://openalex.org/I31582689,Stuttgart Technical University of Applied Sciences,DE,5
+https://openalex.org/I198244214,Université Clermont Auvergne,FR,5
+https://openalex.org/I4210143795,AstraZeneca (Sweden),SE,5
+https://openalex.org/I4210142209,John von Neumann University,HU,5
+https://openalex.org/I4210141702,University of Gävle,SE,5
+https://openalex.org/I202391551,Czech Academy of Sciences,CZ,5
+https://openalex.org/I20272500,University of Basilicata,IT,5
+https://openalex.org/I2277624104,Fondazione Bruno Kessler,IT,5
+https://openalex.org/I3018323443,Centre Hospitalier Universitaire de Bordeaux,FR,5
+https://openalex.org/I4210094118,Universitätsklinikum Tübingen,DE,5
+https://openalex.org/I4403386560,Centre de Recherche sur les Risques et les Crises,FR,5
+https://openalex.org/I51195161,École de management de Lyon,FR,5
+https://openalex.org/I2801323708,Ljubljana University Medical Centre,SI,5
+https://openalex.org/I55106644,Amsterdam University of Applied Sciences,NL,5
+https://openalex.org/I4210166865,Institute of Cognitive Sciences and Technologies,IT,5
+https://openalex.org/I4405260337,Université de Nantes,FR,5
+https://openalex.org/I4405260441,Métis-Lab,FR,5
+https://openalex.org/I4210089617,"Laboratoire d'Automatique, de Mécanique et d'Informatique Industrielles et Humaines",FR,5
+https://openalex.org/I200252411,Europa-Universität Flensburg,DE,5
+https://openalex.org/I201181511,École Nationale Supérieure de Techniques Avancées,FR,5
+https://openalex.org/I4210115393,Azienda Ospedaliero-Universitaria Careggi,IT,5
+https://openalex.org/I4210135221,The Maria Grzegorzewska University,PL,5
+https://openalex.org/I32881790,Université de Poitiers,FR,5
+https://openalex.org/I4405261313,"Donders Institute for Brain, Cognition and Behaviour",NL,5
+https://openalex.org/I4210165932,Giustino Fortunato University,IT,5
+https://openalex.org/I56125125,Universidade Politécnica de Viseu,PT,5
+https://openalex.org/I4387152698,Atlantic Technological University,IE,5
+https://openalex.org/I4387152856,Laboratoire Interdisciplinaire des Sciences du Numérique,FR,5
+https://openalex.org/I2801939835,Region Stockholm,SE,5
+https://openalex.org/I73621328,Girne American University,CY,5
+https://openalex.org/I197323543,Johannes Gutenberg University Mainz,DE,5
+https://openalex.org/I4210133214,IRCCS Ospedale San Raffaele,IT,5
+https://openalex.org/I4210117544,Meaning Processing (Finland),FI,5
+https://openalex.org/I190861549,Arts et Métiers,FR,5
+https://openalex.org/I122492136,New Bulgarian University,BG,5
+https://openalex.org/I141576021,Université Le Havre Normandie,FR,5
+https://openalex.org/I142631665,École nationale des ponts et chaussées,FR,5
+https://openalex.org/I4210133586,Institute for Molecular Medicine Finland,FI,5
+https://openalex.org/I4210120689,Universitätsklinikum Aachen,DE,5
+https://openalex.org/I3132075091,Károli Gáspár University of the Reformed Church in Hungary,HU,5
+https://openalex.org/I4405269194,Insight SFI Research Centre for Data Analytics,IE,5
+https://openalex.org/I2802681329,Wekerle Business School,HU,5
+https://openalex.org/I4387154332,"Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours",FR,5
+https://openalex.org/I29607241,École Normale Supérieure - PSL,FR,5
+https://openalex.org/I2961216182,Hospital Clínico San Carlos,ES,5
+https://openalex.org/I3005160176,Institute for High Performance Computing and Networking,IT,5
+https://openalex.org/I4210093284,VERN' University,HR,5
+https://openalex.org/I153267046,University of Kaiserslautern,DE,5
+https://openalex.org/I181418319,SKEMA Business School,FR,5
+https://openalex.org/I181827316,Université Catholique de Lille,FR,5
+https://openalex.org/I18193975,SGH Warsaw School of Economics,PL,5
+https://openalex.org/I146583814,Mykolas Romeris University,LT,5
+https://openalex.org/I4210129203,Tehničko Veleučilište u Zagrebu,HR,5
+https://openalex.org/I149592570,Kazimierz Wielki University in Bydgoszcz,PL,5
+https://openalex.org/I149899117,Max Planck Society,DE,5
+https://openalex.org/I8264552,Lublin University of Technology,PL,5
+https://openalex.org/I41382782,Universidad Pontificia de Salamanca,ES,5
+https://openalex.org/I4210086614,Research Institute Hospital 12 de Octubre,ES,5
+https://openalex.org/I4210086696,Biomedical Research Networking Center on Neurodegenerative Diseases,ES,5
+https://openalex.org/I4210128274,Barcelonaβeta Brain Research Center,ES,5
+https://openalex.org/I103855431,HAN University of Applied Sciences,NL,5
+https://openalex.org/I104546213,National College of Ireland,IE,5
+https://openalex.org/I102520234,TH Köln - University of Applied Sciences,DE,5
+https://openalex.org/I166182418,Medical University of Silesia,PL,4
+https://openalex.org/I16231767,Turku University of Applied Sciences,FI,4
+https://openalex.org/I102516824,Université de Technologie de Compiègne,FR,4
+https://openalex.org/I103737770,Bank of Italy,IT,4
+https://openalex.org/I4210126764,Universitair Ziekenhuis Brussel,BE,4
+https://openalex.org/I4210094363,Azienda Ospedaliera Universitaria Integrata Verona,IT,4
+https://openalex.org/I4387154247,Laboratoire Interuniversitaire des Sciences de l'Education et de la Communication,FR,4
+https://openalex.org/I4387155925,IRCCS San Raffaele Roma,IT,4
+https://openalex.org/I298625061,Swedish University of Agricultural Sciences,SE,4
+https://openalex.org/I4387153326,Institut Mines-Télécom Business School,FR,4
+https://openalex.org/I4210097846,Instituto de Investigación Sanitaria del Hospital Clínico San Carlos,ES,4
+https://openalex.org/I4387153313,"Universidad de Diseño, Innovación y Tecnología",ES,4
+https://openalex.org/I4387153239,"Centre de Recherche en Informatique, Signal et Automatique de Lille",FR,4
+https://openalex.org/I28221208,Institut National des Sciences Appliquées de Rennes,FR,4
+https://openalex.org/I2802050225,Bellvitge University Hospital,ES,4
+https://openalex.org/I2801240073,University Medical Center Freiburg,DE,4
+https://openalex.org/I2801941904,Bispebjerg Hospital,DK,4
+https://openalex.org/I4387153010,Télécom SudParis,FR,4
+https://openalex.org/I4387152666,Centre de recherche sur les médiations,FR,4
+https://openalex.org/I4210099625,Copenhagen Academy for Medical Education and Simulation,DK,4
+https://openalex.org/I4210166768,Hôpital Tenon,FR,4
+https://openalex.org/I1288051870,Organisation de Coopération et de Développement Economiques,FR,4
+https://openalex.org/I1282776028,German Institute for Economic Research,DE,4
+https://openalex.org/I904013037,Universidad Europea de Madrid,ES,4
+https://openalex.org/I4210094062,University Medical Center of the Johannes Gutenberg University Mainz,DE,4
+https://openalex.org/I4210100596,Hospices Civils de Lyon,FR,4
+https://openalex.org/I4210164588,Instituto Superior de Contabilidade e Administração de Coimbra,PT,4
+https://openalex.org/I4210164481,Catholic University in Ruzomberok,SK,4
+https://openalex.org/I59857034,John Cabot University,IT,4
+https://openalex.org/I4210102928,Hôpital Saint-Antoine,FR,4
+https://openalex.org/I4210162122,Gobierno de La Rioja,ES,4
+https://openalex.org/I4210162037,General University Hospital in Prague,CZ,4
+https://openalex.org/I4210100492,Valahia University of Targoviste,RO,4
+https://openalex.org/I2801398864,Saxion,NL,4
+https://openalex.org/I1300393620,Bydgoszcz University of Science and Technology,PL,4
+https://openalex.org/I4210155710,"Gastroenterology Hospital ""Saverio de Bellis""",IT,4
+https://openalex.org/I1289910757,NEOMA Business School,FR,4
+https://openalex.org/I56441308,Libera Università Internazionale degli Studi Sociali Guido Carli,IT,4
+https://openalex.org/I43980791,Clausthal University of Technology,DE,4
+https://openalex.org/I47996466,University of Warmia and Mazury in Olsztyn,PL,4
+https://openalex.org/I4647051,Université de Picardie Jules Verne,FR,4
+https://openalex.org/I2898391981,Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR),DE,4
+https://openalex.org/I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,FR,4
+https://openalex.org/I268303160,Medical University of Warsaw,PL,4
+https://openalex.org/I2799859273,Ostfalia University of Applied Sciences,DE,4
+https://openalex.org/I2799788900,University of Economics and Innovation,PL,4
+https://openalex.org/I4210154111,Université Gustave Eiffel,FR,4
+https://openalex.org/I2800794739,Universidade Europeia,PT,4
+https://openalex.org/I2800387288,European Commission,BE,4
+https://openalex.org/I130929987,University of Mons,BE,4
+https://openalex.org/I127251866,Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung,DE,4
+https://openalex.org/I130217899,Åbo Akademi University,FI,4
+https://openalex.org/I110594554,Ikerbasque,ES,4
+https://openalex.org/I4210153522,South Eastern Finland University of Applied Sciences,FI,4
+https://openalex.org/I4405259159,Unité d'Informatique et d'Ingénierie des Systèmes,FR,4
+https://openalex.org/I110079840,University of Hohenheim,DE,4
+https://openalex.org/I110017253,Université de Tours,FR,4
+https://openalex.org/I118091203,Universidad San Pablo CEU,ES,4
+https://openalex.org/I4210151645,Policlinico San Matteo Fondazione,IT,4
+https://openalex.org/I111664937,Rzeszów University of Technology,PL,4
+https://openalex.org/I4210149650,Final International University,CY,4
+https://openalex.org/I27945538,Paracelsus Medical University,AT,4
+https://openalex.org/I72852730,Zagreb School of Economics and Management,HR,4
+https://openalex.org/I22248866,AgroParisTech,FR,4
+https://openalex.org/I4210148047,Nicolae Bălcescu Land Forces Academy,RO,4
+https://openalex.org/I4210149165,Universitatea Din Petrosani,RO,4
+https://openalex.org/I1325886976,Siemens (Germany),DE,4
+https://openalex.org/I115891769,Universidade dos Açores,PT,4
+https://openalex.org/I3130074995,Technical University of Applied Sciences Würzburg-Schweinfurt,DE,4
+https://openalex.org/I3018134672,Helmholtz Munich,DE,4
+https://openalex.org/I48825208,Université Paris 8,FR,4
+https://openalex.org/I319272996,University of Mediterranean Karpasia,CY,4
+https://openalex.org/I31882830,Pázmány Péter Catholic University,HU,4
+https://openalex.org/I4405284601,Centre de recherche en informatique (Paris),FR,4
+https://openalex.org/I1330701686,Collegio Carlo Alberto,IT,4
+https://openalex.org/I4210113030,Leibniz Centre for Agricultural Landscape Research,DE,4
+https://openalex.org/I4210146744,Azienda Ospedale - Università Padova,IT,4
+https://openalex.org/I4210145969,Max Planck Institute of Psychiatry,DE,4
+https://openalex.org/I196275078,St. Cyril and St. Methodius University of Veliko Tarnovo,BG,4
+https://openalex.org/I4210114793,Universidade Politécnica de Santarém,PT,4
+https://openalex.org/I4210142254,Laboratoire Bordelais de Recherche en Informatique,FR,4
+https://openalex.org/I4210141907,Humanitas University in Sosnowiec,PL,4
+https://openalex.org/I4210141868,"Istituto Nazionale Tumori IRCCS ""Fondazione G. Pascale""",IT,4
+https://openalex.org/I8901234,Foundation for Research and Technology Hellas,GR,4
+https://openalex.org/I4210114246,UMIT TIROL - Private University for Health Sciences and Health Technology,AT,4
+https://openalex.org/I4210140223,1 Decembrie 1918 University,RO,4
+https://openalex.org/I3130920692,South Westphalia University of Applied Sciences,DE,4
+https://openalex.org/I4405260725,"FLOWERS: Flow: exploration, apprentissage et découverte dirigés par la curiosité",FR,4
+https://openalex.org/I4210088387,Heuristics and Diagnostics for Complex Systems,FR,4
+https://openalex.org/I4210135665,Stockholm Health Care Services,SE,4
+https://openalex.org/I4210136311,Instituto Português de Administração de Marketing,PT,4
+https://openalex.org/I4210136182,Universitätsmedizin Rostock,DE,4
+https://openalex.org/I4210137546,Gdansk University of Physical Education and Sport,PL,4
+https://openalex.org/I4210134900,Jena University Hospital,DE,4
+https://openalex.org/I137479271,Helmholtz Centre for Environmental Research,DE,4
+https://openalex.org/I89864525,Universität Trier,DE,4
+https://openalex.org/I196349391,Universität Ulm,DE,4
+https://openalex.org/I4210130664,IRCCS San Camillo Hospital,IT,4
+https://openalex.org/I4210120471,Instituto de Telecomunicações,PT,4
+https://openalex.org/I4210120395,Max Planck Institute for Demographic Research,DE,4
+https://openalex.org/I142444530,University of Trieste,IT,4
+https://openalex.org/I122274158,Dalarna University,SE,4
+https://openalex.org/I120729142,Computer Technology Institute and Press “DIOPHANTUS”,GR,4
+https://openalex.org/I4405269392,Technologies Numériques pour l'Éducation,FR,4
+https://openalex.org/I188884621,Lodz University of Technology,PL,4
+https://openalex.org/I185020484,Catholic University of Ávila,ES,4
+https://openalex.org/I193619901,Constructor University,DE,4
+https://openalex.org/I193397943,Zuyd University of Applied Sciences,NL,4
+https://openalex.org/I192341844,Universidade Politécnica de Viana do Castelo,PT,4
+https://openalex.org/I140275651,University of Pannonia,HU,4
+https://openalex.org/I4210122147,Istituto Nazionale di Documentazione Innovazione e Ricerca Educativa,IT,4
+https://openalex.org/I4210131605,Vistula University,PL,4
+https://openalex.org/I4210130874,Hospital Del Mar,ES,4
+https://openalex.org/I143288331,Hasso Plattner Institute,DE,4
+https://openalex.org/I142910587,University of Salento,IT,4
+https://openalex.org/I4210121705,Pitié-Salpêtrière Hospital,FR,4
+https://openalex.org/I4210130157,Institute of Informatics and Telematics,IT,4
+https://openalex.org/I4210120196,Rīgas Ziemeļvalstu augstskola,LV,4
+https://openalex.org/I167322064,Università degli Studi eCampus,IT,4
+https://openalex.org/I170583851,University of Opole,PL,4
+https://openalex.org/I35913352,Prague University of Economics and Business,CZ,4
+https://openalex.org/I39624965,Finnish Institute for Health and Welfare,FI,4
+https://openalex.org/I4405266176,UNIE Universidad,ES,4
+https://openalex.org/I94509681,Technische Universität Braunschweig,DE,4
+https://openalex.org/I94616838,Jönköping University,SE,4
+https://openalex.org/I4210125574,Azienda Ospedaliera Sant'Andrea,IT,3
+https://openalex.org/I4210124735,Istituto per le Tecnologie Didattiche,IT,3
+https://openalex.org/I162871001,University of Oradea,RO,3
+https://openalex.org/I164387090,University of Applied Sciences Mainz,DE,3
+https://openalex.org/I165737746,Tomas Bata University in Zlín,CZ,3
+https://openalex.org/I4210127020,Hochschule Weserbergland,DE,3
+https://openalex.org/I110263422,University West,SE,3
+https://openalex.org/I4210127208,Commit,NL,3
+https://openalex.org/I87653560,VTT Technical Research Centre of Finland,FI,3
+https://openalex.org/I882953328,Furtwangen University,DE,3
+https://openalex.org/I35298706,ESIEA University,FR,3
+https://openalex.org/I4405277640,European International University,FR,3
+https://openalex.org/I4405268573,"Institute of Public Health, University of Porto",PT,3
+https://openalex.org/I4210130325,Hôpitaux Universitaires Henri-Mondor,FR,3
+https://openalex.org/I4210129183,German Center for Lung Research,DE,3
+https://openalex.org/I150589677,Tampere University of Applied Sciences,FI,3
+https://openalex.org/I19002584,JAMK University of Applied Sciences,FI,3
+https://openalex.org/I142476485,École Polytechnique,FR,3
+https://openalex.org/I4210121459,Pôle Léonard de Vinci,FR,3
+https://openalex.org/I4210118716,Trimbos Institute,NL,3
+https://openalex.org/I4210130445,Max Planck Institute for Human Cognitive and Brain Sciences,DE,3
+https://openalex.org/I134656947,Esslingen University of Applied Sciences,DE,3
+https://openalex.org/I147009085,Technical University of Liberec,CZ,3
+https://openalex.org/I140025399,Hochschule Hannover,DE,3
+https://openalex.org/I138211613,Austrian Academy of Sciences,AT,3
+https://openalex.org/I4210088362,Constantin Brâncuși University of Targu Jiu,RO,3
+https://openalex.org/I4210088621,Know Center Research GmbH (Austria),AT,3
+https://openalex.org/I4210086093,Bavarian Research Institute for Digital Transformation,DE,3
+https://openalex.org/I4210135003,Clinica Universidad de Navarra,ES,3
+https://openalex.org/I4210117450,Federico II University Hospital,IT,3
+https://openalex.org/I138937732,University Hospital Centre Zagreb,HR,3
+https://openalex.org/I138938424,Università degli Studi della Tuscia,IT,3
+https://openalex.org/I133593841,Lundbeck (Denmark),DK,3
+https://openalex.org/I4210115282,Vilnius Business College,LT,3
+https://openalex.org/I4210135973,Ospedale Cannizzaro,IT,3
+https://openalex.org/I4210136145,Municipal Institute for Medical Research,ES,3
+https://openalex.org/I4210117750,Weizenbaum Institute,DE,3
+https://openalex.org/I4210118524,Université Bourgogne Franche-Comté,FR,3
+https://openalex.org/I4210118689,Joint Research Centre,IT,3
+https://openalex.org/I7454413,Centrale Lille Institut,FR,3
+https://openalex.org/I85920734,"Univesity of Life Science ""King Mihai I"" from Timisoara",RO,3
+https://openalex.org/I137533716,German Sport University Cologne,DE,3
+https://openalex.org/I4210089758,Anhalt University of Applied Sciences,DE,3
+https://openalex.org/I3019848993,Mines Saint-Étienne,FR,3
+https://openalex.org/I4405284577,113 Zelfmoordpreventie,NL,3
+https://openalex.org/I44930506,Škoda Auto University,CZ,3
+https://openalex.org/I121032520,Medical University of Lublin,PL,3
+https://openalex.org/I4210138808,École Pour l'Informatique et les Techniques Avancées,FR,3
+https://openalex.org/I4210137396,Centre de Recherche en Économie et Statistique,FR,3
+https://openalex.org/I4210137844,Skåne University Hospital,SE,3
+https://openalex.org/I4210137856,Centre Hospitalier Interrégional Edith Cavell,BE,3
+https://openalex.org/I4210115218,St. Vincent's University Hospital,IE,3
+https://openalex.org/I203847022,Universidade Politécnica de Lisboa,PT,3
+https://openalex.org/I304011483,Grigore T. Popa University of Medicine and Pharmacy,RO,3
+https://openalex.org/I30771326,Italian Institute of Technology,IT,3
+https://openalex.org/I3017411684,Children's Health Ireland at Crumlin,IE,3
+https://openalex.org/I3124938446,Université Rennes 2,FR,3
+https://openalex.org/I3125032317,"Universitatea de Medicină, Farmacie, Științe și Tehnologie „George Emil Palade” din Târgu Mureș",RO,3
+https://openalex.org/I3129555431,University Hospital Regensburg,DE,3
+https://openalex.org/I4405258522,Deutsches Zentrum für Psychische Gesundheit,DE,3
+https://openalex.org/I4405258625,École Nationale Supérieure de Techniques Avancées Paris,FR,3
+https://openalex.org/I4405258729,"EU Business School, Barcelona",ES,3
+https://openalex.org/I206127235,Academy of Athens,GR,3
+https://openalex.org/I4210137990,WSB Merito University in Poznan,PL,3
+https://openalex.org/I4210115708,Rhine-Ruhr Institute for Applied Systeminnovation,DE,3
+https://openalex.org/I4210138412,Centre Inria de l'Université de Lille,FR,3
+https://openalex.org/I198445264,Arcada University of Applied Sciences,FI,3
+https://openalex.org/I4210113529,Jožef Stefan International Postgraduate School,SI,3
+https://openalex.org/I4210088715,Hochschule Campus Wien,AT,3
+https://openalex.org/I3018988418,Centre Hospitalier Universitaire de Nice,FR,3
+https://openalex.org/I3132731249,Baltic International Academy,LV,3
+https://openalex.org/I4210141069,Bochum University of Applied Sciences,DE,3
+https://openalex.org/I4210141789,Ministry of National Defence,RO,3
+https://openalex.org/I4210114614,Centro San Giovanni di Dio Fatebenefratelli,IT,3
+https://openalex.org/I195731000,Université de Versailles Saint-Quentin-en-Yvelines,FR,3
+https://openalex.org/I1341049462,Istituto Nazionale di Statistica,IT,3
+https://openalex.org/I4210144519,Institute of Communication and Computer Systems,GR,3
+https://openalex.org/I219388962,University of Wrocław,PL,3
+https://openalex.org/I4210148386,Collegium Medicum in Bydgoszcz,PL,3
+https://openalex.org/I4210145679,Medizinische Hochschule Brandenburg Theodor Fontane,DE,3
+https://openalex.org/I4210145955,Center for Advanced Internet Studies,DE,3
+https://openalex.org/I4210111164,IPO Porto,PT,3
+https://openalex.org/I4210109085,University of Information Technology and Management in Rzeszow,PL,3
+https://openalex.org/I4210146472,Ospedale Policlinico San Martino,IT,3
+https://openalex.org/I4210145324,Hôpitaux Universitaires de Strasbourg,FR,3
+https://openalex.org/I907135538,Rotterdam University of Applied Sciences,NL,3
+https://openalex.org/I9073902,"University of Chemistry and Technology, Prague",CZ,3
+https://openalex.org/I88467170,Université d'Évry Val-d'Essonne,FR,3
+https://openalex.org/I4405256010,NOVA School of Business and Economics,PT,3
+https://openalex.org/I4405254681,EURECAT Centre Tecnològic de Catalunya,ES,3
+https://openalex.org/I4405254782,"Zentrum für Medien-, Kommunikations- und Informationsforschung",DE,3
+https://openalex.org/I4405253963,Aalborg Centre for Problem Based Learning in Engineering Science and Sustainability,DK,3
+https://openalex.org/I4210091033,Ospedale di Bolzano,IT,3
+https://openalex.org/I132389103,Economic and Social Research Institute,IE,3
+https://openalex.org/I4210149344,Instituto Superior Politécnico Gaya,PT,3
+https://openalex.org/I4210149569,Centro de Investigación Biomédica en Red de Fragilidad y Envejecimiento Saludable,ES,3
+https://openalex.org/I75124487,Gdańsk Medical University,PL,3
+https://openalex.org/I2610724,Chemnitz University of Technology,DE,3
+https://openalex.org/I70886390,Karlsruhe University of Applied Sciences,DE,3
+https://openalex.org/I4403928435,Interdisciplinary Transformation University Austria,AT,3
+https://openalex.org/I12379730,Poznań University of Economics and Business,PL,3
+https://openalex.org/I125068653,IE University,ES,3
+https://openalex.org/I121486552,Helsinki Metropolia University of Applied Sciences,FI,3
+https://openalex.org/I2802759292,Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies,FR,3
+https://openalex.org/I64251745,Technical University of Gabrovo,BG,3
+https://openalex.org/I27483092,University of Perugia,IT,3
+https://openalex.org/I4210108695,Gheorghe Asachi Technical University of Iași,RO,3
+https://openalex.org/I4210108813,Azienda Ospedaliero-Universitaria delle Marche,IT,3
+https://openalex.org/I129162050,TBS Education,FR,3
+https://openalex.org/I90589149,Fresenius Medical Care (Germany),DE,3
+https://openalex.org/I24897511,Hellenic Military Academy,GR,3
+https://openalex.org/I2799784675,University Hospitals of the Ruhr-University of Bochum,DE,3
+https://openalex.org/I115304662,Universitat de Vic - Universitat Central de Catalunya,ES,3
+https://openalex.org/I66083562,Systems Research Institute,PL,3
+https://openalex.org/I67348948,Bayer (Germany),DE,3
+https://openalex.org/I51205905,Kedge Business School,FR,3
+https://openalex.org/I51441396,Bauhaus-Universität Weimar,DE,3
+https://openalex.org/I51783024,Brandenburg University of Technology Cottbus-Senftenberg,DE,3
+https://openalex.org/I4210092991,Kuopio University Hospital,FI,3
+https://openalex.org/I4210093138,Biomedical Research Foundation of the Academy of Athens,GR,3
+https://openalex.org/I4210152878,GFZ Helmholtz Centre for Geosciences,DE,3
+https://openalex.org/I4210107720,CentraleSupélec,FR,3
+https://openalex.org/I4210107997,Finland University,FI,3
+https://openalex.org/I4210108118,"Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes",FR,3
+https://openalex.org/I4210108168,Universidad a Distancia de Madrid,ES,3
+https://openalex.org/I4210154893,Altrecht GGZ,NL,3
+https://openalex.org/I4210155092,"Czech Academy of Sciences, Institute of Computer Science",CZ,3
+https://openalex.org/I4210155399,UniNettuno University,IT,3
+https://openalex.org/I4210153755,University Hospital Cologne,DE,3
+https://openalex.org/I4210105926,Institute of Mathematics and Informatics,BG,3
+https://openalex.org/I4210106479,"Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",FR,3
+https://openalex.org/I4210104975,LAB University of Applied Sciences,FI,3
+https://openalex.org/I65806277,Université de Limoges,FR,3
+https://openalex.org/I2800424308,Finnish Environment Institute,FI,3
+https://openalex.org/I4210155607,Laboratoire d'Informatique en Images et Systèmes d'Information,FR,3
+https://openalex.org/I4210155724,Centre Hospitalier Universitaire de Rennes,FR,3
+https://openalex.org/I2960094004,Hospital General Universitario Gregorio Marañón,ES,3
+https://openalex.org/I4392021234,Hessian Center for Artificial Intelligence,DE,3
+https://openalex.org/I4392738228,Stiftung Charité,DE,3
+https://openalex.org/I4210095477,Centre Hospitalier Universitaire de Tours,FR,3
+https://openalex.org/I4210095705,Region Västra Götaland,SE,3
+https://openalex.org/I283262890,Valencia Catholic University Saint Vincent Martyr,ES,3
+https://openalex.org/I3018718406,Centre Hospitalier Universitaire de Lille,FR,3
+https://openalex.org/I4210156254,Hôpital Albert-Chenevier,FR,3
+https://openalex.org/I4210105151,Laboratoire de Physique Nucléaire et de Hautes Énergies,FR,3
+https://openalex.org/I4210105257,Fachhochschule des Mittelstands,DE,3
+https://openalex.org/I4210105615,Central Institute of Mental Health,DE,3
+https://openalex.org/I4210105644,Häme University of Applied Sciences,FI,3
+https://openalex.org/I2800231306,Universitair Ziekenhuis Leuven,BE,3
+https://openalex.org/I2799440398,Rochester Institute of Technology Croatia,HR,3
+https://openalex.org/I4210104665,University of Applied Sciences Emden Leer,DE,3
+https://openalex.org/I4387155026,Institut de Recerca Sant Pau,ES,3
+https://openalex.org/I4387155155,Esade,ES,3
+https://openalex.org/I4210097083,IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola,IT,3
+https://openalex.org/I56033108,University of Zadar,HR,3
+https://openalex.org/I2802076133,University of Koblenz and Landau,DE,3
+https://openalex.org/I45155027,Technische Hochschule Mittelhessen,DE,3
+https://openalex.org/I4210157802,Hospital Clínico Universitario de Valladolid,ES,3
+https://openalex.org/I2800804238,Fraunhofer Institute for Open Communication Systems,DE,3
+https://openalex.org/I2799976261,Aalborg University Hospital,DK,3
+https://openalex.org/I62396329,Université de Rouen Normandie,FR,3
+https://openalex.org/I2801117330,Medical University Plovdiv,BG,3
+https://openalex.org/I2801150652,Frederiksberg Hospital,DK,3
+https://openalex.org/I4210160189,Institut Polytechnique de Bordeaux,FR,3
+https://openalex.org/I4210160192,Consorci Institut D'Investigacions Biomediques August Pi I Sunyer,ES,3
+https://openalex.org/I4387152369,"Laboratoire en Innovation, Technologies, Economie et Management",FR,3
+https://openalex.org/I4210098883,DTI University,SK,3
+https://openalex.org/I4210099239,IRCCS Policlinico San Donato,IT,3
+https://openalex.org/I92715842,University of West Bohemia in Pilsen,CZ,3
+https://openalex.org/I93485673,University of Applied Sciences Kufstein,AT,3
+https://openalex.org/I2802499160,IMDEA Networks,ES,3
+https://openalex.org/I4387154308,Centre de Recherche Épidémiologie et Statistique,FR,3
+https://openalex.org/I4210160287,Laboratoire de Linguistique et Didactique des Langues Etrangères et Maternelles,FR,3
+https://openalex.org/I4210160625,Institut de Chirurgie Guidée par l'Image,FR,3
+https://openalex.org/I4210101141,Luxembourg Institute of Health,LU,3
+https://openalex.org/I4210101428,International Association for the Evaluation of Educational Achievement,NL,3
+https://openalex.org/I4210159433,Institut Mondor de Recherche Biomédicale,FR,3
+https://openalex.org/I4210159638,Hochschule Osnabrück,DE,3
+https://openalex.org/I129826125,Södertörn University,SE,3
+https://openalex.org/I2800953129,European Association of Urology,NL,3
+https://openalex.org/I2802304065,University Carlo Cattaneo,IT,3
+https://openalex.org/I2802335433,Aarhus University Hospital,DK,3
+https://openalex.org/I2801498763,Odense University Hospital,DK,3
+https://openalex.org/I4210162850,Wilhelmina Children's Hospital,NL,3
+https://openalex.org/I4210161663,Institut de recherche mathématique de Rennes,FR,3
+https://openalex.org/I4210162318,"""Hadji Dimitar"" Hospital",BG,3
+https://openalex.org/I2801843802,Institut Gustave Roussy,FR,3
+https://openalex.org/I4210164847,Hôpital Paul-Brousse,FR,3
+https://openalex.org/I4210162705,German Institute of Human Nutrition,DE,3
+https://openalex.org/I4210100943,Centre de Recherche en Sciences et Technologies de l'Information et de la Communication,FR,3
+https://openalex.org/I4210100987,University of Teacher Education Styria,AT,3
+https://openalex.org/I12356871,Télécom Paris,FR,3
+https://openalex.org/I42775652,Link Campus University,IT,3
+https://openalex.org/I103365165,FH JOANNEUM University of Applied Sciences,AT,3
+https://openalex.org/I96226040,Université de Reims Champagne-Ardenne,FR,3
+https://openalex.org/I96415178,University of Defence,CZ,3
+https://openalex.org/I98702875,Université de Caen Normandie,FR,3
+https://openalex.org/I37553959,Université de technologie de belfort-montbéliard,FR,3
+https://openalex.org/I38552033,Frederick University,CY,3
+https://openalex.org/I32762134,Harokopio University of Athens,GR,3
+https://openalex.org/I4405265859,GrandEdu Research School,DE,3
+https://openalex.org/I157071867,Fernando Pessoa University,PT,3
+https://openalex.org/I147527907,Technical University of Varna,BG,3
+https://openalex.org/I173161963,University of Prešov,SK,3
+https://openalex.org/I167360494,University of Wuppertal,DE,3
+https://openalex.org/I149768937,University of Namur,BE,3
+https://openalex.org/I4210127953,FH Kärnten,AT,3
+https://openalex.org/I155936010,Ovidius University,RO,3
+https://openalex.org/I94876832,Dundalk Institute of Technology,IE,3
+https://openalex.org/I9649716,"HTWG Hochschule Konstanz - Technik, Wirtschaft und Gestaltung",DE,3
+https://openalex.org/I918872813,Emerson (Sweden),SE,3
+https://openalex.org/I4210124872,Hôpital Pontchaillou,FR,2
+https://openalex.org/I4210124512,"Czech Academy of Sciences, Institute of Scientific Instruments",CZ,2
+https://openalex.org/I32956416,Université catholique de l'ouest,FR,2
+https://openalex.org/I337868014,Klaipėda University,LT,2
+https://openalex.org/I4405267806,Instituto de Investigación Tecnológica,ES,2
+https://openalex.org/I4405268531,NeuroCure Cluster of Excellence,DE,2
+https://openalex.org/I4405268545,Care and Public Health Research Institute,NL,2
+https://openalex.org/I143397708,Innsbruck Medical University,AT,2
+https://openalex.org/I155125353,Università Campus Bio-Medico,IT,2
+https://openalex.org/I177364143,Centre for European Economic Research,DE,2
+https://openalex.org/I4210129645,Ministry of Education and Culture,CY,2
+https://openalex.org/I4210128591,National Research Council,RO,2
+https://openalex.org/I4210122524,IBM (Italy),IT,2
+https://openalex.org/I4210122744,Institute of Theoretical and Applied Informatics,PL,2
+https://openalex.org/I4210123352,Bambino Gesù Children's Hospital,IT,2
+https://openalex.org/I4210123377,AZ Sint-Jan,BE,2
+https://openalex.org/I4210128630,Centro di Riferimento Oncologico,IT,2
+https://openalex.org/I4210128870,Centre Hospitalier Universitaire de Clermont-Ferrand,FR,2
+https://openalex.org/I2800523110,Sankt Hans Hospital,DK,2
+https://openalex.org/I4210163245,Spitalul Clinic Judetean de Urgenta Sibiu,RO,2
+https://openalex.org/I4210161656,Laboratoire de Didactique André Revuz,FR,2
+https://openalex.org/I4210101535,Laboratoire Procédés et Ingénierie en Mécanique et Matériaux,FR,2
+https://openalex.org/I4210101898,GESIS - Leibniz Institute for the Social Sciences,DE,2
+https://openalex.org/I4210100364,Nuremberg Hospital,DE,2
+https://openalex.org/I4210162214,"AAU - Ambiances, Architectures, Urbanités",FR,2
+https://openalex.org/I4210162447,Institute of Electronics and Computer Science,LV,2
+https://openalex.org/I59946547,Camilo José Cela University,ES,2
+https://openalex.org/I2801798921,Helmholtz-Zentrum Dresden-Rossendorf,DE,2
+https://openalex.org/I2801827564,Herlev Hospital,DK,2
+https://openalex.org/I2801846703,Beaumont Hospital,IE,2
+https://openalex.org/I4210166174,Joint Research Center,ES,2
+https://openalex.org/I4210165410,Azienda Ospedaliera Universitaria Pisana,IT,2
+https://openalex.org/I4210162697,Joint Research Centre,NL,2
+https://openalex.org/I4210100579,AXA (France),FR,2
+https://openalex.org/I1293723699,European Observatory on Health Systems and Policies,BE,2
+https://openalex.org/I129771458,Dimitrie Cantemir Christian University,RO,2
+https://openalex.org/I4210165583,"International Institute for Advanced Scientific Studies ""Eduardo R. Caianiello""",IT,2
+https://openalex.org/I4210099803,Pädagogische Hochschule Wien,AT,2
+https://openalex.org/I4210100260,Centre Hospitalier Régional et Universitaire de Nancy,FR,2
+https://openalex.org/I4210100283,"Laboratoire des Sciences de l'Ingénieur, de l'Informatique et de l'Imagerie",FR,2
+https://openalex.org/I4210100334,Nordsjællands Hospital,DK,2
+https://openalex.org/I4210098265,Private Pädagogische Hochschule der Diözese Linz,AT,2
+https://openalex.org/I4210098324,Bernstein Center for Computational Neuroscience Freiburg,DE,2
+https://openalex.org/I2801564471,Niuvanniemi Hospital,FI,2
+https://openalex.org/I2801697266,FOM University of Applied Sciences for Economics and Management,DE,2
+https://openalex.org/I2800920820,Istituto Universitario di Studi Superiori di Pavia,IT,2
+https://openalex.org/I59655833,Matej Bel University,SK,2
+https://openalex.org/I59725666,University of Reggio Calabria,IT,2
+https://openalex.org/I2802142324,Università degli Studi Suor Orsola Benincasa,IT,2
+https://openalex.org/I2800512269,Royal Tropical Institute,NL,2
+https://openalex.org/I2801724371,Spanish Biomedical Research Centre in Physiopathology of Obesity and Nutrition,ES,2
+https://openalex.org/I4387153570,Common Language Resources and Technology Infrastructure,NL,2
+https://openalex.org/I4387153990,Cyprus Aydin University,CY,2
+https://openalex.org/I4387152322,Centre de Recherche en Éducation de Nantes,FR,2
+https://openalex.org/I4210166510,Laboratoire Parole et Langage,FR,2
+https://openalex.org/I4210098364,Institute for Language and Speech Processing,GR,2
+https://openalex.org/I4210099160,Centro de Investigación Biomédica en Red de Enfermedades Respiratorias,ES,2
+https://openalex.org/I92834545,École Supérieure de Commerce de Rennes,FR,2
+https://openalex.org/I2802396013,Cork University Hospital,IE,2
+https://openalex.org/I4210160789,Šibenik University of Applied Sciences,HR,2
+https://openalex.org/I4210158339,Fondazione Toscana Gabriele Monasterio,IT,2
+https://openalex.org/I4210102769,Azienda Ospedaliera di Cosenza,IT,2
+https://openalex.org/I4210102891,Wyższa Szkoła Zarządzania i Administracji w Opolu,PL,2
+https://openalex.org/I4210159016,Italian Institute of Telemedicine,IT,2
+https://openalex.org/I4210159355,Panagiotis & Aglaia Kyriakou Children's Hospital,GR,2
+https://openalex.org/I4210157006,Centre Hospitalier Universitaire de Saint-Étienne,FR,2
+https://openalex.org/I4210097017,Danubius International University,RO,2
+https://openalex.org/I4210097094,Wilhelm Büchner Hochschule,DE,2
+https://openalex.org/I4210097985,University Hospital in Motol,CZ,2
+https://openalex.org/I56081889,Mendel University in Brno,CZ,2
+https://openalex.org/I507746717,Medical University Pleven,BG,2
+https://openalex.org/I2802086085,Glostrup Hospital,DK,2
+https://openalex.org/I5237613,Frankfurt University of Applied Sciences,DE,2
+https://openalex.org/I292310028,San Raffaele University of Rome,IT,2
+https://openalex.org/I4210102407,Vall d'Hebron Institut de Recerca,ES,2
+https://openalex.org/I4210102653,Universidade Politécnica de Setúbal,PT,2
+https://openalex.org/I4210157387,G. Papanikolaou General Hospital,GR,2
+https://openalex.org/I2800813048,University Hospital Dubrava,HR,2
+https://openalex.org/I2800875313,Mental Health Services,DK,2
+https://openalex.org/I2800982320,Universidad Cardenal Herrera CEU,ES,2
+https://openalex.org/I2801227569,Ghent University Hospital,BE,2
+https://openalex.org/I4210159701,International Renal Research Institute of Vicenza,IT,2
+https://openalex.org/I4210095444,Saint Camillus International University of Health and Medical Sciences,IT,2
+https://openalex.org/I2801766299,Medisch Spectrum Twente,NL,2
+https://openalex.org/I2802582725,Gentofte Hospital,DK,2
+https://openalex.org/I2802026069,Valencian International University,ES,2
+https://openalex.org/I4210093878,GZA Ziekenhuizen Campus Sint-Augustinus,BE,2
+https://openalex.org/I4210093987,"Imaging, Brain, and Neuropsychiatry",FR,2
+https://openalex.org/I4210156232,Tgm,AT,2
+https://openalex.org/I4210156707,Fondazione IRCCS Istituto Nazionale dei Tumori,IT,2
+https://openalex.org/I4210105428,Turku PET Centre,FI,2
+https://openalex.org/I2800195167,Croatian Academic and Research Network,HR,2
+https://openalex.org/I2800274787,"Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",DE,2
+https://openalex.org/I2800401438,Hospital Universitario de Canarias,ES,2
+https://openalex.org/I4210104108,Papageorgiou General Hospital,GR,2
+https://openalex.org/I4210104433,National Institute for Public Health and the Environment,NL,2
+https://openalex.org/I4387155073,Lille Neurosciences & Cognition,FR,2
+https://openalex.org/I4387153146,Connaissance & Intelligence Artificielle Distribuées,FR,2
+https://openalex.org/I4210152904,Universitatea Ioan Slavici,RO,2
+https://openalex.org/I4210108237,International School for Social and Business Studies,SI,2
+https://openalex.org/I4210108239,"Institut de Recherche en Santé, Environnement et Travail",FR,2
+https://openalex.org/I4210105707,Klaipėdos valstybinė kolegija / Higher Education Institution,LT,2
+https://openalex.org/I4210105796,Centre Hospitalier Universitaire de Reims,FR,2
+https://openalex.org/I2799443121,Pontifical University of John Paul II in Kraków,PL,2
+https://openalex.org/I2800536013,Heart and Diabetes Center North Rhine-Westphalia,DE,2
+https://openalex.org/I2800562746,Hospital Universitario La Paz,ES,2
+https://openalex.org/I4210106469,Institute of National Economy,RO,2
+https://openalex.org/I4210106918,"Institute of Nuclear Physics, Polish Academy of Sciences",PL,2
+https://openalex.org/I4210105037,Wojewódzki Szpital Specjalistyczny nr 5 im. św. Barbary w Sosnowcu,PL,2
+https://openalex.org/I4210153803,Trencianska Univerzita Alexandra Dubceka V Trencine,SK,2
+https://openalex.org/I2799803557,Barcelona Supercomputing Center,ES,2
+https://openalex.org/I4392021189,Institut de Ciències del Cosmos,ES,2
+https://openalex.org/I4392738089,Instituto Superior de Engenharia do Porto,PT,2
+https://openalex.org/I4387155724,Laboratoire d'Informatique de Bourgogne,FR,2
+https://openalex.org/I4210151643,B2 (Slovenia),SI,2
+https://openalex.org/I675453,Vorarlberg University of Applied Sciences,AT,2
+https://openalex.org/I4210094020,Fundación INTRAS,ES,2
+https://openalex.org/I4399657979,Ambis University,CZ,2
+https://openalex.org/I4400600449,Centre de Recherches en Histoire des Idées,FR,2
+https://openalex.org/I4401727010,Berlin Institute for the Foundations of Learning and Data,DE,2
+https://openalex.org/I4403386466,ISLA - Instituto Politécnico de Gestão e Tecnologia,PT,2
+https://openalex.org/I4403386513,Federação Portuguesa de Futebol,PT,2
+https://openalex.org/I4210094922,MultiMedica,IT,2
+https://openalex.org/I4210095118,Centre de Recherche en Neurosciences de Lyon,FR,2
+https://openalex.org/I4210093265,Mircea cel Batran Naval Academy,RO,2
+https://openalex.org/I5209920,Ostwestfalen-Lippe University of Applied Sciences and Arts,DE,2
+https://openalex.org/I4210092656,Ab.Acus (Italy),IT,2
+https://openalex.org/I68666633,Grenoble Ecole de Management,FR,2
+https://openalex.org/I4210154255,Equipe de Recherche en Epidémiologie Nutritionnelle,FR,2
+https://openalex.org/I4210152724,Institut du Cerveau,FR,2
+https://openalex.org/I4210109058,Azienda Ospedaliero-Universitaria di Modena,IT,2
+https://openalex.org/I4210107033,Leibniz Institute for Educational Media | Georg Eckert Institute,DE,2
+https://openalex.org/I4210107336,Społeczna Akademia Nauk,PL,2
+https://openalex.org/I4210109310,"University of Mining and Geology ""Saint Ivan Rilski""",BG,2
+https://openalex.org/I4210110324,Polytechnic of Međimurje in Čakovec,HR,2
+https://openalex.org/I90669466,École des hautes études en sciences sociales,FR,2
+https://openalex.org/I1308524038,Kiel Institute for the World Economy,DE,2
+https://openalex.org/I1319660883,Technological Educational Institute of Western Greece,GR,2
+https://openalex.org/I1320481043,European Union,BE,2
+https://openalex.org/I1292235266,Danube Private University,AT,2
+https://openalex.org/I249157770,SRH University Berlin,DE,2
+https://openalex.org/I105140100,Madrid Institute for Advanced Studies,ES,2
+https://openalex.org/I113428412,École Normale Supérieure de Lyon,FR,2
+https://openalex.org/I4210105918,Normandie Université,FR,2
+https://openalex.org/I4210151080,Hochschule Magdeburg-Stendal,DE,2
+https://openalex.org/I4210151466,Apor Vilmos Katolikus Főiskola,HU,2
+https://openalex.org/I4210148371,Deutsches Herzzentrum München,DE,2
+https://openalex.org/I25607154,Juraj Dobrila University of Pula,HR,2
+https://openalex.org/I4210091327,Max Planck Institute for Mathematics in the Sciences,DE,2
+https://openalex.org/I4210091363,ASL Roma,IT,2
+https://openalex.org/I4405252845,FHWien der WKW,AT,2
+https://openalex.org/I4405252944,National Medical Institute of the Ministry of Interior and Administration,PL,2
+https://openalex.org/I4405253099,Artificial Engineering (Italy),IT,2
+https://openalex.org/I4405253242,Europäische Hochschule für Innovation und Perspektive,DE,2
+https://openalex.org/I121760703,University of Applied Sciences Technikum Wien,AT,2
+https://openalex.org/I3018176973,Hospital de São João,PT,2
+https://openalex.org/I46043019,Berlin University of the Arts,DE,2
+https://openalex.org/I47686490,Donostia International Physics Center,ES,2
+https://openalex.org/I4829542,RheinMain University of Applied Sciences,DE,2
+https://openalex.org/I4210152245,Ospedale San Bortolo,IT,2
+https://openalex.org/I4210149577,ESCP Business School,FR,2
+https://openalex.org/I4210108889,University of Central Lancashire Cyprus,CY,2
+https://openalex.org/I4405256832,Fondazione Paolo Procacci,IT,2
+https://openalex.org/I4405254402,"Academia Română, Filiala Iași",RO,2
+https://openalex.org/I4405253542,Centro Interdisciplinar de Estudo da Performance Humana,PT,2
+https://openalex.org/I4405253577,IESE Business School,ES,2
+https://openalex.org/I4405253593,Universidad del Atlántico Medio,ES,2
+https://openalex.org/I4405253912,Centro de Inovação em Engenharia e Tecnologia Industrial,PT,2
+https://openalex.org/I4210091015,Istituto di Nanotecnologia,IT,2
+https://openalex.org/I4210091279,Université Sorbonne Paris Nord,FR,2
+https://openalex.org/I4210150049,Laboratoire d'Électronique des Technologies de l'Information,FR,2
+https://openalex.org/I4210150056,Westsächsische Hochschule Zwickau,DE,2
+https://openalex.org/I4210150493,Universidad Europea de Canarias,ES,2
+https://openalex.org/I4210148621,Luxembourg Institute of Socio-Economic Research,LU,2
+https://openalex.org/I4210148768,Les Roches Marbella International School of Hotel Management,ES,2
+https://openalex.org/I4210148771,Instituto de Investigación Sanitaria de Santiago,ES,2
+https://openalex.org/I4210147943,Centre Hospitalier Henri Laborit,FR,2
+https://openalex.org/I4210148174,Leibniz Institute for Educational Trajectories,DE,2
+https://openalex.org/I4210142324,CY Cergy Paris Université,FR,2
+https://openalex.org/I4210142514,Dublin Dental University Hospital,IE,2
+https://openalex.org/I4210142575,University of Bacău,RO,2
+https://openalex.org/I4210113288,Hôpital Lyon Sud,FR,2
+https://openalex.org/I4210113316,Institute for Information Management Bremen,DE,2
+https://openalex.org/I76240187,Carol I National Defence University,RO,2
+https://openalex.org/I205582932,Max Delbrück Center,DE,2
+https://openalex.org/I205747304,Institut National Polytechnique de Toulouse,FR,2
+https://openalex.org/I205892228,Berlin School of Economics and Law,DE,2
+https://openalex.org/I4210111137,German Centre for Higher Education Research and Science Studies,DE,2
+https://openalex.org/I4210111366,Centre for Biomedical Network Research on Rare Diseases,ES,2
+https://openalex.org/I4210112925,Max Planck Institute for Biological Cybernetics,DE,2
+https://openalex.org/I4210112930,Laboratoire Jean-Alexandre Dieudonné,FR,2
+https://openalex.org/I48430043,Institut National des Sciences Appliquées de Lyon,FR,2
+https://openalex.org/I4405256580,Université Marie et Louis Pasteur,FR,2
+https://openalex.org/I4405256639,Centro de Investigação do Instituto Português de Oncologia do Porto Francisco Gentil,PT,2
+https://openalex.org/I4210140949,Institute for Migration Research,HR,2
+https://openalex.org/I4210141145,G. S. Rakovski National Defence College,BG,2
+https://openalex.org/I4210141158,Servicio de Salud de Castilla La Mancha,ES,2
+https://openalex.org/I4210114565,"International Clinical Research Center, St. Anne's University Hospital Brno",CZ,2
+https://openalex.org/I4210114681,National Institute for Research and Development in Informatics - ICI Bucharest,RO,2
+https://openalex.org/I194245171,Daugavpils University,LV,2
+https://openalex.org/I203082224,Hochschule Bielefeld,DE,2
+https://openalex.org/I202367325,Oldenburger Institut für Informatik,DE,2
+https://openalex.org/I1307248880,Swedish National Bank,SE,2
+https://openalex.org/I1341640284,Centrum Wiskunde & Informatica,NL,2
+https://openalex.org/I134461962,Novia University of Applied Sciences,FI,2
+https://openalex.org/I4210113075,Instituto de Investigación Marqués de Valdecilla,ES,2
+https://openalex.org/I4210143387,Campus Bio Medico University Hospital,IT,2
+https://openalex.org/I4210141877,University Hospital of Ioannina,GR,2
+https://openalex.org/I4210142067,Netherlands Comprehensive Cancer Organisation,NL,2
+https://openalex.org/I4210142220,National Institute of Health Dr. Ricardo Jorge,PT,2
+https://openalex.org/I4210113987,Bielsko-Biala University of Applied Sciences,PL,2
+https://openalex.org/I4210088791,Victor Babeș University of Medicine and Pharmacy Timișoara,RO,2
+https://openalex.org/I4405257738,Universidad Europea de Valencia,ES,2
+https://openalex.org/I4405258264,Université Rennes 1,FR,2
+https://openalex.org/I4405255507,German University of Digital Science,DE,2
+https://openalex.org/I4405255538,"Bien-être, Organisations, Numérique, Habitabilité, Éducation, Universalité, Relations, Savoirs - BONHEURS",FR,2
+https://openalex.org/I4210091499,Istituti Clinici Scientifici Maugeri,IT,2
+https://openalex.org/I4210091771,Individual Development and Adaptive Education,DE,2
+https://openalex.org/I4210091948,SRH University of Applied Sciences Heidelberg,DE,2
+https://openalex.org/I4210090508,Azienda Sanitaria Unità Locale di Reggio Emilia,IT,2
+https://openalex.org/I3019010403,Hospital Universitari i Politècnic La Fe,ES,2
+https://openalex.org/I2898336195,The Netherlands Cancer Institute,NL,2
+https://openalex.org/I4405282759,Brussels School of Governance,BE,2
+https://openalex.org/I3020098449,CEA Grenoble,FR,2
+https://openalex.org/I4210112164,Complexity Science Hub,AT,2
+https://openalex.org/I4210140859,Ospedale dei Bambini Vittore Buzzi,IT,2
+https://openalex.org/I30147112,Medical University of Sofia,BG,2
+https://openalex.org/I3017851245,Polish-Japanese Academy of Information Technology,PL,2
+https://openalex.org/I3123212020,Universidad Politécnica de Cartagena,ES,2
+https://openalex.org/I120230055,Poznan University of Medical Sciences,PL,2
+https://openalex.org/I4405260790,"Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin",DE,2
+https://openalex.org/I4405261071,University College of Professional Education,PL,2
+https://openalex.org/I4210089242,Düsseldorf University Hospital,DE,2
+https://openalex.org/I4210139285,National Information Processing Institute,PL,2
+https://openalex.org/I4210139350,Fraunhofer Institute for Factory Operation and Automation,DE,2
+https://openalex.org/I4210139461,Laboratoire d'Informatique de l'École Polytechnique,FR,2
+https://openalex.org/I4210140282,University General Hospital Attikon,GR,2
+https://openalex.org/I4210115578,Corporació Sanitària Parc Taulí,ES,2
+https://openalex.org/I4210116085,Paracelsus Medizinische Privatuniversität,DE,2
+https://openalex.org/I198415970,Université d'Avignon et des Pays de Vaucluse,FR,2
+https://openalex.org/I198945027,Central European University,AT,2
+https://openalex.org/I4210113757,University Hospital Plzen,CZ,2
+https://openalex.org/I4405259981,SODA: Méthodes computationnelles et mathématiques pour comprendre la société et la santé à partir de données,FR,2
+https://openalex.org/I3019448017,Centre Hospitalier Universitaire de Toulouse,FR,2
+https://openalex.org/I4405287638,Österreichische Computer Gesellschaft,AT,2
+https://openalex.org/I3132474087,Karelia University of Applied Sciences,FI,2
+https://openalex.org/I4405264755,Instituto de Investigación Sanitaria Fundación Jiménez Díaz,ES,2
+https://openalex.org/I36515993,Eastern Mediterranean University,CY,2
+https://openalex.org/I4210138594,Rede de Química e Tecnologia,PT,2
+https://openalex.org/I4210137384,Centre for Health Technology and Services Research,PT,2
+https://openalex.org/I4210137570,University Hospital Hradec Králové,CZ,2
+https://openalex.org/I4210137640,Centre Hospitalier Le Vinatier,FR,2
+https://openalex.org/I4210116526,Laboratoire de Psychologie Sociale et Cognitive,FR,2
+https://openalex.org/I4210116658,École Centrale d'Électronique,FR,2
+https://openalex.org/I4210116662,Leipzig Heart Institute,DE,2
+https://openalex.org/I4210116730,Universitätsmedizin Göttingen,DE,2
+https://openalex.org/I204881574,University of Pavol Jozef Šafárik,SK,2
+https://openalex.org/I205158640,University of Skövde,SE,2
+https://openalex.org/I140744787,University of Pardubice,CZ,2
+https://openalex.org/I4210135521,Max Planck Institute for Intelligent Systems,DE,2
+https://openalex.org/I4210135666,Rezekne Academy of Technologies,LV,2
+https://openalex.org/I4210135900,Hochschule Fresenius,DE,2
+https://openalex.org/I4210118047,Laboratoire d’Imagerie Biomédicale,FR,2
+https://openalex.org/I4210118181,Alexander von Humboldt Institute for Internet and Society,DE,2
+https://openalex.org/I80251312,HUN-REN Research Centre for Natural Sciences,HU,2
+https://openalex.org/I137932638,Trier University of Applied Sciences,DE,2
+https://openalex.org/I200420086,IULM University,IT,2
+https://openalex.org/I19409027,Estonian University of Life Sciences,EE,2
+https://openalex.org/I4210138551,University Hospital Magdeburg,DE,2
+https://openalex.org/I4210089315,Hôpital de la Croix-Rousse,FR,2
+https://openalex.org/I4210089474,Centro Cardiologico Monzino,IT,2
+https://openalex.org/I4210090210,SURF,NL,2
+https://openalex.org/I4210087704,Vilnius University of Applied Sciences,LT,2
+https://openalex.org/I4405259624,University of Zagreb University Computing Centre,HR,2
+https://openalex.org/I4405264515,Paris-Sorbonne University,FR,2
+https://openalex.org/I4210088013,Institute for Anthropological Research,HR,2
+https://openalex.org/I4210088053,Universitätsklinikum Erlangen,DE,2
+https://openalex.org/I4210088087,Ingénierie des Agropolymères et Technologies Emergentes,FR,2
+https://openalex.org/I4210088232,Hospital Universitario Nuestra Señora de Candelaria,ES,2
+https://openalex.org/I4405261500,"Services répartis, Architectures, MOdélisation, Validation, Administration des Réseaux",FR,2
+https://openalex.org/I4405267180,Educational Research Centre,IE,2
+https://openalex.org/I4405267403,Azienda sanitaria universitaria Friuli Centrale,IT,2
+https://openalex.org/I4405267518,GZA Ziekenhuizen,BE,2
+https://openalex.org/I4210134847,"Centro Tecnológico de Investigación, Desarrollo e Innovación en tecnologías de la Información y las Comunicaciones (TIC)",ES,2
+https://openalex.org/I4210134959,Faculty of Design,SI,2
+https://openalex.org/I4210119350,Istituto Nazionale per l'Assicurazione Contro gli Infortuni sul Lavoro,IT,2
+https://openalex.org/I4210119506,School Centre Celje,SI,2
+https://openalex.org/I4210117615,Austrian Centre for Digital Humanities,AT,2
+https://openalex.org/I4210133580,Hochschul Informations System,DE,2
+https://openalex.org/I19370010,Orange (France),FR,2
+https://openalex.org/I875825670,National Institute for Astrophysics,IT,2
+https://openalex.org/I4210133756,Center for Advanced Systems Understanding,DE,2
+https://openalex.org/I4210133948,Joint Research Centre,DE,2
+https://openalex.org/I4210134045,Instituto de Investigación Biomédica de Salamanca,ES,2
+https://openalex.org/I4210132604,Centre Hospitalier Régional Universitaire de Brest,FR,2
+https://openalex.org/I4210132707,University of Security and Economics,BG,2
+https://openalex.org/I4210132724,"Laboratoire de Psychologie : Cognition, Comportement, Communication",FR,2
+https://openalex.org/I143923934,University of Applied Arts Vienna,AT,2
+https://openalex.org/I144926016,Universidade Politécnica de Castelo Branco,PT,2
+https://openalex.org/I146122375,Medical University of Białystok,PL,2
+https://openalex.org/I4210116173,Hospital General Universitario de Ciudad Real,ES,2
+https://openalex.org/I4210134559,Federal Institute for Vocational Education and Training,DE,2
+https://openalex.org/I113358080,Champalimaud Foundation,PT,2
+https://openalex.org/I3122934890,Jan Evangelista Purkyně University in Ústí nad Labem,CZ,2
+https://openalex.org/I4210087136,"Savoirs, Textes, Langage",FR,2
+https://openalex.org/I4405264447,Université Pierre-et-Marie-Curie,FR,2
+https://openalex.org/I150545927,MODUL University Vienna,AT,2
+https://openalex.org/I153821248,Estonian Business School,EE,2
+https://openalex.org/I140508470,Sophiahemmet University College,SE,2
+https://openalex.org/I185286233,University of Pitesti,RO,2
+https://openalex.org/I185914950,Satakunta University of Applied Sciences,FI,2
+https://openalex.org/I17937529,German Cancer Research Center,DE,2
+https://openalex.org/I189090001,Novo Nordisk (Denmark),DK,2
+https://openalex.org/I182627622,Université Sorbonne Nouvelle,FR,2
+https://openalex.org/I4210130845,i2CAT,ES,2
+https://openalex.org/I4210129357,Hospital Universitario Fundación Jiménez Díaz,ES,2
+https://openalex.org/I4210129449,Max Planck Institute for Innovation and Competition,DE,2
+https://openalex.org/I4210121791,Institute of Literary Research of the Polish Academy of Sciences,PL,2
+https://openalex.org/I4210121906,Analyse et Traitement Informatique de la Langue Française,FR,2
+https://openalex.org/I4210121996,Clinica Mediterranea,IT,2
+https://openalex.org/I4210122071,Medical University of Lodz,PL,2
+https://openalex.org/I4210122116,Fondation Ophtalmologique Adolphe de Rothschild,FR,2
+https://openalex.org/I4210124377,Neu-Ulm University of Applied Sciences,DE,2
+https://openalex.org/I4210124929,Helmholtz Centre for Infection Research,DE,2
+https://openalex.org/I4210125392,Centre for Automation and Robotics,ES,2
+https://openalex.org/I159743108,Dortmund University of Applied Sciences and Arts,DE,2
+https://openalex.org/I83041830,Deggendorf Institute of Technology,DE,2
+https://openalex.org/I165283593,École des Hautes Études en Santé Publique,FR,2
+https://openalex.org/I4210126360,Centre Inria de Saclay,FR,2
+https://openalex.org/I106785703,Institut polytechnique de Grenoble,FR,2
+https://openalex.org/I107257983,Darmstadt University of Applied Sciences,DE,2
+https://openalex.org/I102272798,INSEAD,FR,2
+https://openalex.org/I182212641,University of Salzburg,AT,2
+https://openalex.org/I39995536,Shumen University,BG,2
+https://openalex.org/I41073452,Management Center Innsbruck,AT,2
+https://openalex.org/I4210085887,Laboratoire Hubert Curien,FR,2
+https://openalex.org/I4210086115,Electrophysiology and Heart Modeling Institute,FR,2
+https://openalex.org/I4210086903,Azienda Ospedaliera Citta' della Salute e della Scienza di Torino,IT,2
+https://openalex.org/I12323705,The Abdus Salam International Centre for Theoretical Physics (ICTP),IT,2
+https://openalex.org/I123338534,Università degli Studi del Piemonte Orientale “Amedeo Avogadro”,IT,2
+https://openalex.org/I1287193074,Université catholique de lyon,FR,2
+https://openalex.org/I42237331,Centre international de recherche sur le cancer,FR,2
+https://openalex.org/I91720666,ESSCA School of Management,FR,2
+https://openalex.org/I4210125843,University Hospital Leipzig,DE,2
+https://openalex.org/I36685595,Uniwersytet SWPS,PL,2
+https://openalex.org/I385303915,Wroclaw Medical University,PL,2
+https://openalex.org/I4405266105,INSIGHT - Piaget Research Center for Ecological Human Development,PT,2
+https://openalex.org/I158675288,FIZ Karlsruhe – Leibniz Institute for Information Infrastructure,DE,2
+https://openalex.org/I84009706,ENSAE Paris,FR,2
+https://openalex.org/I84340266,WHU – Otto Beisheim School of Management,DE,2
+https://openalex.org/I172825728,Deutscher Wetterdienst,DE,2
+https://openalex.org/I177064439,Université de Bourgogne,FR,2
+https://openalex.org/I4210127279,Ellinogermaniki Agogi,GR,2
+https://openalex.org/I4210127724,Hochschule Macromedia,DE,2
+https://openalex.org/I99977706,FH Aachen,DE,1
+https://openalex.org/I101527212,Statens Serum Institut,DK,1
+https://openalex.org/I103547593,Centria University of Applied Sciences,FI,1
+https://openalex.org/I103225651,Fondazione Edmund Mach,IT,1
+https://openalex.org/I102451721,Academy of Media Arts Cologne,DE,1
+https://openalex.org/I4210123675,Hospital Universitario Reina Sofía,ES,1
+https://openalex.org/I4210123600,Hôpital Edouard Herriot,FR,1
+https://openalex.org/I4210123501,Escola Superior de Enfermagem da Universidade do Porto,PT,1
+https://openalex.org/I4210123379,Kirchliche Pädagogische Hochschule Wien/Niederösterreich,AT,1
+https://openalex.org/I4210125929,University Cancer Center Hamburg,DE,1
+https://openalex.org/I4210125877,College for Management in Tourism and Informatics in Virovitica,HR,1
+https://openalex.org/I4210125798,"Spitalul Clinic Judeţean de Urgenţe ""Sf. Spiridon"" Iaşi",RO,1
+https://openalex.org/I4210125343,The Jacob of Paradies University,PL,1
+https://openalex.org/I4210125243,Italian University Line,IT,1
+https://openalex.org/I4210124712,Institute for Ecological Economy Research,DE,1
+https://openalex.org/I122941322,Institut Supérieur d'Électronique de Paris,FR,1
+https://openalex.org/I124261006,École Supérieure des Sciences Économiques et Commerciales,FR,1
+https://openalex.org/I124326101,University of Teramo,IT,1
+https://openalex.org/I12449238,Université d'Orléans,FR,1
+https://openalex.org/I12607205,HOGENT University of Applied Sciences and Arts,BE,1
+https://openalex.org/I926082481,Ventspils University of Applied Sciences,LV,1
+https://openalex.org/I931278978,College of Business Administration,LV,1
+https://openalex.org/I90326151,Ecole des Hautes Etudes Commerciales du Nord,FR,1
+https://openalex.org/I1283220839,Stuttgart Media University,DE,1
+https://openalex.org/I128589980,Breda University of Applied Sciences,NL,1
+https://openalex.org/I1285933455,Physikalisch-Technische Bundesanstalt,DE,1
+https://openalex.org/I128649747,Libera Università Maria SS. Assunta,IT,1
+https://openalex.org/I1289196864,Croatian Meteorological and Hydrological Service,HR,1
+https://openalex.org/I1290625346,Hungarian Central Statistical Office,HU,1
+https://openalex.org/I1295801184,Netherlands Institute for Neuroscience,NL,1
+https://openalex.org/I127927624,University of Naples - L'Orientale,IT,1
+https://openalex.org/I4210128919,Établissement Français du Sang,FR,1
+https://openalex.org/I4210128981,Parc Sanitari Sant Joan de Déu,ES,1
+https://openalex.org/I4210129324,Netherlands Leprosy Relief,NL,1
+https://openalex.org/I4210127303,Institute for Comparative Media and Communication Studies,AT,1
+https://openalex.org/I4210127454,Thion Medical (France),FR,1
+https://openalex.org/I4210127465,Instituts Universitaires de Technologie,FR,1
+https://openalex.org/I4210127475,Instituto Ramón y Cajal de Investigación Sanitaria,ES,1
+https://openalex.org/I4210127521,Berlin-Brandenburger Centrum für Regenerative Therapien,DE,1
+https://openalex.org/I4210127672,Engineering (Italy),IT,1
+https://openalex.org/I4210127711,National Hellenic Research Foundation,GR,1
+https://openalex.org/I4210127789,Leibniz Institute on Aging - Fritz Lipmann Institute (FLI),DE,1
+https://openalex.org/I4210127902,Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK),DE,1
+https://openalex.org/I4210125982,Centre Hospitalier du Mans,FR,1
+https://openalex.org/I4210126152,Ospedale Santa Maria della Misericordia di Udine,IT,1
+https://openalex.org/I4210126225,HUN-REN Wigner Research Centre for Physics,HU,1
+https://openalex.org/I4210123840,Copenhagen Prospective Studies on Asthma in Childhood,DK,1
+https://openalex.org/I4210128559,Reply (Italy),IT,1
+https://openalex.org/I4210122644,FZU - Institute of Physics of the Czech Academy of Sciences,CZ,1
+https://openalex.org/I4210122709,Hospital de Santa Cruz,PT,1
+https://openalex.org/I4210122849,Philips (Netherlands),NL,1
+https://openalex.org/I4210122962,Madrid Health Service,ES,1
+https://openalex.org/I4210123192,International Audio Laboratories Erlangen,DE,1
+https://openalex.org/I4210123211,Istituto delle Scienze Neurologiche di Bologna,IT,1
+https://openalex.org/I4210123276,Andreas Sygros Hospital,GR,1
+https://openalex.org/I4210121509,Institute of Mechanical Engineering and Industrial Mangement,PT,1
+https://openalex.org/I4210121579,Educational Research Institute,SI,1
+https://openalex.org/I4210121775,FORTH Institute of Computer Science,GR,1
+https://openalex.org/I4210128603,Société Française d'Allergologie,FR,1
+https://openalex.org/I4210128801,Helmholtz Center for Information Security,DE,1
+https://openalex.org/I4210128802,Schmalkalden University of Applied Sciences,DE,1
+https://openalex.org/I4210128883,Neurologisches Fachkrankenhaus für Bewegungsstörungen/Parkinson,DE,1
+https://openalex.org/I4210128915,Centre d'Immunologie et des Maladies Infectieuses,FR,1
+https://openalex.org/I4210129405,Ospedale Infermi di Rimini,IT,1
+https://openalex.org/I4210121964,Centre François Baclesse,FR,1
+https://openalex.org/I4210122098,NOVAMINA Innovative Technology Centre,HR,1
+https://openalex.org/I4210122204,Oberon (Netherlands),NL,1
+https://openalex.org/I4210120109,Museo Nacional de Ciencias Naturales,ES,1
+https://openalex.org/I4210120175,Institute for Prevention and Occupational Medicine,DE,1
+https://openalex.org/I4210129464,Hochschule für Musik und Theater München,DE,1
+https://openalex.org/I4210129470,FORTH Institute of Applied and Computational Mathematics,GR,1
+https://openalex.org/I4210129778,"Istituto Nazionale di Fisica Nucleare, Sezione di Cagliari",IT,1
+https://openalex.org/I4210130036,Wolters Kluwer (Netherlands),NL,1
+https://openalex.org/I4210130078,St. Elisabethen-Krankenhaus Frankfurt,DE,1
+https://openalex.org/I4210130087,University of Education Schwaebisch Gmuend,DE,1
+https://openalex.org/I4210130281,"Landesamt für Natur, Umwelt und Klima Nordrhein-Westfalen",DE,1
+https://openalex.org/I4210130301,Fondazione Istituto G. Giglio di Cefalù,IT,1
+https://openalex.org/I4210130426,German Broadcasting Archive,DE,1
+https://openalex.org/I4210128483,KIC InnoEnergy (Netherlands),NL,1
+https://openalex.org/I4210132057,Instituto Superior de Ciências Empresariais e do Turismo,PT,1
+https://openalex.org/I4210132093,Metaxa Hospital,GR,1
+https://openalex.org/I4210132125,Hôpital Lapeyronie,FR,1
+https://openalex.org/I4210132444,"Systems, Applications & Products in Data Processing (Germany)",DE,1
+https://openalex.org/I4210132446,Akademia Śląska,PL,1
+https://openalex.org/I4210132578,University Hospital Frankfurt,DE,1
+https://openalex.org/I4210130498,Hospital Universitario de La Princesa,ES,1
+https://openalex.org/I4210130743,Institute for Biomedical Research and Innovation,IT,1
+https://openalex.org/I4210130782,Netherlands Food and Consumer Product Safety Authority,NL,1
+https://openalex.org/I4210130844,University Clinical Centre Maribor,SI,1
+https://openalex.org/I4210131070,Open Data Infrastructure for Social Science and Economic Innovations,NL,1
+https://openalex.org/I4210131167,Centro Universitario Internazionale,IT,1
+https://openalex.org/I4210131199,Paris Cardiovascular Research Center,FR,1
+https://openalex.org/I4210131308,I.R.C.C.S. Oasi Maria SS,IT,1
+https://openalex.org/I4210131537,MBS School of Business,FR,1
+https://openalex.org/I4210129336,Łukasiewicz Research Network,PL,1
+https://openalex.org/I4210131615,Universities of Giessen and Marburg Lung Center,DE,1
+https://openalex.org/I4210131706,Modèles Dynamiques Corpus,FR,1
+https://openalex.org/I4210131765,University of Applied Sciences FHDW Hannover,DE,1
+https://openalex.org/I4210120342,Universitätsklinikum Krems,AT,1
+https://openalex.org/I4210120400,National Library of Portugal,PT,1
+https://openalex.org/I4210120512,Hochschule für Technik und Wirtschaft des Saarlandes,DE,1
+https://openalex.org/I4210120975,Hôpital Cardiologique du Haut-Lévêque,FR,1
+https://openalex.org/I4210121181,Algarve Biomedical Center,PT,1
+https://openalex.org/I4210121220,Institut des Géosciences de l'Environnement,FR,1
+https://openalex.org/I4210121286,National Academy of Music Prof. Pancho Vladigerov,BG,1
+https://openalex.org/I4210121404,Corfu General Clinic,GR,1
+https://openalex.org/I4210118704,Centre Méditerranéen de Médecine Moléculaire,FR,1
+https://openalex.org/I4210119044,Department of Cultural Heritage,LT,1
+https://openalex.org/I4210131934,Lukasiewicz Research Network - Krakow Institute of Technology,PL,1
+https://openalex.org/I4210131945,University Clinical Centre,PL,1
+https://openalex.org/I4210131982,Faculty of Applied Social Studies in Nova Gorica,SI,1
+https://openalex.org/I4210119095,Hôpital Lariboisière,FR,1
+https://openalex.org/I4210119171,Kepler Universitätsklinikum,AT,1
+https://openalex.org/I4210119419,"Czech Academy of Sciences, Institute of Information Theory and Automation",CZ,1
+https://openalex.org/I4210119436,Azienda Ospedaliero Universitaria Maggiore della Carita,IT,1
+https://openalex.org/I4210119759,Essen University Hospital,DE,1
+https://openalex.org/I4210119786,Cineca,IT,1
+https://openalex.org/I4210119986,Finsa (Italy),IT,1
+https://openalex.org/I4210120075,Hospital El Bierzo,ES,1
+https://openalex.org/I4210117749,AcrossLimits,MT,1
+https://openalex.org/I4210133470,Fraunhofer Institute for Secure Information Technology,DE,1
+https://openalex.org/I4210133602,Instituto de Biomedicina de Sevilla,ES,1
+https://openalex.org/I4210133672,Istituto di Farmacologia Traslazionale,IT,1
+https://openalex.org/I4210133934,Bernstein Center for Computational Neuroscience Tübingen,DE,1
+https://openalex.org/I4210133978,Agency for Social Analyses,BG,1
+https://openalex.org/I4210133988,Bologna Research Area,IT,1
+https://openalex.org/I4210134135,HUN-REN Centre for Ecological Research,HU,1
+https://openalex.org/I4210118429,Instituto de Ciencia de Materiales de Madrid,ES,1
+https://openalex.org/I4210118469,Centre Hospitalier Universitaire de Limoges,FR,1
+https://openalex.org/I4210118470,FWU Institut für Film und Bild in Wissenschaft und Unterricht,DE,1
+https://openalex.org/I4210118628,Joint Research Center,BE,1
+https://openalex.org/I4210116121,Casa di Cura Columbus,IT,1
+https://openalex.org/I4210116314,Leibniz Institute of Freshwater Ecology and Inland Fisheries,DE,1
+https://openalex.org/I4210116480,Flanders Make (Belgium),BE,1
+https://openalex.org/I4210134544,Centre Hospitalier Universitaire de Liège,BE,1
+https://openalex.org/I4210134551,Sint Maartenskliniek,NL,1
+https://openalex.org/I4210134634,Ricerca sul Sistema Energetico (Italy),IT,1
+https://openalex.org/I4210134790,Institute for Neurosciences of Montpellier,FR,1
+https://openalex.org/I4210134800,Institut d'Électronique et des Systèmes,FR,1
+https://openalex.org/I4210135106,Università degli Studi Internazionali di Roma,IT,1
+https://openalex.org/I4210133078,Hôtel-Dieu de Paris,FR,1
+https://openalex.org/I4210133302,Universitäts-Herzzentrum Freiburg-Bad Krozingen,DE,1
+https://openalex.org/I4210119063,Autonomous University of Lisbon,PT,1
+https://openalex.org/I4210136922,Fraunhofer Institute for Applied and Integrated Security,DE,1
+https://openalex.org/I4210135181,Instituto Tecnológico de la Energía,ES,1
+https://openalex.org/I4210135251,Spintronique et Technologie des Composants,FR,1
+https://openalex.org/I4210135322,KME (Germany),DE,1
+https://openalex.org/I4210135439,RMIT Europe,ES,1
+https://openalex.org/I4210135516,German Institute for Adult Education – Leibniz Centre for Lifelong Learning,DE,1
+https://openalex.org/I4210135709,Industrial Systems Institute,GR,1
+https://openalex.org/I4210135822,Deutsches Jugendinstitut,DE,1
+https://openalex.org/I4210135996,Institut Agro Dijon,FR,1
+https://openalex.org/I4210136049,Iridium Kankernetwerk,BE,1
+https://openalex.org/I4210134168,Katholieke Hogeschool Vives,BE,1
+https://openalex.org/I4210134195,Hôpital Sainte-Marguerite,FR,1
+https://openalex.org/I4210134440,Expert System (Italy),IT,1
+https://openalex.org/I4210117805,Ministry of Internal Affairs,RO,1
+https://openalex.org/I4210117901,Poznan Supercomputing and Networking Center,PL,1
+https://openalex.org/I4210118299,Institute for Biomedicine,IT,1
+https://openalex.org/I4210116613,National Statistical Institute of Portugal,PT,1
+https://openalex.org/I4210116663,VieCuri Medisch Centrum,NL,1
+https://openalex.org/I4210116847,"Environnement, ville, société",FR,1
+https://openalex.org/I4210116940,Don Carlo Gnocchi Foundation,IT,1
+https://openalex.org/I4210117005,Laboratoire des Sciences du Numérique de Nantes,FR,1
+https://openalex.org/I4210117258,BioTechMed-Graz,AT,1
+https://openalex.org/I4210117391,Democracy X,DK,1
+https://openalex.org/I4210115305,German Center for Infection Research,DE,1
+https://openalex.org/I4210136231,Institute of Cardiology,PL,1
+https://openalex.org/I4210136249,University of Applied Sciences Upper Austria,AT,1
+https://openalex.org/I4210136308,Translational Innovation in Medicine and Complexity,FR,1
+https://openalex.org/I4210136317,Department of Education,ES,1
+https://openalex.org/I4210136335,Spitalul Clinic Judetean de Urgenta Târgu Mureş,RO,1
+https://openalex.org/I4210136513,Laboratoire de Chimie Physique et Microbiologie pour les Matériaux et l'Environnement,FR,1
+https://openalex.org/I4210136559,Istituto Nazionale di Ricerca Metrologica,IT,1
+https://openalex.org/I4210136707,Swedish School of Sport and Health Sciences,SE,1
+https://openalex.org/I4210138654,University Hospital of Heraklion,GR,1
+https://openalex.org/I4210138667,Évolution Paris Seine,FR,1
+https://openalex.org/I4210138704,Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé,FR,1
+https://openalex.org/I4210138717,Dennis Gabor University,HU,1
+https://openalex.org/I4210138738,Institute of Cognitive Neuroscience and Psychology,HU,1
+https://openalex.org/I4210136950,Hochschule Aalen,DE,1
+https://openalex.org/I4210137155,Toulouse School of Management Research,FR,1
+https://openalex.org/I4210137435,"Interactions, Corpus, Apprentissages, Représentations",FR,1
+https://openalex.org/I4210137487,Hospital Universitario del Vinalopó,ES,1
+https://openalex.org/I4210137611,Centre for Social Sciences,HU,1
+https://openalex.org/I4210137674,Hospital General Universitario de Alicante Doctor Balmis,ES,1
+https://openalex.org/I4210137741,Wikimedia Deutschland,DE,1
+https://openalex.org/I4210137817,Children's Hospital Zagreb,HR,1
+https://openalex.org/I4210137980,European Centre for Living Technology,IT,1
+https://openalex.org/I4210136185,Ospedale Regina Margherita,IT,1
+https://openalex.org/I4210136188,European Corporate Governance Institute,BE,1
+https://openalex.org/I4210138202,Maria Eleonora Hospital,IT,1
+https://openalex.org/I4210138270,Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases,DE,1
+https://openalex.org/I4210115397,University Mental Health Research Institute,GR,1
+https://openalex.org/I4210115445,Laboratoire Angevin de Recherche en Mathématiques,FR,1
+https://openalex.org/I4210115519,Centre de Recherche en Informatique,FR,1
+https://openalex.org/I4210115609,Istituto di Studi sul Mediterraneo Antico,IT,1
+https://openalex.org/I4210115745,Biogem,IT,1
+https://openalex.org/I4210115759,Eastern Finland Laboratory Center,FI,1
+https://openalex.org/I4210115900,"Laboratoire Cognition, Langues, Langage, Ergonomie",FR,1
+https://openalex.org/I4210115958,Children's Clinical University Hospital,LV,1
+https://openalex.org/I4210116110,Alcide De Gasperi University of Euroregional Economy in Józefów,PL,1
+https://openalex.org/I4210114274,Laboratoire d’Informatique et Systèmes,FR,1
+https://openalex.org/I4210114397,Elvac Ekotechnika (Czechia),CZ,1
+https://openalex.org/I4210114509,National University of Theatre and Film I.L. Caragiale,RO,1
+https://openalex.org/I4210138343,Hôpital Purpan,FR,1
+https://openalex.org/I4210138560,European Molecular Biology Laboratory,DE,1
+https://openalex.org/I4210139089,"“Foisor” Clinical Hospital of Orthopaedics, Traumatology and Osteoarticular TB",RO,1
+https://openalex.org/I4210114623,Laiko General Hospital of Athens,GR,1
+https://openalex.org/I4210114884,Eberswalde University for Sustainable Development,DE,1
+https://openalex.org/I4210114897,University of Applied Sciences Kehl,DE,1
+https://openalex.org/I4210115084,Universitätsklinikum St. Pölten,AT,1
+https://openalex.org/I4210115111,University of Arts and Industrial Design Linz,AT,1
+https://openalex.org/I4210113153,Neuroscience Institute,IT,1
+https://openalex.org/I4210113222,Fraunhofer Information Center for Planning and Building,DE,1
+https://openalex.org/I4210113250,Mazovian University in Płock,PL,1
+https://openalex.org/I4210139202,GGZ inGeest,NL,1
+https://openalex.org/I4210139259,LVR-Klinik Köln,DE,1
+https://openalex.org/I4210139293,Comunidad de Madrid,ES,1
+https://openalex.org/I4210139483,GREYC,FR,1
+https://openalex.org/I4210139630,"Azienda Ospedaliera Universitaria Policlinico ""G. Martino""",IT,1
+https://openalex.org/I4210139803,VIB-UGent Center for Inflammation Research,BE,1
+https://openalex.org/I4210138023,Medicina,PL,1
+https://openalex.org/I4210113454,"Approches Linguistiques Théoriques, Appliquées et Expérimentales : langues et cultures connectées",FR,1
+https://openalex.org/I4210113940,Pixium Vision (France),FR,1
+https://openalex.org/I4210113999,RECETOX,CZ,1
+https://openalex.org/I4210114047,Amalia Kinderziekenhuis,NL,1
+https://openalex.org/I4210114068,Centre Hospitalier Universitaire de Caen Normandie,FR,1
+https://openalex.org/I4210114198,Bogdan Voda University,RO,1
+https://openalex.org/I4210112279,"Milieux environnementaux, transferts et interactions dans les hydrosystèmes et les sols",FR,1
+https://openalex.org/I4210112307,Fundación Centro Tecnológico de la Información y la Comunicación,ES,1
+https://openalex.org/I4210140856,Complexo Hospitalario Universitario A Coruña,ES,1
+https://openalex.org/I4210140930,Thales (France),FR,1
+https://openalex.org/I4210141076,Ministere de l'Education Nationale,FR,1
+https://openalex.org/I4210141616,Łukasiewicz - Institute for Sustainable Technologies,PL,1
+https://openalex.org/I4210141686,Centro Hospitalar de Vila Nova de Gaia,PT,1
+https://openalex.org/I4210138843,Policlinico Tor Vergata,IT,1
+https://openalex.org/I4210138923,Państwowa Wyższa Szkoła Zawodowa w Nowym Sączu,PL,1
+https://openalex.org/I4210138993,St. Josef-Hospital,DE,1
+https://openalex.org/I4210143772,Ospedale Generale Regionale Francesco Miulli,IT,1
+https://openalex.org/I4210143919,Polish Mother’s Memorial Hospital Research Institute,PL,1
+https://openalex.org/I4210144241,Instituto de Investigación en Ciencias de la Alimentación,ES,1
+https://openalex.org/I4210144394,"Czech Academy of Sciences, Institute of Psychology",CZ,1
+https://openalex.org/I4210144525,Bioingénierie et Dynamique Microbienne aux Interfaces Alimentaires,FR,1
+https://openalex.org/I4210141873,University of Nyíregyháza,HU,1
+https://openalex.org/I4210141924,Polish Geological Institute,PL,1
+https://openalex.org/I4210142031,Hôpital Universitaire Dupuytren,FR,1
+https://openalex.org/I4210142109,Rosenheim Technical University of Applied Sciences,DE,1
+https://openalex.org/I4210142260,Max Planck Institute for Molecular Genetics,DE,1
+https://openalex.org/I4210142348,Max Planck Institute for the History of Science,DE,1
+https://openalex.org/I4210140368,Deloitte (Czechia),CZ,1
+https://openalex.org/I4210140443,Ospedale Santa Maria Goretti,IT,1
+https://openalex.org/I4210140482,Constanta Maritime University,RO,1
+https://openalex.org/I4210140675,Servicio Público de Empleo Estatal,ES,1
+https://openalex.org/I4210113430,Tecnalia,ES,1
+https://openalex.org/I4210143013,Puigvert Foundation,ES,1
+https://openalex.org/I4210112646,Immunology from Concept and Experiments to Translation,FR,1
+https://openalex.org/I4210112706,Institut Catholique d'Arts et Métiers,FR,1
+https://openalex.org/I4210112900,Slagelse Hospital,DK,1
+https://openalex.org/I4210112910,Centre Hospitalier Universitaire d'Angers,FR,1
+https://openalex.org/I4210112924,Les Hôpitaux de Chartres,FR,1
+https://openalex.org/I4210112975,Europäische Fernhochschule Hamburg,DE,1
+https://openalex.org/I4210113080,Munich Cluster for Systems Neurology,DE,1
+https://openalex.org/I4210110507,Fraunhofer Institute for Applied Information Technology,DE,1
+https://openalex.org/I4210110576,Malteser Waldkrankenhaus Erlangen,DE,1
+https://openalex.org/I4210110782,Catholic University of Croatia,HR,1
+https://openalex.org/I4210110890,Stifterverband,DE,1
+https://openalex.org/I4210143031,Niels Brock,DK,1
+https://openalex.org/I4210143244,Hôpital Pasteur,FR,1
+https://openalex.org/I4210143378,IMDEA Food,ES,1
+https://openalex.org/I4210143597,Instituto Superior de Educação e Ciências,PT,1
+https://openalex.org/I4210144566,Laboratoire de l'Informatique du Parallélisme,FR,1
+https://openalex.org/I4210144624,Intesa Sanpaolo (Italy),IT,1
+https://openalex.org/I4210144652,Centre hospitalier universitaire d'Orléans,FR,1
+https://openalex.org/I4210144801,Loewe Center for Synthetic Microbiology,DE,1
+https://openalex.org/I4210144922,Azienda Ospedaliera Ospedale Maggiore,IT,1
+https://openalex.org/I4210145009,Sciensano (Belgium),BE,1
+https://openalex.org/I4210145114,Celje School of Economics,SI,1
+https://openalex.org/I4210145151,Evangelisches Krankenhaus Oldenburg,DE,1
+https://openalex.org/I4210145170,Hôpital Bichat-Claude-Bernard,FR,1
+https://openalex.org/I4210145360,Slovenska Narodna Kniznica,SK,1
+https://openalex.org/I4210145385,Capital Region of Denmark,DK,1
+https://openalex.org/I4210145463,WSB University,PL,1
+https://openalex.org/I4210145581,Environmental Earth Observation Information Technology (Austria),AT,1
+https://openalex.org/I4210142620,Erasmus MC - Sophia Children’s Hospital,NL,1
+https://openalex.org/I4210142805,Steno Diabetes Center North Jutland,DK,1
+https://openalex.org/I4210142904,United Nations University,PT,1
+https://openalex.org/I4210111631,Hôpital Fernand-Widal,FR,1
+https://openalex.org/I4210111688,Georges Friedel Laboratory,FR,1
+https://openalex.org/I4210111781,War Child,NL,1
+https://openalex.org/I4210111929,Azienda Ospedaliera S.Giuseppe Moscati,IT,1
+https://openalex.org/I4210109156,Max Planck Institute for Astronomy,DE,1
+https://openalex.org/I4210109212,National Defence University,FI,1
+https://openalex.org/I4210109285,Šiauliai State Higher Education Institution,LT,1
+https://openalex.org/I4210146003,Biocrates Life Sciences (Austria),AT,1
+https://openalex.org/I4210146044,École Normale Supérieure de Rennes,FR,1
+https://openalex.org/I4210146095,Geosciences Paris-Saclay,FR,1
+https://openalex.org/I4210146096,Region Skåne,SE,1
+https://openalex.org/I4210146447,Kliniken Essen-Mitte,DE,1
+https://openalex.org/I4210146600,VIVE - The Danish Center for Social Science Research,DK,1
+https://openalex.org/I4210146756,Brandenburg University of Applied Sciences,DE,1
+https://openalex.org/I4210146930,Deep Blue (Italy),IT,1
+https://openalex.org/I4210146999,Universidade Lusófona do Porto,PT,1
+https://openalex.org/I4210149554,Elisabeth-TweeSteden Ziekenhuis,NL,1
+https://openalex.org/I4210147073,Institute of Economics,HU,1
+https://openalex.org/I4210147076,"Azienda Ospedaliera Universitaria Policlinico ""Paolo Giaccone"" di Palermo",IT,1
+https://openalex.org/I4210147545,Hôpital Arnaud de Villeneuve,FR,1
+https://openalex.org/I4210148273,University of Slavonski Brod,HR,1
+https://openalex.org/I4210148356,GGD Amsterdam,NL,1
+https://openalex.org/I4210148409,Ospedale Santa Maria della Misericordia di Rovigo,IT,1
+https://openalex.org/I4210148552,Equipes Traitement de l'Information et Systèmes,FR,1
+https://openalex.org/I4210148559,École nationale supérieure de techniques avancées Bretagne,FR,1
+https://openalex.org/I4210148616,University of Chemical Technology and Metallurgy,BG,1
+https://openalex.org/I4210145899,Westfälische Hochschule,DE,1
+https://openalex.org/I4210145925,Institut Supérieur des Biotechnologies de Paris,FR,1
+https://openalex.org/I4210110904,Marien Hospital Wesel,DE,1
+https://openalex.org/I4210111059,Hospital General de Granollers,ES,1
+https://openalex.org/I4210111140,Itasca Consultants (France),FR,1
+https://openalex.org/I4210111187,Centre Hospitalier Universitaire de Poitiers,FR,1
+https://openalex.org/I4210149908,Erasmus MC Cancer Institute,NL,1
+https://openalex.org/I4210149995,Ministry of the Environment of the Czech Republic,CZ,1
+https://openalex.org/I4210149999,Andalusian Centre for Nanomedicine and Biotechnology,ES,1
+https://openalex.org/I4210150112,Fondazione Santa Lucia,IT,1
+https://openalex.org/I4210150265,EKA University of Applied Sciences,LV,1
+https://openalex.org/I4210150429,Ziekenhuisnetwerk Antwerpen Stuivenberg,BE,1
+https://openalex.org/I4210150602,Laboratoire Interuniversitaire de Biologie de la Motricité,FR,1
+https://openalex.org/I4210150697,Metropolitan Hospital,GR,1
+https://openalex.org/I4210148648,Ziekenhuis Oost-Limburg,BE,1
+https://openalex.org/I4210149026,Hospital Universitario de Fuenlabrada,ES,1
+https://openalex.org/I4210149039,Karl Landsteiner University of Health Sciences,AT,1
+https://openalex.org/I4210149079,Thomas More Kempen,BE,1
+https://openalex.org/I4210149343,Ospedale D. Cotugno,IT,1
+https://openalex.org/I4210149361,University of Applied Sciences Appollon,DE,1
+https://openalex.org/I4210149433,Institute for Complex Systems,IT,1
+https://openalex.org/I4210149487,International School of Management,DE,1
+https://openalex.org/I4210107352,Agrupamento de Escolas Nuno Álvares,PT,1
+https://openalex.org/I4210109289,PFH Private University of Applied Sciences,DE,1
+https://openalex.org/I4210109354,Institut de Recherche contre les Cancers de l’Appareil Digestif,FR,1
+https://openalex.org/I4210109357,Radboud Institute for Molecular Life Sciences,NL,1
+https://openalex.org/I4210109507,Microsoft (Ireland),IE,1
+https://openalex.org/I4210109518,Groupe de Recherches et d'Echanges Technologiques,FR,1
+https://openalex.org/I4210109745,Institute of Organic Chemistry,PL,1
+https://openalex.org/I4210109805,University of Applied Sciences for Business & Society BFI Vienna,AT,1
+https://openalex.org/I4210109843,"Conservatorio di Musica ""Luca Marenzio""",IT,1
+https://openalex.org/I4210110092,Inserm Transfert,FR,1
+https://openalex.org/I4210110463,Leibniz Institute of Plant Biochemistry,DE,1
+https://openalex.org/I4210108291,Centre de Recherches sur la Cognition et l'Apprentissage,FR,1
+https://openalex.org/I4210108329,d-fine (Germany),DE,1
+https://openalex.org/I4210108336,European Institute of Education and Social Policy,FR,1
+https://openalex.org/I4210108362,Pain in Motion,BE,1
+https://openalex.org/I4210149784,Max Planck Institute for the Structure and Dynamics of Matter,DE,1
+https://openalex.org/I4210108054,Varna University of Management,BG,1
+https://openalex.org/I4210108245,Police Department,LT,1
+https://openalex.org/I4210108266,Elisava Barcelona School of Design and Engineering,ES,1
+https://openalex.org/I4210108271,ISLA Santarém - Instituto Politécnico,PT,1
+https://openalex.org/I4210151275,Laboratoire d’Ingénierie des Systèmes Physiques et Numériques,FR,1
+https://openalex.org/I4210151805,Federal Institute for Population Research,DE,1
+https://openalex.org/I4210151843,Uniwersytet Kaliski im. Prezydenta Stanisława Wojciechowskiego,PL,1
+https://openalex.org/I4210152306,Rijnstate Hospital,NL,1
+https://openalex.org/I4210152337,Institut d’Epidémiologie et de Santé Mondiale – Michel Dumas,FR,1
+https://openalex.org/I4210152422,Université Toulouse - Jean Jaurès,FR,1
+https://openalex.org/I4210149655,Institute of Criminology,SI,1
+https://openalex.org/I4210108528,State University of Applied Sciences in Elbląg,PL,1
+https://openalex.org/I4210108706,Netherlands Institute for Health Services Research,NL,1
+https://openalex.org/I4210108730,Kinderkrebs-Zentrum Hamburg,DE,1
+https://openalex.org/I4210108778,Fresenius (Germany),DE,1
+https://openalex.org/I4210108873,Hospital Universitario Araba,ES,1
+https://openalex.org/I4210152429,University Hospital in Halle,DE,1
+https://openalex.org/I4210152479,Statistical Service,CY,1
+https://openalex.org/I4210152518,Laboratoire d'Informatique Gaspard-Monge,FR,1
+https://openalex.org/I4210152598,Ospedale Vito Fazzi,IT,1
+https://openalex.org/I4210152615,Cyprus Pedagogical Institute,CY,1
+https://openalex.org/I4210152641,Bernstein Center for Computational Neuroscience Berlin,DE,1
+https://openalex.org/I4210152675,Fundacion CITA Alzheimer,ES,1
+https://openalex.org/I4210152922,LWL-Universitätsklinikum Bochum,DE,1
+https://openalex.org/I4210153139,Hospital Universitario Virgen del Rocío,ES,1
+https://openalex.org/I4210153316,BG Klinikum Bergmannstrost Halle,DE,1
+https://openalex.org/I4210150763,Gran Sasso Science Institute,IT,1
+https://openalex.org/I4210150906,Ri.MED,IT,1
+https://openalex.org/I4210150966,War Studies Academy,PL,1
+https://openalex.org/I4210151031,Laboratoire de Sciences Cognitives et Psycholinguistique,FR,1
+https://openalex.org/I4210107855,"Laboratoire de Spectroscopie pour les Interactions, la Réactivité et l'Environnement",FR,1
+https://openalex.org/I4210107955,"Czech Academy of Sciences, Institute of Philosophy",CZ,1
+https://openalex.org/I4210153656,Holst Centre (Netherlands),NL,1
+https://openalex.org/I4210106141,Vasile Goldis Western University of Arad,RO,1
+https://openalex.org/I4210106192,Technische Hochschule Ingolstadt,DE,1
+https://openalex.org/I4210106250,"Laboratoire Angevin de Mécanique, Procédés et InnovAtion",FR,1
+https://openalex.org/I4210106438,Centre for Higher Education,DE,1
+https://openalex.org/I4210106487,Hospital de Egas Moniz,PT,1
+https://openalex.org/I4210107026,University of Liepāja,LV,1
+https://openalex.org/I4210104996,"""Ion Ionescu de la Brad"" Iasi University of Life Sciences",RO,1
+https://openalex.org/I4210153820,College of Social and Media Culture,PL,1
+https://openalex.org/I4210153858,Fundacion Centro De Investigacion De Enfermedades Neurologicas,ES,1
+https://openalex.org/I4210153961,Instituto Superior Miguel Torga,PT,1
+https://openalex.org/I4210154117,Athens Naval & Veterans Hospital,GR,1
+https://openalex.org/I4210154143,Cyceron,FR,1
+https://openalex.org/I4210154168,Max Planck Institute for Biogeochemistry,DE,1
+https://openalex.org/I4210154243,Institut für Energie- und Umwelttechnik,DE,1
+https://openalex.org/I4210154254,Instituto Superior de Tecnologias Avançadas,PT,1
+https://openalex.org/I4210105455,"Istituto Nazionale di Fisica Nucleare, Sezione di Padova",IT,1
+https://openalex.org/I4210105462,Lusíada University of Lisbon,PT,1
+https://openalex.org/I4210105627,"Instituto de Artes Visuais, Design e Marketing",PT,1
+https://openalex.org/I4210105659,Azienda Ospedaliero Universitaria di Sassari,IT,1
+https://openalex.org/I4210103477,Hospital La Paz Institute for Health Research,ES,1
+https://openalex.org/I4210103698,Centre de recherche en Epidémiologie et Santé des Populations,FR,1
+https://openalex.org/I4210104025,Institute for Economic Research,SI,1
+https://openalex.org/I4210154877,Stockholm Environment Institute,SE,1
+https://openalex.org/I4210154878,Netherlands Nutrition Centre,NL,1
+https://openalex.org/I4210155114,Complejo Hospitalario Universitario de Albacete,ES,1
+https://openalex.org/I4210155205,Marine Institute,IE,1
+https://openalex.org/I4210155298,Kranj School Centre,SI,1
+https://openalex.org/I4210155320,ELTE Centre for Economic and Regional Studies,HU,1
+https://openalex.org/I4210155493,Fondazione Umberto Veronesi,IT,1
+https://openalex.org/I4210153543,European Molecular Biology Laboratory,DE,1
+https://openalex.org/I4210153564,Katholisches Klinikum Bochum,DE,1
+https://openalex.org/I4210157803,Artevelde University of Applied Sciences,BE,1
+https://openalex.org/I4210157928,Institut für ökologische Wirtschaftsforschung,AT,1
+https://openalex.org/I4210158107,Hospital Universitario Río Hortega,ES,1
+https://openalex.org/I4210155865,École Supérieure Angevine d'Informatique et de Productique,FR,1
+https://openalex.org/I4210156160,University Hospital Kralovske Vinohrady,CZ,1
+https://openalex.org/I4210156269,Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego,PL,1
+https://openalex.org/I4210156387,Finnair (Finland),FI,1
+https://openalex.org/I4210156450,University Medical Centre Mannheim,DE,1
+https://openalex.org/I4210156667,St. Anna Ziekenhuis,NL,1
+https://openalex.org/I4210156689,State University of Applied Sciences in Konin,PL,1
+https://openalex.org/I4210156709,ASST Fatebenefratelli Sacco,IT,1
+https://openalex.org/I4210154376,Centre Cardiologique du Nord,FR,1
+https://openalex.org/I4210154425,Centre Hospitalier Universitaire de Saint-Pierre,BE,1
+https://openalex.org/I4210154491,Lithuanian Research Centre for Agriculture and Forestry,LT,1
+https://openalex.org/I4210105077,Baltazar Zaprešić University of Applied Sciences,HR,1
+https://openalex.org/I4210105147,"Gouvernance, Risque, Environnement, Développement",FR,1
+https://openalex.org/I4210156988,ESTA Ecole Supérieure des Technologies et des Affaires,FR,1
+https://openalex.org/I4210104216,World Health Organization - Denmark,DK,1
+https://openalex.org/I4210104250,Laboratoire de Recherche Scientifique,FR,1
+https://openalex.org/I4210104431,Agroresursu un ekonomikas institūts,LV,1
+https://openalex.org/I4210104545,Instituto de Microelectrónica de Sevilla,ES,1
+https://openalex.org/I4210104552,Centre Hospitalier Avranches Granville,FR,1
+https://openalex.org/I4210104607,Centre Hospitalier Universitaire de Nîmes,FR,1
+https://openalex.org/I4210104705,Centro Nacional de Epidemiología,ES,1
+https://openalex.org/I4210104817,Zdravstveni dom dr. Adolfa Drolca Maribor,SI,1
+https://openalex.org/I4210102362,RISEBA University of Applied Sciences,LV,1
+https://openalex.org/I4210102629,Gobierno de Canarias,ES,1
+https://openalex.org/I4210157089,Laboratoire de l'Intégration du Matériau au Système,FR,1
+https://openalex.org/I4210157191,IMRA Europe,FR,1
+https://openalex.org/I4210157362,Greek Association of Alzheimer's Disease and Related Disorders,GR,1
+https://openalex.org/I4210157481,Hospital Clínico Universitario Virgen de la Victoria,ES,1
+https://openalex.org/I4210157726,Azienda Ospedaliera Nazionale SS. Antonio e Biagio e Cesare Arrigo,IT,1
+https://openalex.org/I4210102852,Helsinki Art Museum,FI,1
+https://openalex.org/I4210103243,Sana Kliniken AG,DE,1
+https://openalex.org/I4210103266,Deltares,NL,1
+https://openalex.org/I4210103371,NU Hospital Group,SE,1
+https://openalex.org/I4210103448,St. Antonius Ziekenhuis,NL,1
+https://openalex.org/I4210101151,Hospital Universitario Fundación Alcorcón,ES,1
+https://openalex.org/I4210101212,Hôpital Roger Salengro,FR,1
+https://openalex.org/I4210158977,Festo (Germany),DE,1
+https://openalex.org/I4210159017,Lille Économie Management,FR,1
+https://openalex.org/I4210159047,Romanian Research and Development Institute for Gas Turbines,RO,1
+https://openalex.org/I4210159236,European Humanities University,LT,1
+https://openalex.org/I4210159245,Institut des Sciences de l'Information et de leurs Interactions,FR,1
+https://openalex.org/I4210159312,Institute of Biocybernetics and Biomedical Engineering,PL,1
+https://openalex.org/I4210159473,Fraunhofer Institute for Energy Economics and Energy System Technology,DE,1
+https://openalex.org/I4210159643,Institute of Technology and Business,CZ,1
+https://openalex.org/I4210156825,Hôpital Foch,FR,1
+https://openalex.org/I4210162178,Mediterranean Institute of Management,CY,1
+https://openalex.org/I4210162546,University Hospital Innsbruck,AT,1
+https://openalex.org/I4210159647,Osservatorio Astronomico di Padova,IT,1
+https://openalex.org/I4210159862,Angelini Pharma (Italy),IT,1
+https://openalex.org/I4210160027,Departamento de Educación,ES,1
+https://openalex.org/I4210160484,Laboratoire Mouvement Sport Santé,FR,1
+https://openalex.org/I4210160669,Hallands sjukhus Halmstad,SE,1
+https://openalex.org/I4210160754,Vlerick Business School,BE,1
+https://openalex.org/I4210160825,Laboratoire d'ethnologie et de sociologie comparative,FR,1
+https://openalex.org/I4210160935,Hellenic Police Academy,GR,1
+https://openalex.org/I4210161065,Laboratoire de Traitement de l'Information Médicale,FR,1
+https://openalex.org/I4210158205,Aschaffenburg University of Applied Sciences,DE,1
+https://openalex.org/I4210158696,University College Absalon,DK,1
+https://openalex.org/I4210158850,Complejo Hospitalario de Cáceres,ES,1
+https://openalex.org/I4210102801,Max Planck Institute for Heart and Lung Research,DE,1
+https://openalex.org/I4210102835,John Paul II Hospital,PL,1
+https://openalex.org/I4210161616,Maastro Clinic,NL,1
+https://openalex.org/I4210101772,Institut de Recerca Biomèdica Catalunya Sud,ES,1
+https://openalex.org/I4210101884,BSP Business & Law School – Hochschule für Management und Recht,DE,1
+https://openalex.org/I4210101901,Instituto de Física Corpuscular,ES,1
+https://openalex.org/I4210101986,Servicio Aragonés de Salud,ES,1
+https://openalex.org/I4210102047,Antwerp University Hospital,BE,1
+https://openalex.org/I4210102207,College of Tourism,BG,1
+https://openalex.org/I4210102302,University Hospital Brno,CZ,1
+https://openalex.org/I4210102325,Hôpital Européen Georges-Pompidou,FR,1
+https://openalex.org/I4210100355,Moriggia Pelascini Hospital,IT,1
+https://openalex.org/I4210100385,Montpellier Interdisciplinary center on Sustainable Agri-food systems: social and nutritional sciences,FR,1
+https://openalex.org/I4210161702,Directorate-General Joint Research Centre,BE,1
+https://openalex.org/I4210161715,International University of Andalucía,ES,1
+https://openalex.org/I4210161852,Hospital Universitario Ramón y Cajal,ES,1
+https://openalex.org/I4210161954,Département d'Informatique,FR,1
+https://openalex.org/I4210162154,IMDEA Software Institute,ES,1
+https://openalex.org/I4210100742,Institute for Space Astrophysics and Planetology,IT,1
+https://openalex.org/I4210100779,Life Quality Research Centre,PT,1
+https://openalex.org/I4210101051,National Center for Oncological Hadrontherapy,IT,1
+https://openalex.org/I4210099310,Consorzio Nazionale Interuniversitario per le Telecomunicazioni,IT,1
+https://openalex.org/I4210099496,Gnieźnieńska Szkoła Wyższa Milenium,PL,1
+https://openalex.org/I4210099530,IPAG Business School,FR,1
+https://openalex.org/I4210099618,Centro de Cirugía de Mínima Invasión Jesús Usón,ES,1
+https://openalex.org/I4210162771,Tibiscus University of Timișoara,RO,1
+https://openalex.org/I4210162826,Grigioni Foundation for Parkinson's disease,IT,1
+https://openalex.org/I4210163005,Partium Christian University,RO,1
+https://openalex.org/I4210163054,Istituto di Studi sul Mediterraneo (CNR - ISMed),IT,1
+https://openalex.org/I4210163057,IFT Institut für Therapieforschung,DE,1
+https://openalex.org/I4210163538,"Hôpital Civil, Strasbourg",FR,1
+https://openalex.org/I4210163675,La Maddalena,IT,1
+https://openalex.org/I4210163685,Institut Français de l'Éducation,FR,1
+https://openalex.org/I4210161419,Baum Consult,DE,1
+https://openalex.org/I4210166445,Evangelismos Hospital,GR,1
+https://openalex.org/I4210166461,Software Technology and Applications Competence Center,EE,1
+https://openalex.org/I4210163716,Leibniz Supercomputing Centre,DE,1
+https://openalex.org/I4210164007,Académie de Nancy-Metz,FR,1
+https://openalex.org/I4210164365,Institut Nacional d'Educació Física de Catalunya,ES,1
+https://openalex.org/I4210164485,Fondazione IRCCS Istituto Neurologico Carlo Besta,IT,1
+https://openalex.org/I4210164724,Instituto de Investigación Biomédica de Málaga,ES,1
+https://openalex.org/I4210165120,Institute for Microelectronics and Microsystems,IT,1
+https://openalex.org/I4210165261,Hospital Dr. Nélio Mendonça,PT,1
+https://openalex.org/I4210165462,Folkhälsans Forskningscentrum,FI,1
+https://openalex.org/I4210162655,Centre of Natural Hazards and Disaster Science,SE,1
+https://openalex.org/I4210162756,TWT GmbH Science & Innovation (Germany),DE,1
+https://openalex.org/I4210100562,Centre de Nanosciences et de Nanotechnologies,FR,1
+https://openalex.org/I4210100612,Georg Simon Ohm University of Applied Sciences Nuremberg,DE,1
+https://openalex.org/I4210100614,Red Cross Hospital,GR,1
+https://openalex.org/I4210100680,Maria Cecilia Hospital,IT,1
+https://openalex.org/I4210165912,Laboratoire Traitement et Communication de l’Information,FR,1
+https://openalex.org/I4210099697,Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa,PT,1
+https://openalex.org/I4210099858,Marqués de Valdecilla University Hospital,ES,1
+https://openalex.org/I4210099865,European University of Rome,IT,1
+https://openalex.org/I4210100151,Institut d'Électronique et des Technologies du numéRique,FR,1
+https://openalex.org/I4210100164,Institute for Education and Culture,DE,1
+https://openalex.org/I4210100293,Pfizer (Germany),DE,1
+https://openalex.org/I4210100306,Achucarro Basque Center for Neuroscience,ES,1
+https://openalex.org/I4210098336,Consorci Sanitari de Terrassa,ES,1
+https://openalex.org/I4210165969,Ospedale San Pietro Fatebenefratelli,IT,1
+https://openalex.org/I4210166036,Instituto de Investigación Sanitaria La Fe,ES,1
+https://openalex.org/I4210166137,Urho Kaleva Kekkonen Institute,FI,1
+https://openalex.org/I4210166168,Laboratoire des applications Thérapeutiques des Ultrasons,FR,1
+https://openalex.org/I4210166274,Instituto de Investigación Sanitaria del Principado de Asturias,ES,1
+https://openalex.org/I4210166318,International Press Center,BE,1
+https://openalex.org/I4210166427,Hospital District of Helsinki and Uusimaa,FI,1
+https://openalex.org/I4210098647,Universitatea Ecologica din Bucuresti,RO,1
+https://openalex.org/I4210098685,San Salvatore Hospital,IT,1
+https://openalex.org/I4210099034,Complejo Hospitalario de Salamanca,ES,1
+https://openalex.org/I4210099059,Ospedale Vincenzo Cervello,IT,1
+https://openalex.org/I4210099119,Hanover University of Music Drama and Media,DE,1
+https://openalex.org/I4210099144,Hospital Prof. Dr. Fernando Fonseca,PT,1
+https://openalex.org/I4210096532,Fondazione Ricerca Molinette,IT,1
+https://openalex.org/I4210096594,Emma Kinderziekenhuis,NL,1
+https://openalex.org/I4210096652,Ospedale di Rivoli,IT,1
+https://openalex.org/I4210166853,Szpital Uniwersytecki w Krakowie,PL,1
+https://openalex.org/I4210167247,National Institute of Mental Health,CZ,1
+https://openalex.org/I4387152143,Conseil de L'Europe,FR,1
+https://openalex.org/I4387152155,Warszawska Akademia Medyczna Nauk Stosowanych,PL,1
+https://openalex.org/I4387152226,Hungarian Research Network,HU,1
+https://openalex.org/I4387152244,Instituto Nazionale Tumori Regina Elena,IT,1
+https://openalex.org/I4210165841,Hippocration General Hospital,GR,1
+https://openalex.org/I4387153947,MARE - Centro de Ciências do Mar e do Ambiente,PT,1
+https://openalex.org/I4387153954,Centre d'Études et de Recherches sur le Développement International,FR,1
+https://openalex.org/I4387154003,Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL),ES,1
+https://openalex.org/I4387154016,SPPIN - Saints-Pères Paris Institute for Neurosciences,FR,1
+https://openalex.org/I4387152275,Nutrition-Génétique et Exposition aux Risques Environnementaux,FR,1
+https://openalex.org/I4387152446,"Laboratoire interdisciplinaire de recherche en didactique, éducation et formation",FR,1
+https://openalex.org/I4387152528,Clermont School of Business,FR,1
+https://openalex.org/I4387152565,Tampere University of Technology,FI,1
+https://openalex.org/I4387152645,International Institute for Geo-Information Science and Earth Observation,NL,1
+https://openalex.org/I4387152672,Bordeaux Sciences Économiques,FR,1
+https://openalex.org/I4387152696,"Ministerio de Educación, Formación Profesional y Deportes",ES,1
+https://openalex.org/I4387152741,RESTORE,FR,1
+https://openalex.org/I4210166509,GS1 Germany,DE,1
+https://openalex.org/I4210166604,Bureau d'Economie Théorique et Appliquée,FR,1
+https://openalex.org/I4210098344,Génétique Quantitative et Évolution Le Moulon,FR,1
+https://openalex.org/I4210098611,Hanseatic University Rostock,DE,1
+https://openalex.org/I4387154738,Psychologie Ergonomique et Sociale pour l'Expérience Utilisateurs,FR,1
+https://openalex.org/I4387154757,Université Nice Sophia Antipolis,FR,1
+https://openalex.org/I4387154773,ERN ReCONNET,IT,1
+https://openalex.org/I4210096922,Akademia Bialska im. Jana Pawła II,PL,1
+https://openalex.org/I4210097150,National Centre for Nuclear Research,PL,1
+https://openalex.org/I4210097444,"Physiologie, Ecologie et Environnement",FR,1
+https://openalex.org/I4210097975,Dimence,NL,1
+https://openalex.org/I4210098027,Hospital Universitario de Gran Canaria Doctor Negrín,ES,1
+https://openalex.org/I4210098062,Fraunhofer Institute for Material Flow and Logistics,DE,1
+https://openalex.org/I4210095242,Netherlands eScience Center,NL,1
+https://openalex.org/I4210095248,German Rheumatism Research Centre,DE,1
+https://openalex.org/I4210095307,Europe Hospitals,BE,1
+https://openalex.org/I4210095322,Ospedale di Cattinara,IT,1
+https://openalex.org/I4387153500,Physique pour la médecine Paris,FR,1
+https://openalex.org/I4387153539,Laboratoire de Psychologie et d’Ergonomie Appliquées,FR,1
+https://openalex.org/I4387153571,UMR Géographie-cités,FR,1
+https://openalex.org/I4210095612,Jessa Hospital,BE,1
+https://openalex.org/I4210095629,Institute of Molecular Bioimaging and Physiology,IT,1
+https://openalex.org/I4210095650,SRH Klinikum Karlsbad-Langensteinbach,DE,1
+https://openalex.org/I4210095671,National Bank of Slovakia,SK,1
+https://openalex.org/I4210095688,Ionicon Analytik (Austria),AT,1
+https://openalex.org/I4210095750,Institute for Regenerative Medicine & Biotherapy,FR,1
+https://openalex.org/I4210095915,Hôpital de la Conception,FR,1
+https://openalex.org/I4210096308,Institute of Materials for Electronics and Magnetism,IT,1
+https://openalex.org/I4210096450,Nutrition et obésité : approches systémiques,FR,1
+https://openalex.org/I4210094173,SMK University of Applied Social Sciences,LT,1
+https://openalex.org/I4210094195,Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda,IT,1
+https://openalex.org/I4210094354,Christian Theological Academy in Warsaw,PL,1
+https://openalex.org/I4387154256,Faculty of Mechanical Engineering and Naval Architecture in Zagreb,HR,1
+https://openalex.org/I4387154483,Recherche translationnelle sur le diabète et les troubles métaboliques,FR,1
+https://openalex.org/I4387154560,Université Lille 1,FR,1
+https://openalex.org/I4387154702,IMPact de l'Environnement Chimique sur la Santé,FR,1
+https://openalex.org/I4394709277,Centre d'Études Internationales de la Propriété Intellectuelle,FR,1
+https://openalex.org/I4396570551,Centre d'Esclerosi Múltiple de Catalunya,ES,1
+https://openalex.org/I4387155194,Soutenabilité et Résilence,FR,1
+https://openalex.org/I4387155229,Centro de Estudos do Ambiente e do Mar,PT,1
+https://openalex.org/I4387155512,Institut de Physique des 2 Infinis de Lyon,FR,1
+https://openalex.org/I4387155514,TecnoCampus,ES,1
+https://openalex.org/I4387155751,Evaluation des technologies de santé et des pratiques médicales,FR,1
+https://openalex.org/I4387156044,"Infection, Anti-microbiens, Modélisation, Evolution",FR,1
+https://openalex.org/I4387156373,"Laboratoire Interdisciplinaire Sciences, Innovations, Sociétés",FR,1
+https://openalex.org/I4387930214,Agence Bibliographique de l'Enseignement Supérieur,FR,1
+https://openalex.org/I4388446356,Aeres University of Applied Sciences,NL,1
+https://openalex.org/I43886,Sapientia Hungarian University of Transylvania,RO,1
+https://openalex.org/I4389425367,Handicap moteur et cognitif et réadaptation,FR,1
+https://openalex.org/I4387154073,Institut Méditerranéen des Sciences de l'Information et de la Communication,FR,1
+https://openalex.org/I4387154098,INSA Hauts-de-France,FR,1
+https://openalex.org/I4387154249,Clermont Auvergne INP,FR,1
+https://openalex.org/I4210094644,Clermont Recherche Management,FR,1
+https://openalex.org/I4210094658,Institut za filozofiju,HR,1
+https://openalex.org/I4210094718,"Laboratoire des Sciences pour la Conception, l'Optimisation et la Production",FR,1
+https://openalex.org/I4210094763,Bratislava University of Economics and Management,SK,1
+https://openalex.org/I4210094980,Institute of Ecology and Botany,HU,1
+https://openalex.org/I4210094988,Stockholm South General Hospital,SE,1
+https://openalex.org/I4210095014,Centro de Investigación en Red en Enfermedades Cardiovasculares,ES,1
+https://openalex.org/I4210095088,Azienda Universitaria Ospedaliera Consorziale - Policlinico Bari,IT,1
+https://openalex.org/I4210095143,Azienda Ospedaliera San Camillo-Forlanini,IT,1
+https://openalex.org/I4210093174,European Space Astronomy Centre,ES,1
+https://openalex.org/I4210093344,Zachodniopomorska Szkoła Biznesu w Szczecinie,PL,1
+https://openalex.org/I4391767962,Deutsches Konsortium für Translationale Krebsforschung,DE,1
+https://openalex.org/I4392021197,Laboratoire Ondes et Milieux Complexes,FR,1
+https://openalex.org/I4392738053,Médecine Cardiovasculaire Translationnelle,FR,1
+https://openalex.org/I4394709197,"Linguistique, langues, parole",FR,1
+https://openalex.org/I4394709253,Humans and management in society,FR,1
+https://openalex.org/I4210093566,National Institute for Subatomic Physics,NL,1
+https://openalex.org/I4210093750,Austrian Center for Medical Innovation and Technology,AT,1
+https://openalex.org/I4210093812,Hospital Terrassa,ES,1
+https://openalex.org/I4210094056,Società Italiana di Cardiologia,IT,1
+https://openalex.org/I4210091978,Ostbayerische Technische Hochschule Amberg-Weiden,DE,1
+https://openalex.org/I4210092108,Center for Clinical Research and Prevention,DK,1
+https://openalex.org/I4210092209,Ospedali Riuniti di Foggia,IT,1
+https://openalex.org/I4400600934,ICN Business School Nancy-Paris-Berlin,FR,1
+https://openalex.org/I4401041616,"Laboratoire d'Economie, Finance, Management et Innovation",FR,1
+https://openalex.org/I4401200307,Centre de Recherche sur la Biodiversité et l'Environnement,FR,1
+https://openalex.org/I4402554021,Instituto Pedro Nunes,PT,1
+https://openalex.org/I4403386692,Physiopathologie et pharmacotoxicologie placentaire humaine : Microbiote pré & post natal,FR,1
+https://openalex.org/I4390039289,Centro de Investigação em Biodiversidade e Recursos Genéticos,PT,1
+https://openalex.org/I4390039343,Cohortes épidémiologiques en population,FR,1
+https://openalex.org/I4391767730,LAQV Requimte,PT,1
+https://openalex.org/I4210094609,Akademia Ignatianum w Krakowie,PL,1
+https://openalex.org/I4210092323,Nello Carrara Institute of Applied Physics,IT,1
+https://openalex.org/I4210092509,Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers,FR,1
+https://openalex.org/I4210092695,Institute of Rheumatology,CZ,1
+https://openalex.org/I4210092744,Basque Centre for Climate Change,ES,1
+https://openalex.org/I4210093046,International Economic Association,ES,1
+https://openalex.org/I4210093064,Santé Internationale de la mère et de l'enfant,FR,1
+https://openalex.org/I4210093077,Hospital La Luz,ES,1
+https://openalex.org/I4210091409,Institut de Recherche Interdisciplinaire de Grenoble,FR,1
+https://openalex.org/I4210091434,MSB Medical School Berlin,DE,1
+https://openalex.org/I4405252434,Centro Cardiovascular da Universidade de Lisboa,PT,1
+https://openalex.org/I4405252462,Centre d’Économie et de Décision Publique (CEDP),FR,1
+https://openalex.org/I4405252787,Governo dos Açores,PT,1
+https://openalex.org/I4405252813,Hamburg Media School,DE,1
+https://openalex.org/I4405252876,Sociedade Portuguesa de Estatística,PT,1
+https://openalex.org/I4405252922,Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad,ES,1
+https://openalex.org/I4210093397,XLIM,FR,1
+https://openalex.org/I4405254872,Centro de Investigação e Estudos de Sociologia,PT,1
+https://openalex.org/I4405254910,Centro de Investigação em Biociências e Tecnologias da Saúde,PT,1
+https://openalex.org/I4405255205,TEAM4Excellence Association,RO,1
+https://openalex.org/I4405255234,Centro de Investigação e Inovação em Educação,PT,1
+https://openalex.org/I4405253327,Universidade Católica Portuguesa - Braga,PT,1
+https://openalex.org/I4405253412,Dr. Franjo Tudman Defense and Security University,HR,1
+https://openalex.org/I4405253441,Centro de Línguas Literaturas e Culturas,PT,1
+https://openalex.org/I4405253678,Universitätsklinikum Wiener Neustadt,AT,1
+https://openalex.org/I4405253705,Institute of Advanced Studies Kőszeg,HU,1
+https://openalex.org/I4405253721,Laboratoire Activité Connaissance Transmission Education,FR,1
+https://openalex.org/I4405253751,Stellantis (Netherlands),NL,1
+https://openalex.org/I4405253770,Universitatea Adventus,RO,1
+https://openalex.org/I4405253794,Elsevier BV (Netherlands),NL,1
+https://openalex.org/I4403386758,Institut des Systèmes Complexes Paris Île-de-France,FR,1
+https://openalex.org/I4403386768,Centre Borelli,FR,1
+https://openalex.org/I4403928279,Fundació de Recerca Clínic Barcelona-Institut d’Investigacions Biomèdiques August Pi i Sunyer,ES,1
+https://openalex.org/I4405255865,Steno Diabetes Center Copenhagen,DK,1
+https://openalex.org/I4405256035,Grupo de Investigação em Engenharia e Computação Inteligente para a Inovação e o Desenvolvimento,PT,1
+https://openalex.org/I4405256117,Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação,PT,1
+https://openalex.org/I4405256310,Centro de Investigação Transdisciplinar Cultura Espaço e Memória,PT,1
+https://openalex.org/I4405256311,Games Interaction and Learning Technologies,PT,1
+https://openalex.org/I4405256597,Spatial Services GmbH (Austria),AT,1
+https://openalex.org/I4405256822,"CLESTHIA - Langage, systèmes, discours",FR,1
+https://openalex.org/I4405254053,Centro de Investigação e Intervenção Social,PT,1
+https://openalex.org/I4405254204,Centro de Matematica Aplicada à Previsão e Decisão Económica,PT,1
+https://openalex.org/I4405254206,Maison des Sciences sociales et des Humanités de Paris-Saclay,FR,1
+https://openalex.org/I4405254294,Portugal Football School,PT,1
+https://openalex.org/I4405254354,Region Halland,SE,1
+https://openalex.org/I4405254599,Centro de Estudos sobre a Mudança Socioeconómica e o Território,PT,1
+https://openalex.org/I4405254613,Instituto Jurídico Portucalense,PT,1
+https://openalex.org/I4405254653,United Nations University Operating Unit on Policy-Driven Electronic Governance,PT,1
+https://openalex.org/I4405254674,Institut de Recerca i Innovació Educativa,ES,1
+https://openalex.org/I4405258403,Servicio de Salud del Principado de Asturias,ES,1
+https://openalex.org/I4405255417,Investigação em Ciências Sociais e Gestão,PT,1
+https://openalex.org/I4405255572,Szkoła Główna Mikołaja Kopernika,PL,1
+https://openalex.org/I4210091477,Hospital Universitari Sant Joan D'Alacant,ES,1
+https://openalex.org/I4210091519,Rockwool Foundation,DK,1
+https://openalex.org/I4210091655,Research Institute for Geo-Hydrological Protection,IT,1
+https://openalex.org/I4210091658,Institute of Experimental Physics of the Slovak Academy of Sciences,SK,1
+https://openalex.org/I4210091733,Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen,DE,1
+https://openalex.org/I4210091775,Instituto Español de Oceanografía,ES,1
+https://openalex.org/I4210091896,Institut für Forschung und Transfer,DE,1
+https://openalex.org/I4210091916,University of Applied Science Budapest,HU,1
+https://openalex.org/I4210091925,Copenhagen School of Design and Technology,DK,1
+https://openalex.org/I4210090415,Universitatea Petru Maior din Tîrgu Mureş,RO,1
+https://openalex.org/I4210090488,Institut Agronomique Méditerranéen de Montpellier,FR,1
+https://openalex.org/I4210090554,Helsinki Children's Hospital,FI,1
+https://openalex.org/I4405255610,KIOS Research and Innovation Center of Excellence,CY,1
+https://openalex.org/I4210090690,Centro de Investigação em Artes e Comunicação,PT,1
+https://openalex.org/I4210090693,Institute for Particle and Nuclear Physics,HU,1
+https://openalex.org/I4210090701,Catholic University of Applied Social Sciences,DE,1
+https://openalex.org/I4210090782,Max-Planck-Institut für Kohlenforschung,DE,1
+https://openalex.org/I4210091024,Laboratoire de PhysioMédecine Moléculaire,FR,1
+https://openalex.org/I4210091224,Reade,NL,1
+https://openalex.org/I4210091249,Unidade Local de Saúde de Entre Douro e Vouga,PT,1
+https://openalex.org/I4210088758,"Spitalul Clinic Judeţean de Urgenţă ""Pius Brînzeu"" Timişoara",RO,1
+https://openalex.org/I4210088935,University Hospital Ostrava,CZ,1
+https://openalex.org/I4405257716,Unidade de Investigação em Desenvolvimento Empresarial,PT,1
+https://openalex.org/I4405257748,Laboratoire interdisciplinaire de recherches en sciences de l'action,FR,1
+https://openalex.org/I4405257772,Centro Interdisciplinar de História Culturas e Sociedades,PT,1
+https://openalex.org/I4405257932,Centre des Etudes Arabes et Orientales,FR,1
+https://openalex.org/I4405257954,Interactions Hôte-Greffon-Tumeur & Ingénierie Cellulaire et Génique,FR,1
+https://openalex.org/I4405258017,Unidade Local de Saúde de Braga,PT,1
+https://openalex.org/I4405258261,LUNEX,LU,1
+https://openalex.org/I4405260070,Laboratoire interdisciplinaire de l'X,FR,1
+https://openalex.org/I4405258429,Institut Interdisciplinaire de l'Innovation,FR,1
+https://openalex.org/I4405258520,Erhvervsakademi København,DK,1
+https://openalex.org/I4405258619,Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação,PT,1
+https://openalex.org/I4405258683,Comprehensive Health Research Centre,PT,1
+https://openalex.org/I4405258837,DIVERSE: Diversity-centric Software Engineering,FR,1
+https://openalex.org/I4405258939,École Nationale Supérieure d'Ingénieurs du Mans,FR,1
+https://openalex.org/I4405259155,IAE Paris - Sorbonne Business School,FR,1
+https://openalex.org/I4405259319,SEAMLESS: Interaction et collaboration fluides à travers le continuum réalité-virtualité,FR,1
+https://openalex.org/I4405259370,IMP Diagnostics (Portugal),PT,1
+https://openalex.org/I4405259389,SCOOL: Prise de décision séquentielle dans l'incertain,FR,1
+https://openalex.org/I4405257374,Centro de Investigação em Educação Básica,PT,1
+https://openalex.org/I4405257428,Laboratório para a Ciência da Computação e Informática,PT,1
+https://openalex.org/I4405257516,Instituto Superior Técnico Instituto de Engenharia Mecânica,PT,1
+https://openalex.org/I4405257531,Amsterdam Cardiovascular Sciences,NL,1
+https://openalex.org/I4210090616,Wetenschappelijk Onderzoek- en Documentatiecentrum,NL,1
+https://openalex.org/I4405259466,Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação,PT,1
+https://openalex.org/I4210089068,Children's Hospital Srebrnjak,HR,1
+https://openalex.org/I4210089692,Einstein Center Digital Future,DE,1
+https://openalex.org/I4210089795,Institutul Naţional de Cercetare-Dezvoltare în Turism,RO,1
+https://openalex.org/I4210090028,Consorci de Serveis Universitaris de Catalunya,ES,1
+https://openalex.org/I4210090211,Centre for Higher Education Studies,CZ,1
+https://openalex.org/I4210087277,National Institute of Hydrology and Water Management,RO,1
+https://openalex.org/I4210087306,Laboratoire de Météorologie Dynamique,FR,1
+https://openalex.org/I4210087357,Ospedale Maggiore,IT,1
+https://openalex.org/I4405259625,Institut für Notfallmedizin und Medizinmanagement,DE,1
+https://openalex.org/I4405259885,"ARAMIS: Algorithmes, modèles et méthodes pour les images et les signaux du cerveau humain sain et pathologique",FR,1
+https://openalex.org/I4405259887,Brest Business School,FR,1
+https://openalex.org/I4405259898,INSEEC School of Business and Economics,FR,1
+https://openalex.org/I4405259912,Morphogénèse et antigénicité du VIH et des virus des hépatites et émergents,FR,1
+https://openalex.org/I4405259965,Instituto de Investigación Sanitaria del Hospital Universitario de La Princesa,ES,1
+https://openalex.org/I4405259976,Université Jean Monnet,FR,1
+https://openalex.org/I4405263023,Siemens Energy,DE,1
+https://openalex.org/I4405263035,University of Cooperative Education,DE,1
+https://openalex.org/I4405260187,"GRHAPES – Groupe de recherche sur le handicap, l'accessibilité, les pratiques éducatives et scolaires (UR 7287)",FR,1
+https://openalex.org/I4405260284,EDC Paris Business School,FR,1
+https://openalex.org/I4405260494,Luxembourg Health & Sport Sciences Research Institute,LU,1
+https://openalex.org/I4405260660,Unidade Local de Saúde do Algarve,PT,1
+https://openalex.org/I4405260822,RISE - Health Research Network,PT,1
+https://openalex.org/I4405260864,SPARC Europe,NL,1
+https://openalex.org/I4405260893,"Institut für Medizinische Informationsverarbeitung, Biometrie und Epidemiologie",DE,1
+https://openalex.org/I4405260899,Instituto de Investigación en Ingeniería de Aragón,ES,1
+https://openalex.org/I4405260913,MAASAI: Modèles et algorithmes pour l'intelligence artificielle,FR,1
+https://openalex.org/I4405260950,Centre pour l'innovation en cancérologie de Lyon,FR,1
+https://openalex.org/I4405261147,Ferdinand Porsche FERNFH,AT,1
+https://openalex.org/I4405259406,SISTM: Statistics In System biology and Translational Medicine,FR,1
+https://openalex.org/I4405259414,Université Toulouse Capitole,FR,1
+https://openalex.org/I4405259436,Centre de recherche sur le travail et le développement,FR,1
+https://openalex.org/I4405261296,Institut Léon Duguit,FR,1
+https://openalex.org/I4210087803,Zealand University Hospital,DK,1
+https://openalex.org/I4210087978,Centre Hospitalier Universitaire de Besançon,FR,1
+https://openalex.org/I4210087996,Klinikum Klagenfurt,AT,1
+https://openalex.org/I4210088462,MSH Medical School Hamburg – University of Applied Sciences and Medical University,DE,1
+https://openalex.org/I4210085944,Fundacion Agencia Aragonesa para la Investigacion y el Desarrollo,ES,1
+https://openalex.org/I4210086084,AQU Catalunya,ES,1
+https://openalex.org/I4405261362,CORSE: Compiler Optimization and Run-time SystEms,FR,1
+https://openalex.org/I4405261432,Institut für Didaktik und Ausbildungsforschung in der Medizin,DE,1
+https://openalex.org/I4405261570,Charlotte Fresenius Hochschule,DE,1
+https://openalex.org/I4405261588,Laboratoire Informatique de l'Université de Pau et des Pays de l'Adour,FR,1
+https://openalex.org/I4405261681,Université de Montpellier Paul-Valéry,FR,1
+https://openalex.org/I4405261725,Paris School of Technology and Business,FR,1
+https://openalex.org/I4405261819,American University of Beirut – Mediterraneo,CY,1
+https://openalex.org/I4405262097,Premedix,SK,1
+https://openalex.org/I4405262426,Zangador Research Institute,BG,1
+https://openalex.org/I4210086740,Institut des Neurosciences Paris-Saclay,FR,1
+https://openalex.org/I4210086947,Institute of Physics,PL,1
+https://openalex.org/I4210087077,Institut des Maladies Neurodégénératives,FR,1
+https://openalex.org/I4210087266,Institute of Computer Science,PL,1
+https://openalex.org/I4405263415,"Hydrosystèmes continentaux anthropisés : ressources, risques, restauration",FR,1
+https://openalex.org/I4405263462,Institut für Angewandte Informatik (InfAI) e. V.,DE,1
+https://openalex.org/I4405263464,EUIT Centre Universitari,ES,1
+https://openalex.org/I4405263488,Escuela Superior de Diseño de Aragón,ES,1
+https://openalex.org/I4405263522,Maison des Sciences Humaines et Sociales de Poitiers,FR,1
+https://openalex.org/I4405263634,Campus-Institut Data Science (CIDAS),DE,1
+https://openalex.org/I4405263662,Qualité des Produits Animaux,FR,1
+https://openalex.org/I4405264049,Université Paul Verlaine - Metz,FR,1
+https://openalex.org/I4405264352,Toulouse School of Economics Research,FR,1
+https://openalex.org/I4405264399,Toulouse NeuroImaging Center,FR,1
+https://openalex.org/I4405261162,Duale Hochschule Baden Württemberg Mannheim,DE,1
+https://openalex.org/I4405261259,PREMEDICAL: Médecine de précision par intégration de données et inférence causale,FR,1
+https://openalex.org/I37446213,Indra (Spain),ES,1
+https://openalex.org/I37613341,Kazimieras Simonavičius University,LT,1
+https://openalex.org/I38517508,Technical University of Applied Sciences Wildau,DE,1
+https://openalex.org/I32579530,United Nations Office on Drugs and Crime,AT,1
+https://openalex.org/I4405265615,Centre d'Epidémiologie et de Recherche en santé des POPulations de Toulouse,FR,1
+https://openalex.org/I4405265942,DBU Digital Business University of Applied Sciences,DE,1
+https://openalex.org/I4405265985,Universidade Lusófona de Humanidades e Tecnologias,PT,1
+https://openalex.org/I4405266810,Universitätsbibliothek Kiel,DE,1
+https://openalex.org/I4405267107,Azienda Sanitaria dell'Alto Adige,IT,1
+https://openalex.org/I4405267178,Ospedale P. Pederzoli – Casa di Cura Privata S.p.a.,IT,1
+https://openalex.org/I4405263066,Prague Business School,CZ,1
+https://openalex.org/I4405263123,Instituto de Ciências Biomédicas Albel Salazar,PT,1
+https://openalex.org/I4405263235,"Instituto de Física de Materiais Avançados, Nanotecnologia e Fotónica",PT,1
+https://openalex.org/I4405263276,"REMIT – Research on Economics, Management and Information Technologies",PT,1
+https://openalex.org/I4210085900,Institute of Genetics and Animal Biotechnology of the Polish Academy of Sciences,PL,1
+https://openalex.org/I36128562,Pan-European University,SK,1
+https://openalex.org/I4405276015,Socialit Software & Consulting srl (Italy),IT,1
+https://openalex.org/I4405276376,Centre de Recherche en CardioVasculaire et Nutrition,FR,1
+https://openalex.org/I4405276866,Digital Factory Vorarlberg GmbH,AT,1
+https://openalex.org/I4405267568,BioSerenity (France),FR,1
+https://openalex.org/I4405267589,"Laboratoire de Psychologie Clinique, de Psychopathologie et de Psychanalyse",FR,1
+https://openalex.org/I4405268389,European Consortium of Innovative Universities,BE,1
+https://openalex.org/I4405268501,Medical Delta,NL,1
+https://openalex.org/I4405268574,Center for Stroke Research Berlin,DE,1
+https://openalex.org/I4405268612,Laboratório Associado TERRA,PT,1
+https://openalex.org/I4405268845,"Formes et Représentations en Linguistique, Littérature et dans les arts de l’Image et de la Scène",FR,1
+https://openalex.org/I4405268975,Instituto de Investigación Sanitaria Gregorio Marañón,ES,1
+https://openalex.org/I4405269270,Aarhus Institute of Advanced Studies,DK,1
+https://openalex.org/I4405269973,Fondation Gustave Roussy,FR,1
+https://openalex.org/I4405264733,Instituto de Investigación Avanzada en Empresa y Economía,ES,1
+https://openalex.org/I4405265335,Instituto de Investigación Social Avanzada,ES,1
+https://openalex.org/I37101380,Munich Business School,DE,1
+https://openalex.org/I3178478377,LEIZA - Leibniz-Zentrum für Archäologie,DE,1
+https://openalex.org/I32366509,Silesian University in Opava,CZ,1
+https://openalex.org/I3289505,Dublin Business School,IE,1
+https://openalex.org/I32943570,Helsinki Institute for Information Technology,FI,1
+https://openalex.org/I34403800,GEOMAR Helmholtz Centre for Ocean Research Kiel,DE,1
+https://openalex.org/I3131147324,Artifex University,RO,1
+https://openalex.org/I3131550300,Université Toulouse-I-Capitole,FR,1
+https://openalex.org/I3131918455,Instituto Superior Autónomo de Estudos Politécnicos,PT,1
+https://openalex.org/I4405271350,European Training Foundation,IT,1
+https://openalex.org/I4405271566,SeaDataNet AISBL,BE,1
+https://openalex.org/I4405272501,Wallenberg Centre for Molecular and Translational Medicine,SE,1
+https://openalex.org/I4405272705,ADAPT - Centre for Digital Content Technology,IE,1
+https://openalex.org/I4405273105,International Institute of Social Studies,NL,1
+https://openalex.org/I4405274842,Sigma Technology (Hungary),HU,1
+https://openalex.org/I4405274851,Bundesverband für Wohnen und Stadtentwicklung e.V.,DE,1
+https://openalex.org/I4405275235,Centre Européen de Recherche en Imagerie Médicale,FR,1
+https://openalex.org/I3129623846,Apollonia University,RO,1
+https://openalex.org/I3131107225,Lapland University of Applied Sciences,FI,1
+https://openalex.org/I3019423309,Fraunhofer Institute for Computer Graphics Research,DE,1
+https://openalex.org/I3019523068,Educational Research Institute – National Research Institute,PL,1
+https://openalex.org/I4405283446,Katholieke Hogeschool Zuid-West-Vlaanderen,BE,1
+https://openalex.org/I4405283765,SUPINFO,FR,1
+https://openalex.org/I4405284891,AZ Sint-Maarten,BE,1
+https://openalex.org/I4405285801,Épidémiologie des maladies chroniques en zone tropicale,FR,1
+https://openalex.org/I4405287174,Institutul de Cercetare a Calităţii Vieţii,RO,1
+https://openalex.org/I4405287672,Adaptemy (Ireland),IE,1
+https://openalex.org/I4405270361,Inovarion (France),FR,1
+https://openalex.org/I4405270573,Stiftung Universitätsmedizin Essen,DE,1
+https://openalex.org/I4405271133,Association for Dental Education in Europe,IE,1
+https://openalex.org/I4405271320,National Rehabilitation Center EKA,GR,1
+https://openalex.org/I3132420320,SLUB Dresden,DE,1
+https://openalex.org/I3133053536,Wittenborg University,NL,1
+https://openalex.org/I2802798279,Leonardo (Italy),IT,1
+https://openalex.org/I2802807761,Trans-European Research and Education Networking Association,NL,1
+https://openalex.org/I2802828525,Generalitat Valenciana,ES,1
+https://openalex.org/I3018288129,Istituto Neurologico Mediterraneo,IT,1
+https://openalex.org/I3019092743,University of Agriculture in Krakow,PL,1
+https://openalex.org/I3019204325,Centre Hospitalier Universitaire de Nantes,FR,1
+https://openalex.org/I3019415892,Fraunhofer Institute for Industrial Mathematics,DE,1
+https://openalex.org/I4923324,Fraunhofer-Gesellschaft,DE,1
+https://openalex.org/I4405278829,Unicaf (Cyprus),CY,1
+https://openalex.org/I4405280116,Zernike Institute for Advanced Materials,NL,1
+https://openalex.org/I4405281311,Pôle de recherche et d'enseignement supérieur Université de Grenoble,FR,1
+https://openalex.org/I3019878935,Laboratoire d'Urbanisme,FR,1
+https://openalex.org/I3020210244,Sanquin,NL,1
+https://openalex.org/I30702933,Christian University of Applied Sciences,NL,1
+https://openalex.org/I31072267,Burgas Free University,BG,1
+https://openalex.org/I3124161356,University of South Bohemia in České Budějovice,CZ,1
+https://openalex.org/I2802025818,Unidade Local de Saúde de Coimbra,PT,1
+https://openalex.org/I2802050926,Hospital Universitari Arnau de Vilanova,ES,1
+https://openalex.org/I2802885015,Military Technical Academy,RO,1
+https://openalex.org/I2802918869,Staatsbibliothek zu Berlin,DE,1
+https://openalex.org/I2803035300,Tallaght University Hospital,IE,1
+https://openalex.org/I2803071314,Mater Misericordiae University Hospital,IE,1
+https://openalex.org/I28109999,University of Medicine and Pharmacy of Craiova,RO,1
+https://openalex.org/I283429734,Kazimierz Pułaski University of Technology and Humanities in Radom,PL,1
+https://openalex.org/I2802374784,Business Academy Aarhus,DK,1
+https://openalex.org/I2802390120,Universidade Politécnica de Beja,PT,1
+https://openalex.org/I5085271,Hanken School of Economics,FI,1
+https://openalex.org/I52066220,Instituto Superior da Maia,PT,1
+https://openalex.org/I52435824,"Institut National du Sport, de l'Expertise et de la Performance",FR,1
+https://openalex.org/I2944464671,Aerospace Valley,FR,1
+https://openalex.org/I2951191494,"Academy of Arts, Architecture and Design in Prague",CZ,1
+https://openalex.org/I297557266,Vasil Levski National Military University,BG,1
+https://openalex.org/I2801838318,Institut Jules Bordet,BE,1
+https://openalex.org/I2801876189,Deutsches Elektronen-Synchrotron DESY,DE,1
+https://openalex.org/I2802007660,University Hospital Augsburg,DE,1
+https://openalex.org/I2801260548,Finnish Defence Forces,FI,1
+https://openalex.org/I2801349226,Leibniz Institute of Photonic Technology,DE,1
+https://openalex.org/I2802067006,Research Foundation - Flanders,BE,1
+https://openalex.org/I2802155305,Brera Astronomical Observatory,IT,1
+https://openalex.org/I2802187282,European Parliament,BE,1
+https://openalex.org/I2802328216,Vienna General Hospital,AT,1
+https://openalex.org/I2802331213,Paris School of Business,FR,1
+https://openalex.org/I2802348010,European Federation of Animal Science,IT,1
+https://openalex.org/I2801754460,General University Hospital of Patras,GR,1
+https://openalex.org/I2801770344,Finnish Institute of Occupational Health,FI,1
+https://openalex.org/I2802505300,École Supérieure d'Ingénieurs en Génie Électrique,FR,1
+https://openalex.org/I2802744477,Irish Centre for High-End Computing,IE,1
+https://openalex.org/I2802755756,Centro de Supercomputación de Galicia,ES,1
+https://openalex.org/I2801203653,Centre hospitalier national d'ophtalmologie des Quinze-Vingts,FR,1
+https://openalex.org/I2801220772,Mater Dei Hospital,MT,1
+https://openalex.org/I2800405606,Piraeus Bank,GR,1
+https://openalex.org/I2801380292,"Deutsches Archäologisches Institut, Zentrale",DE,1
+https://openalex.org/I2801384276,Regione Campania,IT,1
+https://openalex.org/I2801463291,Istituto Giannina Gaslini,IT,1
+https://openalex.org/I2801536946,Trieste Astronomical Observatory,IT,1
+https://openalex.org/I2801587414,Beilstein-Institut,DE,1
+https://openalex.org/I2801587439,"Basque Center for Materials, Applications and Nanostructures",ES,1
+https://openalex.org/I2800888565,Sismanoglio General Hospital,GR,1
+https://openalex.org/I2800921988,Institut Pasteur de Lille,FR,1
+https://openalex.org/I57589565,Reutlingen University,DE,1
+https://openalex.org/I57995698,Paris School of Economics,FR,1
+https://openalex.org/I58028834,Universidade da Madeira,PT,1
+https://openalex.org/I54634078,"CESNET, zájmové sdružení právnických osob",CZ,1
+https://openalex.org/I2801795740,Hospital de Sant Pau,ES,1
+https://openalex.org/I2800555055,Centre Hospitalier Universitaire de Grenoble,FR,1
+https://openalex.org/I2800709309,Hellenic Ministry of Culture and Sports,GR,1
+https://openalex.org/I2800721106,Copenhagen Business Academy,DK,1
+https://openalex.org/I2800768169,Academy of Sciences and Literature,DE,1
+https://openalex.org/I2800139495,Science for Life Laboratory,SE,1
+https://openalex.org/I62088572,University of Bielsko-Biała,PL,1
+https://openalex.org/I62709064,Varna Free University,BG,1
+https://openalex.org/I62801748,Altice Portugal (Portugal),PT,1
+https://openalex.org/I63274643,FH Münster University of Applied Sciences,DE,1
+https://openalex.org/I63586086,Oulu University of Applied Sciences,FI,1
+https://openalex.org/I56243300,Escola Superior de Enfermagem de Coimbra,PT,1
+https://openalex.org/I56435720,Université Paris Dauphine-PSL,FR,1
+https://openalex.org/I2801030728,German Centre for Integrative Biodiversity Research,DE,1
+https://openalex.org/I2801039369,Marconi University,IT,1
+https://openalex.org/I2801069956,Nordic Africa Institute,SE,1
+https://openalex.org/I2801133538,German Federal Institute for Risk Assessment (BfR),DE,1
+https://openalex.org/I24906876,Institut Agro Montpellier,FR,1
+https://openalex.org/I249332916,University of New York in Prague,CZ,1
+https://openalex.org/I2799562678,Catalan Institute for Water Research,ES,1
+https://openalex.org/I2799623607,Hellenic Civil Aviation Authority,GR,1
+https://openalex.org/I2799655038,Clinical Emergency Hospital Bucharest,RO,1
+https://openalex.org/I2799747612,Xunta de Galicia,ES,1
+https://openalex.org/I2799831209,Polish Naval Academy,PL,1
+https://openalex.org/I2799883060,Leibniz Centre for Tropical Marine Research,DE,1
+https://openalex.org/I2799929701,IRCCS Materno Infantile Burlo Garofolo,IT,1
+https://openalex.org/I268975460,Universitätsklinikum Gießen und Marburg,DE,1
+https://openalex.org/I6141010,European Institute of Oncology,IT,1
+https://openalex.org/I2800204708,LIP - Laboratory of Instrumentation and Experimental Particle Physics,PT,1
+https://openalex.org/I2800229700,Helsinki Institute of Physics,FI,1
+https://openalex.org/I2800249161,Military University of Technology in Warsaw,PL,1
+https://openalex.org/I2800285241,Institut Agro Rennes-Angers,FR,1
+https://openalex.org/I2800330116,Policlinico Umberto I,IT,1
+https://openalex.org/I245364917,University of Białystok,PL,1
+https://openalex.org/I24568809,Transport and Telecommunication Institute,LV,1
+https://openalex.org/I21450314,Bruegel,BE,1
+https://openalex.org/I254029264,European University Viadrina,DE,1
+https://openalex.org/I25485817,University of Applied Sciences St Pölten,AT,1
+https://openalex.org/I70900168,Université Savoie Mont Blanc,FR,1
+https://openalex.org/I71030271,Heidelberg Institute for Theoretical Studies,DE,1
+https://openalex.org/I72677000,International School of Management,FR,1
+https://openalex.org/I63843962,National Infrastructures for Research and Technology -  GRNET S.A,GR,1
+https://openalex.org/I27469343,Pforzheim University of Applied Sciences,DE,1
+https://openalex.org/I27897274,Istituto Superiore di Sanità,IT,1
+https://openalex.org/I27912750,Wrocław University of Environmental and Life Sciences,PL,1
+https://openalex.org/I2799298456,Rotunda Hospital,IE,1
+https://openalex.org/I2799299272,Hospital Universitario Insular de Gran Canaria,ES,1
+https://openalex.org/I2799318839,Universitätsmedizin Greifswald,DE,1
+https://openalex.org/I2799358833,Azienda Ospedaliera San Giovanni Addolorata,IT,1
+https://openalex.org/I206105734,Nofer Institute of Occupational Medicine,PL,1
+https://openalex.org/I206451062,"University of Architecture, Civil Engineering and Geodesy",BG,1
+https://openalex.org/I207624831,Slovak Academy of Sciences,SK,1
+https://openalex.org/I208470662,Iuliu Hațieganu University of Medicine and Pharmacy,RO,1
+https://openalex.org/I208626154,University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,RO,1
+https://openalex.org/I74623043,Deutsche Bundesbank,DE,1
+https://openalex.org/I7478328,Waterford Institute of Technology,IE,1
+https://openalex.org/I7597260,Hungarian Academy of Sciences,HU,1
+https://openalex.org/I70428823,IEDC-Bled School of Management,SI,1
+https://openalex.org/I2184545,Instituto Cajal,ES,1
+https://openalex.org/I220619192,Valeo (France),FR,1
+https://openalex.org/I225921006,Petre Andrei University of Iași,RO,1
+https://openalex.org/I237446400,Institut Superieur de Gestion,FR,1
+https://openalex.org/I240344557,University College Lillebaelt,DK,1
+https://openalex.org/I24227732,University of Applied Sciences Ravensburg-Weingarten,DE,1
+https://openalex.org/I24359323,Robert Koch Institute,DE,1
+https://openalex.org/I180242103,Stockholm School of Economics,SE,1
+https://openalex.org/I189991,"University of Veterinary Medicine Hannover, Foundation",DE,1
+https://openalex.org/I190397597,University of Urbino,IT,1
+https://openalex.org/I193278943,Kristianstad University,SE,1
+https://openalex.org/I188626449,Université Lumière Lyon 2,FR,1
+https://openalex.org/I7923278,Shell (Netherlands),NL,1
+https://openalex.org/I80810150,Józef Piłsudski University of Physical Education in Warsaw,PL,1
+https://openalex.org/I73114660,University of Applied Sciences Kaiserslautern,DE,1
+https://openalex.org/I196972281,Imec the Netherlands,NL,1
+https://openalex.org/I190752583,ParisTech,FR,1
+https://openalex.org/I201298700,Banque de France,FR,1
+https://openalex.org/I203339264,Université de Lyon,FR,1
+https://openalex.org/I20431382,University of Erfurt,DE,1
+https://openalex.org/I205092303,Institut d'Etudes Politiques de Paris,FR,1
+https://openalex.org/I19908199,National Center for Supercomputing Applications,BG,1
+https://openalex.org/I199388852,École de Biologie Industrielle,FR,1
+https://openalex.org/I162487826,Centre Hospitalier de Luxembourg,LU,1
+https://openalex.org/I16337185,University of Sannio,IT,1
+https://openalex.org/I158283456,Andalusian Health Service,ES,1
+https://openalex.org/I168660222,General Motors (Germany),DE,1
+https://openalex.org/I169645620,Institut Pascal,FR,1
+https://openalex.org/I170138621,Atos (France),FR,1
+https://openalex.org/I161929037,Université de Bretagne Occidentale,FR,1
+https://openalex.org/I84909340,Institut des Hautes Études Scientifiques,FR,1
+https://openalex.org/I77432436,Research Institute of Industrial Economics,SE,1
+https://openalex.org/I176063091,École Nationale Vétérinaire de Toulouse,FR,1
+https://openalex.org/I178498160,American University in Bulgaria,BG,1
+https://openalex.org/I171246369,École Nationale Supérieure de Mécanique et d'Aérotechnique,FR,1
+https://openalex.org/I180498684,Metropolitan University Prague,CZ,1
+https://openalex.org/I180629606,University of Dubrovnik,HR,1
+https://openalex.org/I180755707,Hanze University of Applied Sciences,NL,1
+https://openalex.org/I179450942,Anatolia College,GR,1
+https://openalex.org/I142270456,Technische Hochschule Augsburg,DE,1
+https://openalex.org/I144889574,Université de Pau et des Pays de l'Adour,FR,1
+https://openalex.org/I145236414,Alliance Bioversity International - CIAT,IT,1
+https://openalex.org/I146978986,Vaasa University of Applied Sciences,FI,1
+https://openalex.org/I139173083,Lithuanian Sports University,LT,1
+https://openalex.org/I86767153,Université Jean Monnet,FR,1
+https://openalex.org/I870178186,Nyenrode Business University,NL,1
+https://openalex.org/I82288201,Institute of Technology Sligo,IE,1
+https://openalex.org/I148297040,Netherlands Organisation for Applied Scientific Research,NL,1
+https://openalex.org/I152516533,Hellenic Naval Academy,GR,1
+https://openalex.org/I143002897,Université de Toulon,FR,1
+https://openalex.org/I157210198,Scuola Normale Superiore,IT,1
+https://openalex.org/I157413458,Coburg University of Applied Sciences,DE,1
+https://openalex.org/I147765834,Leipzig University of Applied Sciences,DE,1
+https://openalex.org/I161104310,Zeppelin Universität gemeinnützige GmbH,DE,1
+https://openalex.org/I161463649,Audencia Business School,FR,1
+https://openalex.org/I134033392,EADA Business School,ES,1
+https://openalex.org/I1340951533,Institut de la Vision,FR,1
+https://openalex.org/I1341284090,Royal Swedish Academy of Sciences,SE,1
+https://openalex.org/I134168995,National Legal Medicine Institute,PT,1
+https://openalex.org/I1342360035,Uppsala University Hospital,SE,1
+https://openalex.org/I1343190059,VRVis GmbH (Austria),AT,1
+https://openalex.org/I1322597698,Royal Netherlands Academy of Arts and Sciences,NL,1
+https://openalex.org/I1322731696,Centraal Bureau voor de Statistiek,NL,1
+https://openalex.org/I1323121030,Bialystok University of Technology,PL,1
+https://openalex.org/I88814501,Institut National des Sciences Appliquées Rouen Normandie,FR,1
+https://openalex.org/I893397424,Design School Kolding,DK,1
+https://openalex.org/I896005021,Inholland University of Applied Sciences,NL,1
+https://openalex.org/I85686399,University of Sopron,HU,1
+https://openalex.org/I85744235,Instituto Piaget,PT,1
+https://openalex.org/I138595864,Stockholm Resilience Centre,SE,1
+https://openalex.org/I141777705,Latvian Biomedical Research and Study Centre,LV,1
+https://openalex.org/I128193699,Slovak University of Agriculture in Nitra,SK,1
+https://openalex.org/I131077856,Centre de Coopération Internationale en Recherche Agronomique pour le Développement,FR,1
+https://openalex.org/I1315288073,Cliniques Universitaires Saint-Luc,BE,1
+https://openalex.org/I131736796,Lithuanian University of Health Sciences,LT,1
+https://openalex.org/I1317774081,International Institute for Applied Systems Analysis,AT,1
+https://openalex.org/I1319360392,Eurac Research,IT,1
+https://openalex.org/I1293302089,Swedish Meteorological and Hydrological Institute,SE,1
+https://openalex.org/I910829146,European X-Ray Free-Electron Laser,DE,1
+https://openalex.org/I884043246,Hamburg University of Technology,DE,1
+https://openalex.org/I1324611689,Center for the Study of Democracy,BG,1
+https://openalex.org/I1326965316,Julius Kühn-Institut,DE,1
+https://openalex.org/I1330165540,Federal Institute For Materials Research and Testing,DE,1
+https://openalex.org/I1332474105,Mercedes-Benz (Germany),DE,1
+https://openalex.org/I1305429183,Schneider Electric (France),FR,1
+https://openalex.org/I130767617,Vidzeme University of Applied Sciences,LV,1
+https://openalex.org/I1339895191,RWI – Leibniz Institute for Economic Research,DE,1
+https://openalex.org/I4210124683,Fundació ACE,ES,1
+https://openalex.org/I102197404,Université Paris-Sud,FR,1
+https://openalex.org/I100296615,École Nationale de l’Aviation Civile,FR,1
+https://openalex.org/I100445878,École Centrale de Nantes,FR,1
+https://openalex.org/I918821925,Junta de Andalucía,ES,1
+https://openalex.org/I109570744,Sigmund Freud Privatuniversität Wien,AT,1
+https://openalex.org/I94271068,ESCP Business School,DE,1
+https://openalex.org/I111325124,Athens School of Fine Arts,GR,1
+https://openalex.org/I111467783,Pontifical Gregorian University,IT,1
+https://openalex.org/I111684115,Uppsala Monitoring Centre,SE,1
+https://openalex.org/I115752224,University of Insubria,IT,1
+https://openalex.org/I117841876,Université Paris-Panthéon-Assas,FR,1
+https://openalex.org/I11986463,Università Iuav di Venezia,IT,1
+https://openalex.org/I119971240,Nordic Institute for Theoretical Physics,SE,1
+https://openalex.org/I122697084,Centrum Badań Kosmicznych,PL,1
+https://openalex.org/I122754167,Medigene (Germany),DE,1
+https://openalex.org/I4210123852,Akademia Łomżyńska,PL,1
+https://openalex.org/I4210123940,Ministry of Education,PT,1
+https://openalex.org/I4210124155,Hyperion University,RO,1
+https://openalex.org/I4210124245,Uczelnia Łazarskiego,PL,1
+https://openalex.org/I4210124394,Centro Hospitalar de Lisboa Ocidental,PT,1
+https://openalex.org/I4210124450,Institute of Baltic Studies,EE,1
+https://openalex.org/I4210122262,Institut des Sciences Cognitives Marc Jeannerod,FR,1
+https://openalex.org/I4210122281,Regional Government of Castile-La Mancha,ES,1
+https://openalex.org/I4210122489,NaMLab (Germany),DE,1
+https://openalex.org/I4210126318,Tampere University Hospital,FI,1
+https://openalex.org/I4210126338,Software Competence Center Hagenberg (Austria),AT,1
+https://openalex.org/I4210126364,University of Education Weingarten,DE,1
+https://openalex.org/I4210126455,Sopharma (Bulgaria),BG,1
+https://openalex.org/I4210126712,Hôpital Robert-Debré,FR,1
+https://openalex.org/I4210126885,CAMPUS 02 University for Applied Sciences,AT,1
+https://openalex.org/I4210127057,Technical University of Applied Sciences Lübeck,DE,1

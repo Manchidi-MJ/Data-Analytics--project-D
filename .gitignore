@@ -40,3 +40,7 @@ Thumbs.db
 
 # ---- Secrets ----
 .env
+
+# ---- From main ----
+*.jsonl
+project-d-backup/

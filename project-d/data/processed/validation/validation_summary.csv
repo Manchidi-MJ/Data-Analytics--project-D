@@ -1,0 +1,13 @@
+measure,value
+Audit sample size,100
+Precision % (Unclear left out),79.8
+Precision 95% CI,70.6–86.7%
+Over-capture %,20.2
+"Recall % (OpenAlex AIED topic sample, n=200)",21.0
+Recall % English papers,28.2
+Recall % non-English papers,10.8
+EU AIED-topic papers in OpenAlex,9512
+No-country % range across 5 searches,26.5–37.4%
+No-country % in 2026,34.6
+Recall 95% CI,15.9–27.2%
+Recall 95% CI,15.9–27.2%

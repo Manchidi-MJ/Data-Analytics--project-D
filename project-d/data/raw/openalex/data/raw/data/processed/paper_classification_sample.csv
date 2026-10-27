@@ -1,0 +1,6 @@
+openalex_id,title,publication_year,doi,decision,reason
+https://openalex.org/W4389607940,"Artificial Intelligence, Education, and Entrepreneurship",2023,https://doi.org/10.1111/jofi.13302,exclude,Focuses on AI professors and startup outcomes
+https://openalex.org/W3006030984,Broadening artificial intelligence education in K-12,2020,https://doi.org/10.1145/3381884,include,Directly concerns AI education in schools
+https://openalex.org/W4296184066,The role of learners’ competencies in artificial intelligence education,2022,https://doi.org/10.1016/j.caeai.2022.100098,include,Studies competencies for learning AI
+https://openalex.org/W4225141765,Teachers’ Perspective on Artificial Intelligence Education: an Initial Investigation,2022,https://doi.org/10.1145/3491101.3519866,include,Studies teachers' perspectives on AI education
+https://openalex.org/W4200037840,Artificial Intelligence Education Programs for Health Care Professionals: Scoping Review,2021,https://doi.org/10.2196/31043,review,Healthcare professional training; scope needs clarification

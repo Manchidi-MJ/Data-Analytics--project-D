@@ -1,0 +1,4052 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 936363,
+    "db_response_time_ms": 207,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works since 2020-01-01 with (stemmed \"artificial intelligence\" AND education) in the full text",
+      "x_new_oql": "get works since 2020-01-01 with (stemmed \"artificial intelligence\" AND education) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "from_publication_date",
+            "value": "2020-01-01"
+          },
+          {
+            "column_id": "fulltext.search",
+            "value": "\"artificial intelligence\"",
+            "operator": "has"
+          },
+          {
+            "column_id": "fulltext.search",
+            "value": "education",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=from_publication_date:2020-01-01,fulltext.search:%22artificial intelligence%22,fulltext.search:education&per_page=10&page=1",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4382722418",
+      "doi": "https://doi.org/10.1057/s41599-023-01842-4",
+      "title": "Correction: Impact of artificial intelligence on human loss in decision making, laziness and safety in education",
+      "display_name": "Correction: Impact of artificial intelligence on human loss in decision making, laziness and safety in education",
+      "relevance_score": 60.467167,
+      "publication_year": 2023,
+      "publication_date": "2023-06-29",
+      "ids": {
+        "openalex": "https://openalex.org/W4382722418",
+        "doi": "https://doi.org/10.1057/s41599-023-01842-4"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1057/s41599-023-01842-4",
+        "doi": "https://doi.org/10.1057/s41599-023-01842-4",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1057/s41599-023-01842-4",
+        "pdf_url": "https://www.nature.com/articles/s41599-023-01842-4.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210206302",
+          "display_name": "Humanities and Social Sciences Communications",
+          "issn_l": "2055-1045",
+          "issn": [
+            "2055-1045",
+            "2662-9992"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319702",
+          "host_organization_name": "Palgrave Macmillan",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319702",
+            "https://openalex.org/P4310319964"
+          ],
+          "host_organization_lineage_names": [
+            "Palgrave Macmillan",
+            "Macmillan Publishers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Humanities and Social Sciences Communications",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "erratum",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41599-023-01842-4.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5085352512",
+            "display_name": "Sayed Fayaz Ahmad",
+            "orcid": "https://orcid.org/0000-0001-6866-3749",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6866-3749"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210150297",
+              "display_name": "Institute of Business Management",
+              "ror": "https://ror.org/048w4c951",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210150297"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sayed Fayaz Ahmad",
+          "raw_affiliation_strings": [
+            "Institute of Business Management, Karachi, Pakistan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Business Management, Karachi, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I4210150297"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060663003",
+            "display_name": "Heesup Han",
+            "orcid": "https://orcid.org/0000-0001-6356-3001",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6356-3001"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28777354",
+              "display_name": "Sejong University",
+              "ror": "https://ror.org/00aft1q37",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28777354"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Heesup Han",
+          "raw_affiliation_strings": [
+            "Sejong University, Seoul, Korea"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6356-3001",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sejong University, Seoul, Korea",
+              "institution_ids": [
+                "https://openalex.org/I28777354"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080030634",
+            "display_name": "Muhammad Mansoor Alam",
+            "orcid": "https://orcid.org/0000-0001-5773-7140",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5773-7140"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I195024194",
+              "display_name": "Riphah International University",
+              "ror": "https://ror.org/02kdm5630",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I195024194"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Mansoor Alam",
+          "raw_affiliation_strings": [
+            "Riphah International University, Islamabad, Pakistan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Riphah International University, Islamabad, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I195024194"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5092127481",
+            "display_name": "Mohd. Khairul Rehmat",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4528857",
+              "display_name": "University of Kuala Lumpur",
+              "ror": "https://ror.org/026wwrx19",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4528857"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohd. Khairul Rehmat",
+          "raw_affiliation_strings": [
+            "Universiti Kuala Lumpur, Kuala Lumpur, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universiti Kuala Lumpur, Kuala Lumpur, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I4528857"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103020770",
+            "display_name": "Muhammad Irshad",
+            "orcid": "https://orcid.org/0000-0002-0870-1798",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0870-1798"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Irshad",
+          "raw_affiliation_strings": [
+            "University of Gwadar, Gwadar, Pakistan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Gwadar, Gwadar, Pakistan",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085257097",
+            "display_name": "Marcelo Arraño-Muñoz",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210100945",
+              "display_name": "Universidad de Playa Ancha de Ciencias de la Educación",
+              "ror": "https://ror.org/0171wr661",
+              "country_code": "CL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210100945"
+              ]
+            }
+          ],
+          "countries": [
+            "CL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marcelo Arraño-Muñoz",
+          "raw_affiliation_strings": [
+            "Universidad de Playa Ancha, Valparaiso, Chile"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad de Playa Ancha, Valparaiso, Chile",
+              "institution_ids": [
+                "https://openalex.org/I4210100945"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5070569057",
+            "display_name": "Antonio Ariza‐Montes",
+            "orcid": "https://orcid.org/0000-0002-5921-0753",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5921-0753"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I243381257",
+              "display_name": "Universidad Loyola Andalucía",
+              "ror": "https://ror.org/0075gfd51",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I243381257"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Antonio Ariza-Montes",
+          "raw_affiliation_strings": [
+            "Universidad Loyola Andalucía, Córdoba, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5921-0753",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Loyola Andalucía, Córdoba, Spain",
+              "institution_ids": [
+                "https://openalex.org/I243381257"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5060663003",
+        "https://openalex.org/A5085352512"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I28777354",
+        "https://openalex.org/I4210150297"
+      ],
+      "apc_list": {
+        "value": 1590,
+        "currency": "USD",
+        "value_usd": 1590
+      },
+      "apc_paid": {
+        "value": 1590,
+        "currency": "USD",
+        "value_usd": 1590
+      },
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 91,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "10",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9663000106811523,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9663000106811523,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.015599999576807022,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.004800000227987766,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.878000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/casualties",
+          "display_name": "casualties",
+          "score": 0.6489999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/decision-making",
+          "display_name": "decision-making",
+          "score": 0.9670000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/laziness",
+          "display_name": "laziness",
+          "score": 0.9879999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/safety",
+          "display_name": "safety",
+          "score": 0.8230000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.9919999837875366
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776447739",
+          "wikidata": "https://www.wikidata.org/wiki/Q484",
+          "display_name": "Laziness",
+          "level": 2,
+          "score": 0.9771418571472168
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.41435372829437256
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3831169307231903
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3710191249847412
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1057/s41599-023-01842-4",
+          "doi": "https://doi.org/10.1057/s41599-023-01842-4",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1057/s41599-023-01842-4",
+          "pdf_url": "https://www.nature.com/articles/s41599-023-01842-4.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210206302",
+            "display_name": "Humanities and Social Sciences Communications",
+            "issn_l": "2055-1045",
+            "issn": [
+              "2055-1045",
+              "2662-9992"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "ki-jl-1",
+              "norway-1",
+              "poland-20",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310319702",
+            "host_organization_name": "Palgrave Macmillan",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319702",
+              "https://openalex.org/P4310319964"
+            ],
+            "host_organization_lineage_names": [
+              "Palgrave Macmillan",
+              "Macmillan Publishers"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Humanities and Social Sciences Communications",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:pal:palcom:v:10:y:2023:i:1:d:10.1057_s41599-023-01842-4",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://link.springer.com/10.1057/s41599-023-01842-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:0a1925a2222445c69585aae40a98f8c5",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/0a1925a2222445c69585aae40a98f8c5",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Humanities & Social Sciences Communications, Vol 10, Iss 1, Pp 1-1 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1057/s41599-023-01842-4",
+        "doi": "https://doi.org/10.1057/s41599-023-01842-4",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1057/s41599-023-01842-4",
+        "pdf_url": "https://www.nature.com/articles/s41599-023-01842-4.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210206302",
+          "display_name": "Humanities and Social Sciences Communications",
+          "issn_l": "2055-1045",
+          "issn": [
+            "2055-1045",
+            "2662-9992"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319702",
+          "host_organization_name": "Palgrave Macmillan",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319702",
+            "https://openalex.org/P4310319964"
+          ],
+          "host_organization_lineage_names": [
+            "Palgrave Macmillan",
+            "Macmillan Publishers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Humanities and Social Sciences Communications",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4382722418.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4382722418.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4389631184",
+        "https://openalex.org/W3004385792",
+        "https://openalex.org/W3151953821",
+        "https://openalex.org/W2375733006",
+        "https://openalex.org/W4234237255",
+        "https://openalex.org/W3110783916",
+        "https://openalex.org/W3164750567",
+        "https://openalex.org/W3035256775",
+        "https://openalex.org/W2522657889"
+      ],
+      "abstract_inverted_index": {
+        "Correction": [
+          0
+        ],
+        "to:": [
+          1
+        ],
+        "Humanities": [
+          2
+        ],
+        "and": [
+          3
+        ],
+        "Social": [
+          4
+        ],
+        "Sciences": [
+          5
+        ],
+        "Communications": [
+          6
+        ],
+        "https://doi.org/10.1057/s41599-023-01787-8": [
+          7
+        ],
+        ",": [
+          8
+        ],
+        "published": [
+          9
+        ],
+        "online": [
+          10
+        ],
+        "09": [
+          11
+        ],
+        "June": [
+          12
+        ],
+        "2023.": [
+          13
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 26
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 51
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-10-01T08:54:57.152042",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4393379282",
+      "doi": "https://doi.org/10.37437/2222517x-2024-123-2-1-68",
+      "title": "Artificial Intelligence and Education",
+      "display_name": "Artificial Intelligence and Education",
+      "relevance_score": 58.20845,
+      "publication_year": 2024,
+      "publication_date": "2024-03-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4393379282",
+        "doi": "https://doi.org/10.37437/2222517x-2024-123-2-1-68"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.37437/2222517x-2024-123-2-1-68",
+        "doi": "https://doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "is_oa": true,
+        "landing_page_url": "http://doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "pdf_url": "http://dx.doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "source": {
+          "id": "https://openalex.org/S4210183561",
+          "display_name": "Global Science Review / Nauka za rubežom",
+          "issn_l": "2222-517X",
+          "issn": [
+            "2222-517X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global Science Review / Nauka za rubežom",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://dx.doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5020181457",
+            "display_name": "L. Pipiya",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L. Pipiya",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5025604691",
+            "display_name": "V. Dorogokupets",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "V. Dorogokupets",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": true,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.03397186,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "123",
+        "issue": "2",
+        "first_page": "1",
+        "last_page": "68"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13904",
+          "display_name": "Artificial Intelligence Applications",
+          "score": 0.0006000000284984708,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.9350000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.7739999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence-in-education",
+          "display_name": "artificial intelligence in education",
+          "score": 0.7760000228881836
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.38711774349212646
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.36172887682914734
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.35672301054000854
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.37437/2222517x-2024-123-2-1-68",
+          "doi": "https://doi.org/10.37437/2222517x-2024-123-2-1-68",
+          "is_oa": true,
+          "landing_page_url": "http://doi.org/10.37437/2222517x-2024-123-2-1-68",
+          "pdf_url": "http://dx.doi.org/10.37437/2222517x-2024-123-2-1-68",
+          "source": {
+            "id": "https://openalex.org/S4210183561",
+            "display_name": "Global Science Review / Nauka za rubežom",
+            "issn_l": "2222-517X",
+            "issn": [
+              "2222-517X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Global Science Review / Nauka za rubežom",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.37437/2222517x-2024-123-2-1-68",
+        "doi": "https://doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "is_oa": true,
+        "landing_page_url": "http://doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "pdf_url": "http://dx.doi.org/10.37437/2222517x-2024-123-2-1-68",
+        "source": {
+          "id": "https://openalex.org/S4210183561",
+          "display_name": "Global Science Review / Nauka za rubežom",
+          "issn_l": "2222-517X",
+          "issn": [
+            "2222-517X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global Science Review / Nauka za rubežom",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.6164000034332275
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4393379282.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4393379282.grobid-xml"
+      },
+      "referenced_works_count": 1,
+      "referenced_works": [
+        "https://openalex.org/W4361204758"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052",
+        "https://openalex.org/W4402327032"
+      ],
+      "abstract_inverted_index": {
+        "Рубрика": [
+          0
+        ],
+        "«Социальные": [
+          1
+        ],
+        "и": [
+          2,
+          5
+        ],
+        "экономические": [
+          3
+        ],
+        "науки": [
+          4
+        ],
+        "статистика»": [
+          6
+        ],
+        "Авторы": [
+          7
+        ],
+        "выпуска:": [
+          8
+        ],
+        "Л.": [
+          9
+        ],
+        "К.": [
+          10
+        ],
+        "Пипия,": [
+          11
+        ],
+        "В.": [
+          12,
+          16
+        ],
+        "С.": [
+          13,
+          17
+        ],
+        "Дорогокупец": [
+          14
+        ],
+        "Перевод:": [
+          15
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-12T09:40:04.860316",
+      "created_date": "2024-04-02T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4403333411",
+      "doi": "https://doi.org/10.25215/9358094575.32",
+      "title": "ARTIFICIAL INTELLIGENCE AND EDUCATION",
+      "display_name": "ARTIFICIAL INTELLIGENCE AND EDUCATION",
+      "relevance_score": 58.184303,
+      "publication_year": 2020,
+      "publication_date": "2020-10-10",
+      "ids": {
+        "openalex": "https://openalex.org/W4403333411",
+        "doi": "https://doi.org/10.25215/9358094575.32"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.25215/9358094575.32",
+        "doi": "https://doi.org/10.25215/9358094575.32",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.25215/9358094575.32",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ARTIFICIAL INTELLIGENCE IN EDUCATION: REVOLUTIONIZING LEARNING AND TEACHING",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4403319607",
+        "display_name": "ARTIFICIAL INTELLIGENCE IN EDUCATION: REVOLUTIONIZING LEARNING AND TEACHING"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.25215/9358094575.32",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5014977690",
+            "display_name": "Priyanka Datta",
+            "orcid": "https://orcid.org/0000-0002-3812-1524",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3812-1524"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Dr. Priyanka Datta",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5014977690"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6885,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.80648245,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.9279999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.7670000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.8420000076293945
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4167020916938782
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.38172656297683716
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3750191032886505
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.35513755679130554
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.25215/9358094575.32",
+          "doi": "https://doi.org/10.25215/9358094575.32",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.25215/9358094575.32",
+          "pdf_url": null,
+          "source": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ARTIFICIAL INTELLIGENCE IN EDUCATION: REVOLUTIONIZING LEARNING AND TEACHING",
+          "raw_type": "book-chapter"
+        },
+        {
+          "id": "pmh:oai:ojs2.chapters.redshine.in:article/1432",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://chapters.redshine.in/index.php/redshine/article/view/1432",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4387290748",
+            "display_name": "Redshine Archive",
+            "issn_l": "2455-3263",
+            "issn": [
+              "2455-3263"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4328135222",
+            "host_organization_name": "Redshine Publication",
+            "host_organization_lineage": [
+              "https://openalex.org/P4328135222"
+            ],
+            "host_organization_lineage_names": [
+              "Redshine Publication"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2455-3263",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.25215/9358094575.32",
+        "doi": "https://doi.org/10.25215/9358094575.32",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.25215/9358094575.32",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ARTIFICIAL INTELLIGENCE IN EDUCATION: REVOLUTIONIZING LEARNING AND TEACHING",
+        "raw_type": "book-chapter"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.9901999831199646
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052",
+        "https://openalex.org/W4402327032",
+        "https://openalex.org/W2382290278"
+      ],
+      "abstract_inverted_index": {
+        "Artificial": [
+          0
+        ],
+        "Intelligence": [
+          1
+        ],
+        "(AI)": [
+          2
+        ],
+        "is": [
+          3
+        ],
+        "revolutionizing": [
+          4
+        ],
+        "the": [
+          5,
+          22,
+          61,
+          64,
+          78,
+          107,
+          116,
+          136,
+          146
+        ],
+        "educational": [
+          6,
+          86,
+          149
+        ],
+        "landscape": [
+          7
+        ],
+        "by": [
+          8
+        ],
+        "offering": [
+          9
+        ],
+        "personalized": [
+          10
+        ],
+        "learning": [
+          11,
+          102
+        ],
+        "experiences,": [
+          12
+        ],
+        "enhancing": [
+          13
+        ],
+        "administrative": [
+          14,
+          95
+        ],
+        "efficiency,": [
+          15
+        ],
+        "and": [
+          16,
+          38,
+          54,
+          76,
+          97,
+          132,
+          151
+        ],
+        "promoting": [
+          17
+        ],
+        "inclusivity.": [
+          18
+        ],
+        "This": [
+          19,
+          125
+        ],
+        "study": [
+          20,
+          62
+        ],
+        "explores": [
+          21
+        ],
+        "multifaceted": [
+          23
+        ],
+        "applications": [
+          24
+        ],
+        "of": [
+          25,
+          67,
+          109,
+          118,
+          148
+        ],
+        "AI": [
+          26,
+          71,
+          110,
+          140
+        ],
+        "in": [
+          27,
+          69,
+          81,
+          141
+        ],
+        "education,": [
+          28,
+          142
+        ],
+        "examining": [
+          29
+        ],
+        "its": [
+          30,
+          123
+        ],
+        "benefits": [
+          31
+        ],
+        "such": [
+          32
+        ],
+        "as": [
+          33
+        ],
+        "adaptive": [
+          34
+        ],
+        "learning,": [
+          35
+        ],
+        "automated": [
+          36
+        ],
+        "grading,": [
+          37
+        ],
+        "intelligent": [
+          39
+        ],
+        "tutoring": [
+          40
+        ],
+        "systems.": [
+          41
+        ],
+        "It": [
+          42
+        ],
+        "highlights": [
+          43
+        ],
+        "how": [
+          44
+        ],
+        "AI-powered": [
+          45
+        ],
+        "tools": [
+          46
+        ],
+        "provide": [
+          47
+        ],
+        "real-time": [
+          48
+        ],
+        "feedback,": [
+          49
+        ],
+        "support": [
+          50
+        ],
+        "students": [
+          51
+        ],
+        "with": [
+          52,
+          139
+        ],
+        "disabilities,": [
+          53
+        ],
+        "facilitate": [
+          55
+        ],
+        "data-driven": [
+          56
+        ],
+        "decision-making": [
+          57
+        ],
+        "for": [
+          58
+        ],
+        "educators.": [
+          59
+        ],
+        "Additionally,": [
+          60
+        ],
+        "addresses": [
+          63
+        ],
+        "critical": [
+          65
+        ],
+        "role": [
+          66
+        ],
+        "teachers": [
+          68
+        ],
+        "integrating": [
+          70
+        ],
+        "technologies,": [
+          72
+        ],
+        "ensuring": [
+          73
+        ],
+        "ethical": [
+          74
+        ],
+        "use,": [
+          75
+        ],
+        "maintaining": [
+          77
+        ],
+        "human": [
+          79
+        ],
+        "touch": [
+          80
+        ],
+        "education.": [
+          82
+        ],
+        "By": [
+          83
+        ],
+        "leveraging": [
+          84
+        ],
+        "AI,": [
+          85
+        ],
+        "institutions": [
+          87
+        ],
+        "can": [
+          88
+        ],
+        "tailor": [
+          89
+        ],
+        "instruction": [
+          90
+        ],
+        "to": [
+          91,
+          111,
+          121,
+          128,
+          145
+        ],
+        "individual": [
+          92
+        ],
+        "needs,": [
+          93
+        ],
+        "streamline": [
+          94
+        ],
+        "tasks,": [
+          96
+        ],
+        "foster": [
+          98
+        ],
+        "a": [
+          99
+        ],
+        "more": [
+          100
+        ],
+        "inclusive": [
+          101
+        ],
+        "environment.": [
+          103
+        ],
+        "The": [
+          104
+        ],
+        "findings": [
+          105
+        ],
+        "underscore": [
+          106
+        ],
+        "potential": [
+          108
+        ],
+        "transform": [
+          112
+        ],
+        "education": [
+          113
+        ],
+        "globally,": [
+          114
+        ],
+        "emphasizing": [
+          115
+        ],
+        "importance": [
+          117
+        ],
+        "mindful": [
+          119
+        ],
+        "implementation": [
+          120
+        ],
+        "maximize": [
+          122
+        ],
+        "benefits.": [
+          124
+        ],
+        "research": [
+          126
+        ],
+        "aims": [
+          127
+        ],
+        "inform": [
+          129
+        ],
+        "educators,": [
+          130
+        ],
+        "policymakers,": [
+          131
+        ],
+        "technology": [
+          133
+        ],
+        "developers": [
+          134
+        ],
+        "about": [
+          135
+        ],
+        "opportunities": [
+          137
+        ],
+        "associated": [
+          138
+        ],
+        "ultimately": [
+          143
+        ],
+        "contributing": [
+          144
+        ],
+        "advancement": [
+          147
+        ],
+        "practices": [
+          150
+        ],
+        "student": [
+          152
+        ],
+        "outcomes.": [
+          153
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4404977879",
+      "doi": "https://doi.org/10.37314/jjem.sp0125",
+      "title": "Artificial Intelligence in Education",
+      "display_name": "Artificial Intelligence in Education",
+      "relevance_score": 57.807865,
+      "publication_year": 2023,
+      "publication_date": "2023-12-08",
+      "ids": {
+        "openalex": "https://openalex.org/W4404977879",
+        "doi": "https://doi.org/10.37314/jjem.sp0125"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.37314/jjem.sp0125",
+        "doi": "https://doi.org/10.37314/jjem.sp0125",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.37314/jjem.sp0125",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210194367",
+          "display_name": "JNNCE Journal of Engineering and Management",
+          "issn_l": "2582-0079",
+          "issn": [
+            "2582-0079"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JNNCE Journal of Engineering and Management",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.37314/jjem.sp0125",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "Praveen D P",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Praveen D P",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5104254104",
+            "display_name": "P A Madhuri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Madhuri P A",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.705,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.82832906,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "SP01",
+        "issue": null,
+        "first_page": "250",
+        "last_page": "264"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9937000274658203,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9937000274658203,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.0032999999821186066,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12260",
+          "display_name": "Educational Technology and Pedagogy",
+          "score": 0.0013000000035390258,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.671999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.7310000061988831
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.44218364357948303
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.4144710898399353
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.36949414014816284
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.37314/jjem.sp0125",
+          "doi": "https://doi.org/10.37314/jjem.sp0125",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.37314/jjem.sp0125",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210194367",
+            "display_name": "JNNCE Journal of Engineering and Management",
+            "issn_l": "2582-0079",
+            "issn": [
+              "2582-0079"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JNNCE Journal of Engineering and Management",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.37314/jjem.sp0125",
+        "doi": "https://doi.org/10.37314/jjem.sp0125",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.37314/jjem.sp0125",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210194367",
+          "display_name": "JNNCE Journal of Engineering and Management",
+          "issn_l": "2582-0079",
+          "issn": [
+            "2582-0079"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JNNCE Journal of Engineering and Management",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.7567999958992004
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-09-29T14:09:16.559479",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2292347285",
+      "doi": "https://doi.org/10.5771/9781475871944-11",
+      "title": "Artificial Intelligence and Education",
+      "display_name": "Artificial Intelligence and Education",
+      "relevance_score": 57.51215,
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2292347285",
+        "doi": "https://doi.org/10.5771/9781475871944-11",
+        "mag": "2292347285"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5771/9781475871944-11",
+        "doi": "https://doi.org/10.5771/9781475871944-11",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5771/9781475871944-11",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306479034",
+          "display_name": "Rowman & Littlefield Publishers eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320476",
+          "host_organization_name": "Rowman & Littlefield",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320476"
+          ],
+          "host_organization_lineage_names": [
+            "Rowman & Littlefield"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Digital Directions",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4405554311",
+        "display_name": "Digital Directions"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref",
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.5281/zenodo.7660478",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "Darrel W. Staat",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Darrel W. Staat",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.00056924,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "11",
+        "last_page": "26"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12260",
+          "display_name": "Educational Technology and Pedagogy",
+          "score": 0.0003000000142492354,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.9670000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.9070000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/emerging-technologies",
+          "display_name": "emerging technologies",
+          "score": 0.6840000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.5839999914169312
+        },
+        {
+          "id": "https://openalex.org/keywords/innovation",
+          "display_name": "innovation",
+          "score": 0.5920000076293945
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.36436885595321655
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.34183457493782043
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.5771/9781475871944-11",
+          "doi": "https://doi.org/10.5771/9781475871944-11",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5771/9781475871944-11",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306479034",
+            "display_name": "Rowman & Littlefield Publishers eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320476",
+            "host_organization_name": "Rowman & Littlefield",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320476"
+            ],
+            "host_organization_lineage_names": [
+              "Rowman & Littlefield"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Digital Directions",
+          "raw_type": "book-chapter"
+        },
+        {
+          "id": "doi:10.5281/zenodo.7660478",
+          "doi": "https://doi.org/10.5281/zenodo.7660478",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.7660478",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "InteractiveResource"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.5281/zenodo.7660478",
+        "doi": "https://doi.org/10.5281/zenodo.7660478",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5281/zenodo.7660478",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "InteractiveResource"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.975600004196167
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052"
+      ],
+      "abstract_inverted_index": {
+        "Part": [
+          0
+        ],
+        "of": [
+          1,
+          10
+        ],
+        "module": [
+          2
+        ],
+        "6": [
+          3
+        ],
+        "Understanding": [
+          4
+        ],
+        "innovation": [
+          5
+        ],
+        "&": [
+          6
+        ],
+        "key": [
+          7
+        ],
+        "emerging": [
+          8
+        ],
+        "technologies": [
+          9
+        ],
+        "the": [
+          11
+        ],
+        "DigiTel": [
+          12
+        ],
+        "Pro": [
+          13
+        ],
+        "course": [
+          14
+        ],
+        "Online": [
+          15
+        ],
+        "Education": [
+          16
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7124173002",
+      "doi": "https://doi.org/10.5281/zenodo.11065592",
+      "title": "Artificial Intelligence in Education",
+      "display_name": "Artificial Intelligence in Education",
+      "relevance_score": 57.16732,
+      "publication_year": 2024,
+      "publication_date": "2024-03-25",
+      "ids": {
+        "openalex": "https://openalex.org/W7124173002",
+        "doi": "https://doi.org/10.5281/zenodo.11065592"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5281/zenodo.11065592",
+        "doi": "https://doi.org/10.5281/zenodo.11065592",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5281/zenodo.11065592",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "BookChapter"
+      },
+      "volume": null,
+      "type": "book-chapter",
+      "indexed_in": [
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.5281/zenodo.11065592",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5123043154",
+            "display_name": "Dr. Bhupander Kaur",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801192375",
+              "display_name": "IFTM University",
+              "ror": "https://ror.org/02v2sn747",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2801192375"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Kaur, Dr. Bhupander",
+          "raw_affiliation_strings": [
+            "IFTM University  Moradabad, U.P., India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IFTM University  Moradabad, U.P., India",
+              "institution_ids": [
+                "https://openalex.org/I2801192375"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5123043154"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I2801192375"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.66793838,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9955999851226807,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.0019000000320374966,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12260",
+          "display_name": "Educational Technology and Pedagogy",
+          "score": 0.0010000000474974513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.8399999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.8209999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.8299999833106995
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.5108000040054321
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4268999993801117
+        },
+        {
+          "id": "https://openalex.org/C157170001",
+          "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+          "display_name": "Applications of artificial intelligence",
+          "level": 2,
+          "score": 0.3797000050544739
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.3601999878883362
+        },
+        {
+          "id": "https://openalex.org/C539667460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+          "display_name": "Management science",
+          "level": 1,
+          "score": 0.3271999955177307
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.28459998965263367
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.2703000009059906
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2572000026702881
+        },
+        {
+          "id": "https://openalex.org/C2992884035",
+          "wikidata": "https://www.wikidata.org/wiki/Q7551229",
+          "display_name": "Social life",
+          "level": 2,
+          "score": 0.23690000176429749
+        },
+        {
+          "id": "https://openalex.org/C45801056",
+          "wikidata": "https://www.wikidata.org/wiki/Q2273844",
+          "display_name": "Social intelligence",
+          "level": 2,
+          "score": 0.23319999873638153
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.5281/zenodo.11065592",
+          "doi": "https://doi.org/10.5281/zenodo.11065592",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.11065592",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "BookChapter"
+        },
+        {
+          "id": "doi:10.5281/zenodo.11065593",
+          "doi": "https://doi.org/10.5281/zenodo.11065593",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.11065593",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "BookChapter"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.5281/zenodo.11065592",
+        "doi": "https://doi.org/10.5281/zenodo.11065592",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5281/zenodo.11065592",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "BookChapter"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.6164000034332275
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "chapter": [
+          1
+        ],
+        "has": [
+          2
+        ],
+        "been": [
+          3
+        ],
+        "published": [
+          4
+        ],
+        "in": [
+          5,
+          10
+        ],
+        "Edited": [
+          6
+        ],
+        "Book": [
+          7
+        ],
+        "\"New": [
+          8
+        ],
+        "Innovations": [
+          9
+        ],
+        "Research\"": [
+          11
+        ],
+        "ISBN:": [
+          12
+        ],
+        "978-93-93166-61-6": [
+          13
+        ],
+        "For": [
+          14
+        ],
+        "verification": [
+          15
+        ],
+        "of": [
+          16
+        ],
+        "this": [
+          17
+        ],
+        "chapter,": [
+          18
+        ],
+        "please": [
+          19
+        ],
+        "visit": [
+          20
+        ],
+        "on": [
+          21
+        ],
+        "https://www.socialresearchfoundation.com/new/publish-book.php?editID=8922": [
+          22
+        ],
+        "Publisher": [
+          23
+        ],
+        ":": [
+          24
+        ],
+        "Social": [
+          25
+        ],
+        "Research": [
+          26
+        ],
+        "Foundation,": [
+          27
+        ],
+        "Kanpur": [
+          28
+        ],
+        "(SRF": [
+          29
+        ],
+        "International)": [
+          30
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-10-07T09:51:55.459714",
+      "created_date": "2026-01-15T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7171469162",
+      "doi": "https://doi.org/10.62617/aie",
+      "title": "Artificial Intelligence and Education",
+      "display_name": "Artificial Intelligence and Education",
+      "relevance_score": 57.11152,
+      "publication_year": 2026,
+      "publication_date": "2026-07-28",
+      "ids": {
+        "openalex": "https://openalex.org/W7171469162",
+        "doi": "https://doi.org/10.62617/aie"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.62617/aie",
+        "doi": "https://doi.org/10.62617/aie",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.62617/aie",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "journal"
+      },
+      "volume": null,
+      "type": "paratext",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": true,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9961000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.002400000113993883,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12260",
+          "display_name": "Educational Technology and Pedagogy",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.8899999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.7649999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.7459999918937683
+        }
+      ],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.62617/aie",
+          "doi": "https://doi.org/10.62617/aie",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.62617/aie",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": null,
+          "raw_type": "journal"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.975600004196167
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-07-28T07:46:37.118299",
+      "created_date": "2026-07-28T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4416473587",
+      "doi": "https://doi.org/10.5040/9798216420286_ch2",
+      "title": "Artificial Intelligence and Education",
+      "display_name": "Artificial Intelligence and Education",
+      "relevance_score": 57.05973,
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4416473587",
+        "doi": "https://doi.org/10.5040/9798216420286_ch2"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.5040/9798216420286_ch2",
+        "doi": "https://doi.org/10.5040/9798216420286_ch2",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5040/9798216420286_ch2",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Digital Directions",
+        "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4416473786",
+        "display_name": "Digital Directions"
+      },
+      "type": "other",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "Kateryna Decker",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Kateryna Decker",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "11",
+        "last_page": "26"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9961000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.002400000113993883,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12260",
+          "display_name": "Educational Technology and Pedagogy",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.8899999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.7649999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.7459999918937683
+        }
+      ],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5040/9798216420286_ch2",
+          "doi": "https://doi.org/10.5040/9798216420286_ch2",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5040/9798216420286_ch2",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Digital Directions",
+          "raw_type": "other"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.975600004196167
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2025-11-23T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7127578280",
+      "doi": "https://doi.org/10.4337/9781035385140.00007",
+      "title": "Artificial intelligence and education",
+      "display_name": "Artificial intelligence and education",
+      "relevance_score": 57.025505,
+      "publication_year": 2026,
+      "publication_date": "2026-01-08",
+      "ids": {
+        "openalex": "https://openalex.org/W7127578280",
+        "doi": "https://doi.org/10.4337/9781035385140.00007"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.4337/9781035385140.00007",
+        "doi": "https://doi.org/10.4337/9781035385140.00007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4337/9781035385140.00007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463223",
+          "display_name": "Edward Elgar Publishing eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320353",
+          "host_organization_name": "Edward Elgar Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320353"
+          ],
+          "host_organization_lineage_names": [
+            "Edward Elgar Publishing"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Artificial Intelligence in Teaching, Learning and Organizing",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7127595778",
+        "display_name": "Artificial Intelligence in Teaching, Learning and Organizing"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5062090450",
+            "display_name": "Jon‐Arild Johannessen",
+            "orcid": "https://orcid.org/0000-0002-2628-6807",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2628-6807"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Jon-Arild Johannessen",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5062090450"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.09425723,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "38",
+        "last_page": "74"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.9629999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.6940000057220459
+        }
+      ],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4337/9781035385140.00007",
+          "doi": "https://doi.org/10.4337/9781035385140.00007",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4337/9781035385140.00007",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463223",
+            "display_name": "Edward Elgar Publishing eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320353",
+            "host_organization_name": "Edward Elgar Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320353"
+            ],
+            "host_organization_lineage_names": [
+              "Edward Elgar Publishing"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Artificial Intelligence in Teaching, Learning and Organizing",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.8278999924659729
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2026-02-06T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7135711645",
+      "doi": null,
+      "title": "Artificial intelligence in education",
+      "display_name": "Artificial intelligence in education",
+      "relevance_score": 57.01913,
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7135711645"
+      },
+      "language": "cs",
+      "primary_location": {
+        "id": "pmh:oai:invenio.nusl.cz:690925",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://www.nusl.cz/ntk/nusl-690925",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402266",
+          "display_name": "Digital Repository (National Repository of Grey Literature)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I79620101",
+          "host_organization_name": "University of Arkansas for Medical Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/I79620101"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/bachelorThesis"
+      },
+      "volume": null,
+      "type": "dissertation",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5129344011",
+            "display_name": "Petr Kratochvíl",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Kratochvíl, Petr",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5129344011"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14414",
+          "display_name": "Artificial Intelligence in Education",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.0032999999821186066,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12260",
+          "display_name": "Educational Technology and Pedagogy",
+          "score": 0.0006000000284984708,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "artificial intelligence",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/education",
+          "display_name": "education",
+          "score": 0.8109999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-technology",
+          "display_name": "educational technology",
+          "score": 0.8389999866485596
+        }
+      ],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "pmh:oai:invenio.nusl.cz:690925",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://www.nusl.cz/ntk/nusl-690925",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402266",
+            "display_name": "Digital Repository (National Repository of Grey Literature)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I79620101",
+            "host_organization_name": "University of Arkansas for Medical Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/I79620101"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/bachelorThesis"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.8278999924659729
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education",
+          "score": 0.4000135064125061
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-03-17T07:05:13.627479",
+      "created_date": "2026-03-15T00:00:00"
+    }
+  ],
+  "group_by": []
+}

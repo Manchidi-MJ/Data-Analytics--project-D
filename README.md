@@ -49,3 +49,5 @@ pip install -r requirements.txt
 ```
 
 See `docs/STEP_BY_STEP_GUIDE.md` for the full walkthrough and `docs/CHECKLIST.md` for progress.
+
+Data-preparation notes and ALL/STRICT layer details: see `project-d/README_data_preparation.md`.
