@@ -48,6 +48,15 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-See `docs/STEP_BY_STEP_GUIDE.md` for the full walkthrough and `docs/CHECKLIST.md` for progress.
+See `docs/STEP_BY_STEP_GUIDE.md` for the full walkthrough.
 
 Data-preparation notes and ALL/STRICT layer details: see `project-d/README_data_preparation.md`.
+
+## Clustering and interpretation (RQ3)
+
+- `docs/CLUSTERING_AND_INTERPRETATION.md`: method, topic clusters, manual review, sensitivity analysis, network comparison.
+- `docs/INTERPRETATION.md`: answers to the four research questions and what would change the conclusion.
+- `docs/figures/`: SVG figures.
+- Scripts: `src/cluster_analysis_screened.py`, `src/cluster_analysis_strict_sensitivity.py`, `src/collaboration_analysis.py`, `src/cluster_network_crosswalk.py`.
+
+Headline finding: collaboration forms several largely national or regional communities, and topic clusters cut across them.

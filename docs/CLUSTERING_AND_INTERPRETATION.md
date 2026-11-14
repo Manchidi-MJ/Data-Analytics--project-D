@@ -90,6 +90,22 @@ scores indicate weak text-cluster separation. Modularity suggests
 community structure within the constructed network but does not, alone,
 prove that the research field is fragmented.
 
+## Topic clusters compared with network communities
+
+`src/cluster_network_crosswalk.py` assigns each paper to the plurality
+network community of its EU27 institutions (2,772 of 2,972 papers; 200
+papers only have isolated institutions). Agreement is near zero: NMI 0.027
+and ARI 0.004 between topic cluster and network community, and NMI 0.028
+between topic cluster and dominant country. Network community and dominant
+country agree far more (NMI 0.45). Communities are therefore mostly
+geographic, and each contains all topic groups. Tables are written to
+`data/processed/clustering/strict_only_sensitivity/crosswalk/` and figures
+to `docs/figures/`. See `docs/INTERPRETATION.md` for the full discussion.
+
+![Topic clusters across network communities](figures/topic_cluster_vs_network_community.svg)
+
+![Silhouette: topic clusters vs country baseline](figures/silhouette_topic_vs_country.svg)
+
 ## Limitations
 
 The manual review was targeted at clusters 5 and 7 only; residual false
@@ -108,6 +124,8 @@ are descriptive publication counts, not measures of venue quality.
 - `src/cluster_analysis_screened.py`: broader likely-relevant population.
 - `src/cluster_analysis_strict_sensitivity.py`: STRICT sensitivity analysis.
 - `src/collaboration_analysis.py`: institutional network and venue analysis.
+- `src/cluster_network_crosswalk.py`: topic cluster vs network community
+  comparison and figures (standard library only; run after the scripts above).
 - `docs/health_title_review_decisions.csv`: compact manual-review decisions.
 
 Processed CSVs are ignored by the current Git rules. Share them deliberately
