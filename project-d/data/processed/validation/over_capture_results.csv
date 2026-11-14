@@ -1,0 +1,4 @@
+measure,value_%,ci95
+Precision (Unclear left out),79.8,70.6–86.7%
+Worst case (Unclear = Exclude),75.0,
+Best case (Unclear = Include),81.0,
