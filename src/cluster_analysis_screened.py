@@ -1,7 +1,5 @@
 
 import csv
-import io
-import subprocess
 from pathlib import Path
 
 import numpy as np
@@ -27,12 +25,9 @@ EU27 = {
 
 
 def read_origin_csv(path):
-    raw = subprocess.check_output(
-        ["git", "show", f"origin/main:{path}"],
-        text=True,
-        encoding="utf-8",
-    )
-    return list(csv.DictReader(io.StringIO(raw)))
+    """Read a project CSV from the working tree (name kept for callers)."""
+    with open(path, newline="", encoding="utf-8") as handle:
+        return list(csv.DictReader(handle))
 
 
 def dominant_country(value):

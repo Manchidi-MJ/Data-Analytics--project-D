@@ -1,9 +1,7 @@
 """Institutional collaboration and venue analysis for Project D."""
 
 import csv
-import io
 import json
-import subprocess
 from collections import Counter, defaultdict
 from itertools import combinations
 from pathlib import Path
@@ -16,10 +14,7 @@ STRICT_PATH = "project-d/data/processed/strict_scopus_provisional.csv"
 SCREENED_PATH = "project-d/data/processed/openalex_relevance_screened.csv"
 
 JSONL_PATH = Path("data/processed/openalex_works_deduplicated.jsonl")
-REVIEW_PATH = Path(
-    "data/processed/clustering/strict_only/"
-    "health_title_review_decisions.csv"
-)
+REVIEW_PATH = Path("docs/health_title_review_decisions.csv")
 OUTPUT = Path(
     "data/processed/clustering/strict_only_sensitivity/collaboration"
 )
@@ -42,12 +37,9 @@ def clean_country(value):
 
 
 def read_origin_csv(path):
-    raw = subprocess.check_output(
-        ["git", "show", f"origin/main:{path}"],
-        text=True,
-        encoding="utf-8",
-    )
-    return list(csv.DictReader(io.StringIO(raw)))
+    """Read a project CSV from the working tree (name kept for callers)."""
+    with open(path, newline="", encoding="utf-8") as handle:
+        return list(csv.DictReader(handle))
 
 
 def main():

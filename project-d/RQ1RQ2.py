@@ -2,8 +2,8 @@ from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# ---- 1. Set your project folder ----
-PROJECT = Path(r"C:\Users\Aftab bloch\Documents\project\Data-Analytics--project-D\project-d")
+# ---- 1. Project folder (this script lives in project-d/) ----
+PROJECT = Path(__file__).resolve().parent  # the project-d folder
 P = PROJECT / "data" / "processed"
 OUT = P / "deliverables"
 OUT.mkdir(exist_ok=True)

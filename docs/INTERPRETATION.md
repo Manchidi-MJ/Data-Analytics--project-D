@@ -25,6 +25,12 @@ have no EU27 collaborator at all. Louvain finds 46 communities among the
 connected institutions (modularity 0.64). Sixteen of them hold 90+ papers
 each and the rest are tiny fragments of a few papers.
 
+**Most ties stay inside a community.** 71% of the 7,557 institution ties
+(73% of co-authored papers on ties) connect two institutions in the same
+community. Louvain is built to maximise this, so the figure shows that the
+split is clear, not that it is a natural boundary. See
+`docs/figures/collaboration_network_map.svg`.
+
 **The communities are mostly national or regional.** Community 0 is 118 of
 140 institutions French. Community 1 is 89 of 129 Italian. Community 4 is 68
 of 119 Spanish. Community 7 is 56 of 89 Portuguese. Community 11 is 36 of 60

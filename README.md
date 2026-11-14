@@ -56,7 +56,30 @@ Data-preparation notes and ALL/STRICT layer details: see `project-d/README_data_
 
 - `docs/CLUSTERING_AND_INTERPRETATION.md`: method, topic clusters, manual review, sensitivity analysis, network comparison.
 - `docs/INTERPRETATION.md`: answers to the four research questions and what would change the conclusion.
+- `docs/REPORT.md`: combined report for submission (draft for Mabango to proofread).
+- `docs/ai_use_log.md`: AI-use log (each member adds their entries).
+- `project-d/ProjectD_final_slides.pptx`: 13-slide deck, built by `src/build_final_slides.py` from Dev's deck.
 - `docs/figures/`: SVG figures.
-- Scripts: `src/cluster_analysis_screened.py`, `src/cluster_analysis_strict_sensitivity.py`, `src/collaboration_analysis.py`, `src/cluster_network_crosswalk.py`.
+- Scripts: `src/cluster_analysis_screened.py`, `src/cluster_analysis_strict_sensitivity.py`, `src/collaboration_analysis.py`, `src/cluster_network_crosswalk.py`, `src/network_map.py`.
 
 Headline finding: collaboration forms several largely national or regional communities, and topic clusters cut across them.
+
+## Run order
+
+Run from the repository root with the virtual environment active.
+
+| Step | What | Command / file | Needs |
+|---|---|---|---|
+| 1 | Pull OpenAlex works | `python src/openalex_pull.py` | Internet. Raw pulls are not committed |
+| 2 | Clean, deduplicate, build ALL and STRICT | Not scripted in this repository. The steps are documented in `project-d/README_data_preparation.md` and the resulting CSVs are committed in `project-d/data/processed/` | Shifa to add the notebook or script |
+| 3 | Descriptive analysis (RQ1, RQ2) | `python project-d/RQ1RQ2.py` | Prepared CSVs in `project-d/data/processed/` (committed) |
+| 4 | Search validation (RQ4) | `02_search_validation.ipynb` | Internet |
+| 5 | Topic clustering | `python src/cluster_analysis_screened.py`, then `python src/cluster_analysis_strict_sensitivity.py` | Committed CSVs, `docs/health_title_review_decisions.csv`, scikit-learn |
+| 6 | Institution network and venues | `python src/collaboration_analysis.py` | `data/processed/openalex_works_deduplicated.jsonl` (not committed; created by the preparation in step 2) |
+| 7 | Topic clusters vs communities | `python src/cluster_network_crosswalk.py` | Outputs of steps 5 and 6 (committed) |
+| 8 | Network map | `python src/network_map.py` | Output of step 6 (committed) |
+
+Steps 7 and 8 use only the standard library and run on the committed result
+files. The original STRICT-only clustering outputs in
+`data/processed/clustering/strict_only/` are committed, but the script that
+produced them is not in the repository.

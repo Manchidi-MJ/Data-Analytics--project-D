@@ -1,13 +1,11 @@
 """Sensitivity analysis for STRICT AI-in-education records.
 
-Uses the official screened and STRICT CSVs from origin/main.
+Uses the official screened and STRICT CSVs from the working tree.
 Excludes manually reviewed Out of scope records, retains Relevant
 records, and writes results to a separate output directory.
 """
 
 import csv
-import io
-import subprocess
 from collections import Counter
 from pathlib import Path
 
@@ -38,13 +36,9 @@ EU27 = {
 
 
 def read_origin_csv(repo_path):
-  """Read a versioned project CSV from origin/main."""
-  raw = subprocess.check_output(
-      ["git", "show", f"origin/main:{repo_path}"],
-      text=True,
-      encoding="utf-8",
-  )
-  return list(csv.DictReader(io.StringIO(raw)))
+  """Read a project CSV from the working tree (name kept for callers)."""
+  with open(repo_path, newline="", encoding="utf-8") as handle:
+    return list(csv.DictReader(handle))
 
 
 def normalize_id(value):
