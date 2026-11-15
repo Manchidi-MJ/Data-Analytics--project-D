@@ -36,15 +36,19 @@ split is clear, not that it is a natural boundary. See
 of 119 Spanish. Community 7 is 56 of 89 Portuguese. Community 11 is 36 of 60
 Greek. Across all communities, about half of the institutions (51%) belong to
 the community's largest country. At paper level, 52% of papers fall in the most common country of their
-network community, against 19% for a topic cluster. A few communities mix several countries (for example 2, 6, 9 and
+network community (19% would be expected by chance with shuffled labels). The
+19% for topic clusters is the same as chance, but the two partitions have
+different sizes (5 groups vs 46), so compare them through the NMI below, not
+through these percentages. A few communities mix several countries (for example 2, 6, 9 and
 12), so country is a strong tendency, not a rule.
 
 **Topic does not follow the network.** After placing each paper in a
 community (2,772 of 2,972 papers could be placed; the other 200 only have
 isolated institutions), agreement between topic cluster and network
-community is close to zero (NMI 0.027, ARI 0.004). It is the same for topic
-cluster vs country (NMI 0.028). Network community vs country is much higher
-(NMI 0.45). See
+community is close to zero (NMI 0.027, ARI 0.004). Shuffling the community
+labels gives an NMI of 0.014, so the link is real but tiny. It is the same for
+topic cluster vs country (NMI 0.028 against 0.009 shuffled). Network
+community vs country is much higher (NMI 0.45 against 0.04 shuffled). See
 `docs/figures/topic_cluster_vs_network_community.svg`: every community
 contains all five topic groups. Proportions do vary (health papers are 24% of
 community 2 and 6% of community 4, Cramer's V 0.17), but there is no
@@ -64,7 +68,9 @@ which community or country produced it.
 **Clustering vs country baseline.** Topic clusters score a cosine silhouette
 of 0.013 against -0.012 for grouping by country. That is a small edge over
 the baseline, but both values are near zero, so the clusters are weak,
-overlapping groupings. Use them as descriptive themes, not as validated
+overlapping groupings. The silhouette also barely changes with k (0.0087 at
+k=10 to 0.0126 at k=5), so k=5 is a convenient choice, not a clearly better
+one. Use them as descriptive themes, not as validated
 categories. (Figures: `docs/figures/silhouette_topic_vs_country.svg`.)
 
 ## RQ1. Who dominates, and has it shifted since 2020?
@@ -117,8 +123,9 @@ paper.
   non-English at 11%.
 - The search misses papers that use terms such as ChatGPT, chatbot, LLM or
   GenAI without the phrases in the query.
-- About 22-37% of works lost their country, depending on the search and
-  year, so country-based results rest on incomplete affiliation data.
+- 26.5-37.4% of works lost their country, depending on which of the five
+  searches is used (22-35% by year for the AI-in-education search), so
+  country-based results rest on incomplete affiliation data.
 
 ## What would change the conclusion
 

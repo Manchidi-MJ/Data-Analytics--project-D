@@ -24,6 +24,7 @@ in docs/figures/.
 
 import csv
 import math
+import random
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -33,6 +34,8 @@ AFFIL = Path("project-d/data/processed/eu_paper_institution_affiliations.csv")
 OUT = BASE / "crosswalk"
 FIG = Path("docs/figures")
 TOP_COMMUNITIES = 10
+PERMUTATIONS = 200
+SEED = 1
 
 
 def read_csv(path):
@@ -99,6 +102,19 @@ def cramers_v(a, b):
             chi2 += (table.get((i, j), 0) - expected) ** 2 / expected
     k = min(len(ra), len(rb)) - 1
     return math.sqrt(chi2 / (n * k)) if k else 0.0
+
+
+def shuffled_mean(a, b, func, rng):
+    """Mean of func(a, b shuffled) over PERMUTATIONS random shuffles.
+
+    Gives the agreement expected by chance for these partition sizes.
+    """
+    total = 0.0
+    for _ in range(PERMUTATIONS):
+        b2 = b[:]
+        rng.shuffle(b2)
+        total += func(a, b2)
+    return total / PERMUTATIONS
 
 
 def purity(a, b):
@@ -259,6 +275,7 @@ def main():
     comm = [paper_comm[p["openalex_id"]] for p in linked]
     country = [p["dominant_eu_country"] or "NA" for p in linked]
 
+    rng = random.Random(SEED)
     measures = []
     for name, x, y in [
         ("topic cluster vs network community", topic, comm),
@@ -266,12 +283,14 @@ def main():
         ("network community vs dominant country", comm, country),
     ]:
         measures.append(
-            (name, len(linked), round(nmi(x, y), 4), round(ari(x, y), 4),
-             round(cramers_v(x, y), 4))
+            (name, len(linked), round(nmi(x, y), 4),
+             round(shuffled_mean(x, y, nmi, rng), 4),
+             round(ari(x, y), 4), round(cramers_v(x, y), 4))
         )
     write_csv(
         OUT / "agreement_measures.csv",
-        ["comparison", "papers", "nmi", "ari", "cramers_v"],
+        ["comparison", "papers", "nmi", "nmi_shuffled_mean", "ari",
+         "cramers_v"],
         measures,
     )
     write_csv(
@@ -282,7 +301,7 @@ def main():
              round(purity(topic, country), 4)),
             ("network community", "dominant country",
              round(purity(comm, country), 4)),
-        ],
+        ],  # not comparable: 5 groups vs 46, so read with the NMI baseline
     )
 
     # contingency table: topic cluster x top communities (+ other)
@@ -370,13 +389,13 @@ def main():
         FIG / "agreement_nmi.svg",
         "What each partition tracks (normalised mutual information)",
         [m[0] for m in measures], [m[2] for m in measures],
-        "0 = unrelated, 1 = identical partitions.",
+        "0 = unrelated, 1 = identical. Chance level (shuffled labels) is 0.01-0.04.",
     )
 
     print(f"papers linked to a network community: {len(linked)} "
           f"of {len(papers)}")
-    for name, n, nm, ar, cv in measures:
-        print(f"{name}: NMI={nm} ARI={ar} V={cv}")
+    for name, n, nm, nm0, ar, cv in measures:
+        print(f"{name}: NMI={nm} (shuffled {nm0}) ARI={ar} V={cv}")
     print("status:", dict(status))
 
 

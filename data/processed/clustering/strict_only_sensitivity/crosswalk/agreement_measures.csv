@@ -1,4 +1,4 @@
-comparison,papers,nmi,ari,cramers_v
-topic cluster vs network community,2772,0.0265,0.0038,0.1732
-topic cluster vs dominant country,2772,0.0279,0.0013,0.1713
-network community vs dominant country,2772,0.4516,0.2725,0.4655
+comparison,papers,nmi,nmi_shuffled_mean,ari,cramers_v
+topic cluster vs network community,2772,0.0265,0.0136,0.0038,0.1732
+topic cluster vs dominant country,2772,0.0279,0.0089,0.0013,0.1713
+network community vs dominant country,2772,0.4516,0.0426,0.2725,0.4655

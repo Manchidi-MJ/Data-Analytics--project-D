@@ -94,7 +94,7 @@ class Slide:
 
     def title(self, text, colour=DARK):
         self.text(548640, 365760, 11064240, 822960, [
-            dict(text=text, size=3400, bold=True, colour=colour,
+            dict(text=text, size=3200, bold=True, colour=colour,
                  font="Cambria")], anchor="ctr")
 
     def stat(self, x, y, big, label, colour=TEAL):
@@ -152,7 +152,7 @@ def build_slides():
                  "topic categories.")
 
     s11 = Slide("Slide 11")
-    s11.title("RQ3: Several collaboration communities, mostly national")
+    s11.title("RQ3: Several communities, mostly national")
     s11.bullets(548640, 1463040, left_w, 4389120, [
         "1,641 EU27 institutions, 7,557 co-authorship ties, 139 with no EU27 "
         "collaborator",
@@ -172,8 +172,8 @@ def build_slides():
     s12.bullets(548640, 1463040, left_w, 4389120, [
         "Each paper placed in the community of its institutions "
         "(2,772 of 2,972 papers)",
-        "Topic cluster vs network community: almost no overlap",
-        "Community vs country: much stronger overlap",
+        "Topic cluster vs network community: barely above chance (NMI 0.03 vs 0.01 if shuffled)",
+        "Community vs country: far above chance (NMI 0.45 vs 0.04 if shuffled)",
         "Every community contains all five topics, so the same themes, such "
         "as generative AI in higher education, are studied in many countries "
         "by groups that rarely co-author",
@@ -193,7 +193,7 @@ def build_slides():
         "AI-in-education papers",
         "English papers found at 28%, non-English at 11%",
         "Misses use terms such as ChatGPT, chatbot, LLM and GenAI",
-        "22-37% of works lost their country",
+        "26-37% of works lost their country, by search",
     ])
     s13.stat(right_x, 1554480, "80%", "precision (over-capture 20%)")
     s13.stat(right_x, 3566160, "21%", "recall (under-capture 79%)", ORANGE)
