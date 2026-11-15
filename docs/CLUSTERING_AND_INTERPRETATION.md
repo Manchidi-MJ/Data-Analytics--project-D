@@ -95,9 +95,10 @@ prove that the research field is fragmented.
 `src/cluster_network_crosswalk.py` assigns each paper to the plurality
 network community of its EU27 institutions (2,772 of 2,972 papers; 200
 papers only have isolated institutions). Agreement is near zero: NMI 0.027
-and ARI 0.004 between topic cluster and network community, and NMI 0.028
-between topic cluster and dominant country. Network community and dominant
-country agree far more (NMI 0.45). Communities are therefore mostly
+and ARI 0.004 between topic cluster and network community (0.014 when the
+community labels are shuffled), and NMI 0.028 between topic cluster and
+dominant country (0.009 shuffled). Network community and dominant country
+agree far more (NMI 0.45, against 0.04 shuffled). Communities are therefore mostly
 geographic, and each contains all topic groups. Tables are written to
 `data/processed/clustering/strict_only_sensitivity/crosswalk/` and figures
 to `docs/figures/`. See `docs/INTERPRETATION.md` for the full discussion.

@@ -18,6 +18,7 @@ Shifa owns this file (guide, Step 9.3).
 | 2026-11-14 | Kiro, same | Write `src/cluster_network_crosswalk.py` and `src/network_map.py` (standard library only), generate SVG figures and crosswalk CSVs | Outputs come from committed CSVs. John should re-run both scripts and check the figures render correctly |
 | 2026-11-14 | Kiro, same | Draft `docs/INTERPRETATION.md`, `docs/REPORT.md` and slides for RQ3, RQ4 and the conclusions | Numbers for RQ1, RQ2 and RQ4 were read from Dev's and Mabango's files. The text is a draft that John, Dev and Mabango must check and rewrite in their own words |
 | 2026-11-14 | Kiro, same | Change `src/` scripts to read project CSVs from the working tree and fix the review-file path | Not re-run: the environment lacked pandas, scikit-learn and the local JSONL file. Run them before submitting |
+| 2026-11-14 | Kiro, same | Check the earlier work: recompute numbers from the result CSVs, add a shuffled-label baseline to the cluster/community comparison, correct the missing-country range, add the weak-k-dependence caveat, and build `src/build_rq3_slides.py` (7 slides with speaker notes) | The deck draws its numbers from the CSVs. John must open it in PowerPoint (not viewed here), and rewrite the speaker notes in his own words |
 
 Effort and cost: one working session. The tool does not report token cost.
 

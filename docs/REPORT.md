@@ -119,7 +119,9 @@ against the original assignment).
 **Method evaluation.** Topic clusters score a cosine silhouette of 0.013
 against -0.012 for the country baseline. Topic grouping is slightly better
 than country grouping, but both values are near zero. The clusters overlap
-heavily and are best read as broad themes, not sharply separated topics. We
+heavily and are best read as broad themes, not sharply separated topics.
+Silhouette changes little with k (0.0087 to 0.0126 for k=4 to 10), so k=5 is
+a convenient choice, not a clearly better one. We
 report this rather than tuning k to make the score look better.
 
 ![Silhouette: topic clusters vs country baseline](figures/silhouette_topic_vs_country.svg)
@@ -140,15 +142,15 @@ Greek. Several others mix countries (2, 6, 9, 12).
 
 ### 3.5 Do topics follow collaboration? (RQ3, John)
 
-| Comparison | NMI | ARI |
-|---|---:|---:|
-| Topic cluster vs network community | 0.027 | 0.004 |
-| Topic cluster vs dominant country | 0.028 | 0.001 |
-| Network community vs dominant country | 0.452 | 0.273 |
+| Comparison | NMI | NMI if labels shuffled | ARI |
+|---|---:|---:|---:|
+| Topic cluster vs network community | 0.027 | 0.014 | 0.004 |
+| Topic cluster vs dominant country | 0.028 | 0.009 | 0.001 |
+| Network community vs dominant country | 0.452 | 0.043 | 0.273 |
 
-Topic clusters and network communities almost do not overlap, while
-communities and countries overlap a lot. Each community contains all five
-topic groups.
+Topic clusters and network communities overlap only slightly more than
+chance, while communities and countries overlap far above chance. Each
+community contains all five topic groups.
 
 ![Topic clusters across network communities](figures/topic_cluster_vs_network_community.svg)
 
@@ -161,7 +163,7 @@ topic groups.
 | Precision, 100-paper audit (Unclear left out) | 79.8% (95% CI 70.6-86.7%) |
 | Recall against 200 OpenAlex AI-in-education EU papers | 21.0% (95% CI 15.9-27.2%) |
 | Recall, English / non-English | 28.2% / 10.8% |
-| Works with no country, by search and year | about 22-37% |
+| Works with no country | 26.5-37.4% across the five searches |
 
 Common false positives are AI papers with no education link and health or
 patient education. Missed papers often use terms such as ChatGPT, chatbot,
@@ -201,8 +203,7 @@ See `docs/INTERPRETATION.md` for the research-question-by-question answers.
   would test it.
 - **Weak text clusters.** Silhouette near 0.01 means the themes overlap.
   OpenAlex concepts or sentence embeddings might separate topics better.
-- **Missing affiliations.** About a fifth to a third of works lost their
-  country, so country-based results rest on incomplete data. The network
+- **Missing affiliations.** 26.5-37.4% of works lost their country, so country-based results rest on incomplete data. The network
   analysis matched 2,908 of 2,972 papers to local records.
 - **2026 is a partial year, and STRICT is provisional.**
 - **Scope of "AI in education".** If AI-assisted patient education counts,
