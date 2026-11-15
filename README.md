@@ -59,7 +59,7 @@ Data-preparation notes and ALL/STRICT layer details: see `project-d/README_data_
 - `docs/REPORT.md`: combined report for submission (draft for Mabango to proofread).
 - `docs/ai_use_log.md`: AI-use log (each member adds their entries).
 - `project-d/ProjectD_final_slides.pptx`: 13-slide deck, built by `src/build_final_slides.py` from Dev's deck.
-- `project-d/ProjectD_RQ3_slides.pptx`: 7-slide deck for John's RQ3 section with speaker notes, built by `src/build_rq3_slides.py` from the result CSVs.
+- `project-d/Manchidi.pptx`: 7-slide deck for John's RQ3 section with speaker notes, built by `src/build_rq3_slides.py` from the result CSVs.
 - `docs/figures/`: SVG figures.
 - Scripts: `src/cluster_analysis_screened.py`, `src/cluster_analysis_strict_sensitivity.py`, `src/collaboration_analysis.py`, `src/cluster_network_crosswalk.py`, `src/network_map.py`, `src/build_rq3_slides.py`.
 

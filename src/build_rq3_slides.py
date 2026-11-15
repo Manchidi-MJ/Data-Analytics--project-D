@@ -10,7 +10,7 @@ carries speaker notes.
 
 Input : project-d/ProjectD_RQ1_RQ2_slides.pptx (template only, unchanged)
         data/processed/clustering/strict_only_sensitivity/ (result CSVs)
-Output: project-d/ProjectD_RQ3_slides.pptx
+Output: project-d/Manchidi.pptx
 """
 
 import csv
@@ -25,7 +25,7 @@ sys.path.insert(0, "src")
 import network_map  # noqa: E402  (layout helper, same folder)
 
 TEMPLATE = Path("project-d/ProjectD_RQ1_RQ2_slides.pptx")
-OUT = Path("project-d/ProjectD_RQ3_slides.pptx")
+OUT = Path("project-d/Manchidi.pptx")
 BASE = Path("data/processed/clustering/strict_only_sensitivity")
 
 DARK, TEAL, ORANGE, INK, CARD, MUTED = (
@@ -262,10 +262,7 @@ def slide_title(d):
         "I am John Magaseng Manchidi. My part is RQ3: do the institutions "
         "that publish AI-in-education research form one collaboration "
         "community or several, and do research topics follow those "
-        "communities?\n"
-        "Dev covered who leads and how output grew, and Mabango covered what "
-        "our search misses. I used their tables as context and built on the "
-        "same data."))
+        "communities?"))
     s.text(731520, 1280160, 10515600, 548640,
            [para("Project D  |  RQ3", 2000, LIGHT_TEAL, True)], "ctr")
     s.text(731520, 1828800, 10515600, 1645920, [
@@ -701,8 +698,7 @@ def package(slides):
     app = re.sub(r"<Notes>\d+</Notes>", f"<Notes>{n}</Notes>", app)
     files["docProps/app.xml"] = app.encode("utf-8")
     core = files["docProps/core.xml"].decode("utf-8")
-    core = core.replace("Project D: RQ1 and RQ2", "Project D: RQ3 clustering "
-                        "and interpretation")
+    core = core.replace("Project D: RQ1 and RQ2", "Manchidi")
     files["docProps/core.xml"] = core.encode("utf-8")
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
