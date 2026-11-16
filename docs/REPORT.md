@@ -6,8 +6,7 @@ Team: Shifa Kayumbhai Bhari (data), Dev Charan (descriptive analysis),
 Mabango Nyikuri (search validation), Panchumarthi Keerthana (collaboration
 networks), Magaseng John Manchidi (clustering and interpretation).
 
-> Draft assembled from the team's documents. Mabango proofreads (guide,
-> Step 9.1). Section sources are named so each owner can check their numbers.
+> Each section names its source file and owner so the numbers can be traced.
 
 ## 1. Question and answer
 
@@ -51,14 +50,21 @@ and KMeans on TF-IDF is simple, repeatable and easy to explain. We evaluate
 with cosine silhouette (sample of up to 2,000 records) and compare against a
 baseline that groups papers by dominant country.
 
-### Network method
+### Network method (Keerthana)
 
-*Source: `src/collaboration_analysis.py`.* Institutions are nodes and
-co-authored papers are weighted edges, using EU27 affiliations with explicit
-or uniquely inferred country metadata. Louvain community detection runs on
-the non-isolated network. Topic clusters are linked to communities by
-placing each paper in the plurality community of its institutions
-(`src/cluster_network_crosswalk.py`).
+*Source: `project-d/data/raw/Collaboration_Networks.ipynb`.* Nodes are the
+2,489 EU institutions in the candidate set (ALL). Two institutions are linked
+when they appear on the same paper, weighted by the number of shared papers.
+Centrality and Louvain communities (weighted, seed 42) are computed on the
+largest connected component, and communities are compared with a partition
+by country on the same graph.
+
+**Cross-check on the cleaned set (John).** `src/collaboration_analysis.py`
+rebuilds the network on the 2,972 STRICT papers that remain after manual
+review. `src/cluster_network_crosswalk.py` then places each paper in the
+plurality community of its institutions so topic clusters can be compared
+with communities. The two networks use different paper sets, so their counts
+differ; section 3.4 compares them.
 
 ## 3. Results
 
@@ -121,24 +127,62 @@ against -0.012 for the country baseline. Topic grouping is slightly better
 than country grouping, but both values are near zero. The clusters overlap
 heavily and are best read as broad themes, not sharply separated topics.
 Silhouette changes little with k (0.0087 to 0.0126 for k=4 to 10), so k=5 is
-a convenient choice, not a clearly better one. We
-report this rather than tuning k to make the score look better.
+a convenient choice, not a clearly better one. We report this rather than
+tuning k to make the score look better.
 
 ![Silhouette: topic clusters vs country baseline](figures/silhouette_topic_vs_country.svg)
 
-### 3.4 Collaboration communities (RQ3, network analysis)
+### 3.4 Collaboration communities (RQ3, Keerthana)
 
-The network has 1,641 institutions, 7,557 ties and 168 connected components.
-139 institutions have no EU27 collaborator. Louvain finds 46 communities
-(modularity 0.64), of which 16 hold more than 90 papers each. 71% of ties
-stay inside a community.
+*Source: `project-d/data/raw/RQ3_collaboration_networks_report_section.md`
+and `network_*.csv` in the same folder.*
 
-![Collaboration communities](figures/collaboration_network_map.svg)
+The 2,489 institutions are joined by 13,408 links (density 0.4%). The
+largest connected component holds 2,124 institutions (85.3%), and 279
+institutions have no EU co-author.
 
-The large communities follow countries: community 0 is 118 of 140
-institutions French, community 1 is 89 of 129 Italian, community 4 is 68 of
-119 Spanish, community 7 is 56 of 89 Portuguese and community 11 is 36 of 60
-Greek. Several others mix countries (2, 6, 9, 12).
+**Hubs.** CNRS is the main hub: 455 weighted links to 263 partners and the
+highest betweenness (0.11, more than twice the next institution). Inserm
+(304), LMU Munich (220), the University of Bonn (210) and Sorbonne Université
+(187) follow. Bonn and Leibniz University Hannover have high weighted degree
+with few partners (69 and 27), which points to repeated work among the same
+institutions.
+
+**Several communities, shaped by country.** Louvain finds 17 communities, 14
+with at least 30 institutions. The French-led community is 90% French, the
+German-led 75%, the Portuguese 71% and the Spanish 67%. Others mix: the
+Dutch-led community is 32% Dutch and the Finnish-led one 23% Finnish, with
+Nordic and Benelux partners. Modularity is 0.59 for Louvain against 0.50 for
+grouping by country, and 38% of link weight crosses a national border. The
+most frequent country pairs are Germany-Italy (76 joint papers),
+Germany-Netherlands (76) and Spain-Italy (73).
+
+![Collaboration network (Keerthana)](figures/keerthana_network_map.png)
+
+**Robustness.** Keeping only "Likely relevant" papers, dropping papers with
+more than 10 institutions, or keeping only repeated links gives 15 to 17
+communities and modularity of 0.59 to 0.75, always above the country
+baseline. CNRS, Inserm and the University of Bonn stay in the top five by
+weighted degree in every variant.
+
+**Cross-check on the cleaned STRICT set (John).** On the 2,972 reviewed
+STRICT papers the network is smaller (1,641 institutions, 7,557 links) and
+splits more finely: 46 communities, 16 of them large, modularity 0.64. 71% of
+ties stay inside a community. The large communities again follow countries
+(France 118 of 140 institutions, Italy 89 of 129, Spain 68 of 119, Portugal
+56 of 89). The exact count of communities depends on the paper set, but both
+networks give the same answer: several communities, mostly national or
+regional, with some mixed ones.
+
+| | Main network (ALL) | Cross-check (STRICT, reviewed) |
+|---|---:|---:|
+| Papers | 7,594 candidates | 2,972 |
+| Institutions | 2,489 | 1,641 |
+| Links | 13,408 | 7,557 |
+| Louvain communities | 17 (14 large) | 46 (16 large) |
+| Modularity | 0.59 | 0.64 |
+
+![Communities in the STRICT cross-check](figures/collaboration_network_map.svg)
 
 ### 3.5 Do topics follow collaboration? (RQ3, John)
 
@@ -175,9 +219,11 @@ LLM or GenAI without the query phrases, and many are not in English.
    candidate papers and no venue dominates. The early ranking (2020-2022)
    was thin and has since been reshuffled by rapid growth, while the
    University of Eastern Finland stays near the top.
-2. **Collaboration is local.** Most ties are inside a community, and the
-   large communities are mostly national or regional. Cross-border
-   collaboration exists, but it is the exception.
+2. **Collaboration is mostly national or regional.** The large communities
+   are each led by one country, and CNRS and Inserm anchor the biggest
+   French one. Cross-border work is real but a minority: 38% of link weight
+   crosses a national border, mostly between neighbours or large partners
+   (Germany-Italy, Germany-Netherlands, Spain-Italy).
 3. **Topic and collaboration are separate dimensions.** The same themes,
    such as generative AI in higher education, are studied in many countries
    by groups that rarely co-author. A "who works on what" story based on
@@ -198,13 +244,16 @@ See `docs/INTERPRETATION.md` for the research-question-by-question answers.
 - **EU27 scope.** The network ignores collaboration with the UK,
   Switzerland, Norway and non-European partners. Including them could merge
   communities.
-- **Louvain splits sparse graphs.** The count of 46 communities depends on
-  the algorithm and graph definition. A sensitivity run with other settings
-  would test it.
+- **Louvain is a heuristic.** The number of communities depends on the
+  paper set (17 on ALL, 46 on the reviewed STRICT set), the seed and the
+  resolution. Keerthana's sensitivity runs keep 15 to 17 communities on ALL.
+- **Umbrella organisations.** CNRS and Inserm group many laboratories under
+  one name, which inflates their centrality.
 - **Weak text clusters.** Silhouette near 0.01 means the themes overlap.
   OpenAlex concepts or sentence embeddings might separate topics better.
-- **Missing affiliations.** 26.5-37.4% of works lost their country, so country-based results rest on incomplete data. The network
-  analysis matched 2,908 of 2,972 papers to local records.
+- **Missing affiliations.** 26.5-37.4% of works lost their country, so
+  country-based results rest on incomplete data. The STRICT cross-check
+  matched 2,908 of 2,972 papers to local records.
 - **2026 is a partial year, and STRICT is provisional.**
 - **Scope of "AI in education".** If AI-assisted patient education counts,
   part of the excluded health cluster returns.
@@ -212,7 +261,11 @@ See `docs/INTERPRETATION.md` for the research-question-by-question answers.
 ## 6. Reproducibility
 
 See the README for the run order. The pipeline needs the OpenAlex pull,
-which is not committed, and the Python packages in `requirements.txt`.
+which is not committed, and the Python packages in `requirements.txt`. The
+cleaning step that builds ALL and STRICT is documented in
+`project-d/README_data_preparation.md`; its code is not yet in the
+repository, so the prepared CSVs in `project-d/data/processed/` are the
+starting point for every analysis.
 
 ## 7. AI use
 

@@ -4,8 +4,10 @@ Research question: *Which European institutions and venues drive research on
 AI in education since 2020, and do they form one collaboration community or
 several?*
 
-Numbers come from the STRICT likely-relevant sensitivity population
-(2,972 papers) unless stated otherwise. Methods are in
+Network numbers in the first paragraph come from Keerthana's main network
+on all 7,594 candidates. The rest of this file uses the STRICT
+likely-relevant sensitivity population (2,972 papers) unless stated
+otherwise. Methods are in
 `docs/CLUSTERING_AND_INTERPRETATION.md`. The topic-cluster vs network
 comparison is produced by `src/cluster_network_crosswalk.py`.
 
@@ -19,7 +21,15 @@ appear in every community.
 
 ## RQ3. One community or several? What do the topic clusters add?
 
-**Several communities.** The co-authorship network has 1,641 EU27
+**Several communities.** Keerthana's main network links 2,489 EU
+institutions with 13,408 links. Louvain finds 17 communities (14 large,
+modularity 0.59 against 0.50 for grouping by country), and 38% of link
+weight crosses a national border. The French-led community is 90% French,
+the German-led 75%, and the Dutch- and Finnish-led ones are mixed. Her
+sensitivity runs keep 15 to 17 communities.
+
+My cross-check on the reviewed STRICT set gives the same answer with finer
+splits. That co-authorship network has 1,641 EU27
 institutions, 7,557 edges and 168 connected components, and 139 institutions
 have no EU27 collaborator at all. Louvain finds 46 communities among the
 connected institutions (modularity 0.64). Sixteen of them hold 90+ papers
