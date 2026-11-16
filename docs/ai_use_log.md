@@ -19,6 +19,7 @@ Shifa owns this file (guide, Step 9.3).
 | 2026-11-14 | Kiro, same | Draft `docs/INTERPRETATION.md`, `docs/REPORT.md` and slides for RQ3, RQ4 and the conclusions | Numbers for RQ1, RQ2 and RQ4 were read from Dev's and Mabango's files. The text is a draft that John, Dev and Mabango must check and rewrite in their own words |
 | 2026-11-14 | Kiro, same | Change `src/` scripts to read project CSVs from the working tree and fix the review-file path | Not re-run: the environment lacked pandas, scikit-learn and the local JSONL file. Run them before submitting |
 | 2026-11-14 | Kiro, same | Check the earlier work: recompute numbers from the result CSVs, add a shuffled-label baseline to the cluster/community comparison, correct the missing-country range, add the weak-k-dependence caveat, and build `src/build_rq3_slides.py` (7 slides with speaker notes) | The deck draws its numbers from the CSVs. John must open it in PowerPoint (not viewed here), and rewrite the speaker notes in his own words |
+| 2026-11-16 | Kiro, same | Bring Keerthana's network work into the report as the main network, keep John's STRICT network as a cross-check, proofread `docs/REPORT.md`, and rebuild `project-d/ProjectD_final_slides.pptx` as an 11-slide team deck (Dev's slides 1, 2, 3, 6, 7, Keerthana's network map, John's RQ3 slides, RQ4, closing) | Team-wide edits made at John's request. Each owner should check the sections and slides about their work. Not viewed in PowerPoint |
 
 Effort and cost: one working session. The tool does not report token cost.
 
